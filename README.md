@@ -8,7 +8,7 @@ Building scalable, research-driven artificial intelligence systems across machin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
-[![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla__08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla_08)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publications-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saurav-Singla-4)
 
@@ -60,8 +60,7 @@ My research covers graph machine learning, temporal graphs, scalable AI, increme
 
 - [ResearchGate publications](https://www.researchgate.net/profile/Saurav-Singla-4)
 - [Technical articles on Medium](https://sauravsingla08.medium.com)
-- [HackerNoon author profile](https://hackernoon.com/u/sauravsingla_08)
-- [The Importance of Hypothesis Testing — HackerNoon](https://hackernoon.com/the-importance-of-hypothesis-testing-0l2d3tcy)
+- [HackerNoon author profile](https://hackernoon.com/u/sauravsingla08)
 - [Hugging Face models](https://huggingface.co/sauravsingla08)
 
 ## Book & Course
