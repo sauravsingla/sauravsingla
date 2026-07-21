@@ -10,6 +10,7 @@ Building scalable AI systems across Graph AI, Generative AI, temporal machine le
 [![X](https://img.shields.io/badge/X-@sauravsingla__08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Saurav%20Singla-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
 [![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
@@ -63,6 +64,7 @@ I combine research, hands-on engineering and open-source contribution to develop
 
 My research covers graph machine learning, temporal graphs, scalable AI, incremental learning, knowledge distillation, anomaly detection, reinforcement learning and high-performance computing. My published work includes research presented through IEEE and Springer venues.
 
+- [Google Scholar profile](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 - [ORCID researcher profile](https://orcid.org/0000-0002-6404-3988)
 - [ResearchGate publications](https://www.researchgate.net/profile/Saurav-Singla-4)
 - [Technical writing on Medium](https://sauravsingla08.medium.com)
