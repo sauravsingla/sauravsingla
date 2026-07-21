@@ -2,7 +2,7 @@
 
 # Hi, I'm Saurav Singla 👋
 
-### AI & Data Science Leader · Graph AI · Generative AI · GPU Computing · Open Source
+### AI & Data Science Leader · Graph AI Researcher · Generative AI · CUDA · Open Source
 
 Building scalable AI systems across Graph AI, Generative AI, temporal machine learning, GPU-accelerated computing and production-grade MLOps.
 
@@ -39,7 +39,7 @@ I am an AI and Data Science leader with 20+ years of experience translating adva
 
 ## External Open-Source Contribution
 
-- [NVIDIA RAPIDS cuGraph pull request](https://github.com/rapidsai/cugraph/pull/5584) — algorithm correctness, testing and compatibility work for GPU-accelerated graph analytics
+- [NVIDIA RAPIDS cuGraph pull request](https://github.com/rapidsai/cugraph/pull/5584) — sampled edge-betweenness centrality scaling, Python compatibility, regression testing and algorithm-correctness work for GPU-accelerated graph analytics
 
 ## Featured Technical Projects
 
@@ -63,9 +63,7 @@ Scalable temporal motif mining for large-scale transaction networks and high-per
 #### [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
 Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.
 
-- [Google Scholar profile](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
-- [ORCID researcher profile](https://orcid.org/0000-0002-6404-3988)
-- [ResearchGate publications](https://www.researchgate.net/profile/Saurav-Singla-4)
+**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4)
 
 ## Book, Course & Technical Writing
 
@@ -81,8 +79,6 @@ Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ens
 
 ## Technical Focus
 
-- Open-source contributions to graph analytics and GPU computing
 - Graph AI, temporal graph learning and scalable graph algorithms
 - Generative AI, LLMs, Agentic AI and retrieval-augmented systems
-- CUDA, NVIDIA RAPIDS, cuGraph and reproducible performance testing
-- Production-grade MLOps, observability and AI system reliability
+- CUDA, NVIDIA RAPIDS, cuGraph, MLOps and reliable AI systems
