@@ -2,13 +2,13 @@
 
 # Hi, I'm Saurav Singla 👋
 
-### AI & Data Science Leader | Machine Learning | Graph AI | Generative AI | GPU Computing | Open Source
+### AI & Data Science Leader · Machine Learning · Graph AI · Generative AI · GPU Computing · Open Source
 
 Building scalable, research-driven Artificial Intelligence systems across machine learning, graph neural networks, deep learning, large language models, CUDA, MLOps and high-performance computing.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sauravsingla-181717?logo=github&logoColor=white)](https://github.com/sauravsingla)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
-[![Medium](https://img.shields.io/badge/Medium-Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
+[![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publications-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saurav-Singla-4)
 
@@ -41,7 +41,7 @@ I enjoy solving complex technical problems, building scalable AI platforms, cont
 ## Current Focus
 
 - Graph AI, Graph Neural Networks and temporal graph learning
-- Generative AI, Large Language Models, Agentic AI and RAG
+- Generative AI, Large Language Models, Agentic AI and Retrieval-Augmented Generation
 - CUDA, NVIDIA RAPIDS, cuGraph and GPU-accelerated analytics
 - Scalable machine learning systems and high-performance computing
 - MLOps, LLMOps, testing, observability and reproducible AI
@@ -50,26 +50,15 @@ I enjoy solving complex technical problems, building scalable AI platforms, cont
 
 ## Featured Repositories
 
-### [Time Series](https://github.com/sauravsingla/Time_Series)
-Practical notebooks and implementations for time-series analysis, forecasting, feature engineering and predictive modelling.
-
-### [Data Visualisation](https://github.com/sauravsingla/Data_Visualisation)
-Examples and tutorials for communicating data insights through effective statistical and analytical visualisation.
-
-### [Outlier Detection Tutorials](https://github.com/sauravsingla/Outlier_Detection_Tutorials)
-Hands-on implementations of anomaly and outlier detection techniques for machine learning and data science.
-
-### [GNN Graph Classification](https://github.com/sauravsingla/gnn-graph-classification)
-Research-oriented experiments for graph neural networks and graph-level classification.
-
-### [Topology-Aware Temporal Graph Networks](https://github.com/sauravsingla/tgn-topology-aware)
-Exploration of temporal graph learning with topology-aware modelling approaches.
-
-### [Cross-Modal Knowledge Distillation Framework](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework)
-Experiments in knowledge transfer, representation learning and efficient machine learning models.
-
-### [Transformer-Based Pre-Trained NLP Models](https://github.com/sauravsingla/Transformer-Based-Pre-Trained-NLP-Models)
-Comparative work with transformer architectures and pre-trained natural-language-processing models.
+| Repository | Focus |
+|---|---|
+| [Time Series](https://github.com/sauravsingla/Time_Series) | Forecasting, feature engineering and predictive modelling |
+| [Data Visualisation](https://github.com/sauravsingla/Data_Visualisation) | Statistical and analytical visualisation tutorials |
+| [Outlier Detection Tutorials](https://github.com/sauravsingla/Outlier_Detection_Tutorials) | Practical anomaly and outlier detection methods |
+| [GNN Graph Classification](https://github.com/sauravsingla/gnn-graph-classification) | Graph neural networks and graph-level classification |
+| [Topology-Aware Temporal Graph Networks](https://github.com/sauravsingla/tgn-topology-aware) | Temporal graph learning and topology-aware modelling |
+| [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | Knowledge transfer and efficient representation learning |
+| [Transformer-Based NLP Models](https://github.com/sauravsingla/Transformer-Based-Pre-Trained-NLP-Models) | Comparative experiments with transformer architectures |
 
 ## Research & Publications
 
