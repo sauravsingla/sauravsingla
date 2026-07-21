@@ -7,22 +7,17 @@
 Building scalable AI systems across Graph AI, Generative AI, temporal machine learning, GPU-accelerated computing and production-grade MLOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
-[![X](https://img.shields.io/badge/X-@sauravsingla__08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
-[![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
-[![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Saurav%20Singla-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
-[![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publications-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saurav-Singla-4)
+[![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
+[![X](https://img.shields.io/badge/X-@sauravsingla_08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
 
 </div>
 
 ## About Me
 
-I am an AI and Data Science leader with 20+ years of experience converting advanced research into scalable, production-ready systems. My work focuses on Graph AI, temporal learning, Generative AI, GPU-accelerated analytics and reliable machine learning platforms.
-
-I combine research, hands-on engineering and open-source contribution to develop reproducible AI solutions that perform reliably at scale.
+I am an AI and Data Science leader with 20+ years of experience translating advanced research into scalable, production-ready systems. My work spans Graph AI, temporal learning, Generative AI, GPU-accelerated analytics and reliable machine-learning platforms. I combine research, hands-on engineering, published work and open-source contribution to build reproducible AI systems designed for real-world scale.
 
 ## Core Expertise
 
@@ -42,15 +37,11 @@ I combine research, hands-on engineering and open-source contribution to develop
 - **Engineering:** Python, SQL, C++, Docker, Kubernetes, CI/CD, MLOps, LLMOps, observability and testing
 - **Applied modelling:** Time series, anomaly detection, incremental learning and knowledge distillation
 
-## Open-Source Contributions
+## External Open-Source Contribution
 
-- [NVIDIA RAPIDS cuGraph contribution](https://github.com/rapidsai/cugraph/pull/5584) — algorithm correctness, testing and compatibility work for GPU-accelerated graph analytics
-- [Topology-Aware Temporal Graph Networks](https://github.com/sauravsingla/tgn-topology-aware) — temporal graph modelling that combines evolving interactions with graph topology
-- [GNN Graph Classification](https://github.com/sauravsingla/gnn-graph-classification) — reproducible graph-level learning implementations using graph neural networks
-- [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) — efficient teacher-student learning across multiple data modalities
-- [Time Series](https://github.com/sauravsingla/Time_Series) — practical forecasting, feature engineering and predictive modelling workflows
+- [NVIDIA RAPIDS cuGraph pull request](https://github.com/rapidsai/cugraph/pull/5584) — algorithm correctness, testing and compatibility work for GPU-accelerated graph analytics
 
-## Featured Projects
+## Featured Technical Projects
 
 | Repository | Focus and Differentiation |
 |---|---|
@@ -67,12 +58,18 @@ My research covers graph machine learning, temporal graphs, scalable AI, increme
 - [Google Scholar profile](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 - [ORCID researcher profile](https://orcid.org/0000-0002-6404-3988)
 - [ResearchGate publications](https://www.researchgate.net/profile/Saurav-Singla-4)
-- [Technical writing on Medium](https://sauravsingla08.medium.com)
 
-## Book & Course
+## Book, Course & Technical Writing
 
 - **Book:** [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ) — BPB Publications, 2021
 - **Course:** [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/) — statistics, regression, time series and applied analytics
+- **Technical writing:** [Medium](https://sauravsingla08.medium.com)
+
+## Writing & Community Profiles
+
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
+[![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 
 ## Technical Focus
 
