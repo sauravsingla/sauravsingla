@@ -57,13 +57,11 @@ My research covers graph machine learning, temporal graphs, scalable AI, increme
 
 ### Selected Publications
 
-#### Towards Scalable Mining of Temporal Graph Motifs over Large-Scale Transaction Networks
-Scalable temporal motif mining for large-scale transaction networks and high-performance graph analytics.  
-[📄 IEEE Xplore](https://ieeexplore.ieee.org/document/11459239)
+#### [Towards Scalable Mining of Temporal Graph Motifs over Large-Scale Transaction Networks](https://ieeexplore.ieee.org/document/11459239)
+Scalable temporal motif mining for large-scale transaction networks and high-performance graph analytics.
 
-#### Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies
-Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.  
-[📄 IEEE Xplore](https://ieeexplore.ieee.org/document/11402449)
+#### [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
+Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.
 
 - [Google Scholar profile](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 - [ORCID researcher profile](https://orcid.org/0000-0002-6404-3988)
