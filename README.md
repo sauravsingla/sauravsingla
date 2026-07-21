@@ -7,6 +7,7 @@
 Building scalable AI systems across Graph AI, Generative AI, temporal machine learning, GPU-accelerated computing and production-grade MLOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
+[![X](https://img.shields.io/badge/X-@sauravsingla__08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
