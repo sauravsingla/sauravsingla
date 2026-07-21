@@ -55,6 +55,18 @@ I am an AI and Data Science leader with 20+ years of experience translating adva
 
 My research covers graph machine learning, temporal graphs, scalable AI, incremental learning, knowledge distillation, anomaly detection, reinforcement learning and high-performance computing. My published work includes research presented through IEEE and Springer venues.
 
+### Selected Publications
+
+#### GRADES: Graph Representation Learning for Large-Scale Dynamic Event Streams
+**ACM SIGMOD GRADES Workshop, 2025**  
+Graph representation learning for large-scale temporal event streams with scalable graph analytics.  
+[📄 Paper](https://ieeexplore.ieee.org/document/11459239)
+
+#### Scalable Temporal Centrality Analysis on Massive Transaction Graphs
+**IEEE HiPC Workshop, 2024**  
+Large-scale temporal graph analytics using GPU-accelerated computation for billion-edge transaction networks.  
+[📄 Paper](https://ieeexplore.ieee.org/document/11402449)
+
 - [Google Scholar profile](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 - [ORCID researcher profile](https://orcid.org/0000-0002-6404-3988)
 - [ResearchGate publications](https://www.researchgate.net/profile/Saurav-Singla-4)
