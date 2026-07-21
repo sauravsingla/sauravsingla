@@ -74,18 +74,6 @@ My published work includes research presented through **IEEE** and **Springer** 
 
 I contribute to and explore open-source projects related to Python, machine learning, graph algorithms, GPU computing, scalable AI systems, testing frameworks and reproducible research. I am particularly interested in improving graph analytics, algorithm correctness, benchmark quality and developer-facing documentation.
 
-## GitHub Activity
-
-<div align="center">
-
-![Saurav Singla's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravsingla&show_icons=true&hide_border=true&include_all_commits=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravsingla&layout=compact&hide_border=true)
-
-![GitHub contribution streak](https://streak-stats.demolab.com?user=sauravsingla&hide_border=true)
-
-</div>
-
 ## Connect
 
 - [GitHub](https://github.com/sauravsingla)
