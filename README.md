@@ -19,6 +19,12 @@ Building scalable AI systems across Graph AI, Generative AI, temporal machine le
 
 I am an AI and Data Science leader with 20+ years of experience translating advanced research into scalable, production-ready systems. My work spans Graph AI, temporal learning, Generative AI, GPU-accelerated analytics and reliable machine-learning platforms. I combine research, hands-on engineering, published work and open-source contribution to build reproducible AI systems designed for real-world scale. I have led production-scale AI and graph analytics initiatives across large, high-volume digital ecosystems, spanning fraud intelligence, anomaly detection, federated AI and responsible AI governance.
 
+## Selected Impact
+
+- Led AI initiatives for one of the world's largest real-time digital payments ecosystems.
+- Built production AI systems for fraud detection, mule detection, graph intelligence, federated AI and synthetic data.
+- Published peer-reviewed research in Graph AI and temporal graph analytics.
+
 ## Core Expertise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
