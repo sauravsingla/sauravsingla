@@ -2,7 +2,7 @@
 
 # Hi, I'm Saurav Singla 👋
 
-### AI & Data Science Leader · Graph AI Researcher · Generative AI · CUDA · Open Source
+### Head of Data Science · AI & Data Science Leader · Graph AI Researcher · Generative AI · CUDA · Open Source
 
 Building scalable AI systems across Graph AI, Generative AI, temporal machine learning, GPU-accelerated computing and production-grade MLOps.
 
@@ -39,7 +39,7 @@ I am an AI and Data Science leader with 20+ years of experience translating adva
 
 ## External Open-Source Contribution
 
-- [NVIDIA RAPIDS cuGraph pull request](https://github.com/rapidsai/cugraph/pull/5584) — sampled edge-betweenness centrality scaling, Python compatibility, regression testing and algorithm-correctness work for GPU-accelerated graph analytics
+- [NVIDIA RAPIDS cuGraph pull request](https://github.com/rapidsai/cugraph/pull/5584) — enhanced the Python `ego_graph` interface to preserve per-seed graph boundaries for multiple seed vertices, with regression tests and compatibility validation
 
 ## Featured Technical Projects
 
