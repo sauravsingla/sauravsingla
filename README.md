@@ -17,7 +17,7 @@ Building scalable AI systems across Graph AI, Generative AI, temporal machine le
 
 ## About Me
 
-I am an AI and Data Science leader with 20+ years of experience translating advanced research into scalable, production-ready systems. My work spans Graph AI, temporal learning, Generative AI, GPU-accelerated analytics and reliable machine-learning platforms. I combine research, hands-on engineering, published work and open-source contribution to build reproducible AI systems designed for real-world scale.
+I am an AI and Data Science leader with 20+ years of experience translating advanced research into scalable, production-ready systems. My work spans Graph AI, temporal learning, Generative AI, GPU-accelerated analytics and reliable machine-learning platforms. I combine research, hands-on engineering, published work and open-source contribution to build reproducible AI systems designed for real-world scale. I have led production-scale AI and graph analytics initiatives across large, high-volume digital ecosystems, spanning fraud intelligence, anomaly detection, federated AI and responsible AI governance.
 
 ## Core Expertise
 
@@ -39,7 +39,7 @@ I am an AI and Data Science leader with 20+ years of experience translating adva
 
 ## External Open-Source Contribution
 
-- [NVIDIA RAPIDS cuGraph pull request](https://github.com/rapidsai/cugraph/pull/5584) — enhanced the Python `ego_graph` interface to preserve per-seed graph boundaries for multiple seed vertices, with regression tests and compatibility validation
+- [Open contribution to NVIDIA RAPIDS cuGraph (PR #5584)](https://github.com/rapidsai/cugraph/pull/5584) — proposes multi-seed `ego_graph` offset handling in the Python API, with regression tests and compatibility validation
 
 ## Featured Technical Projects
 
@@ -77,8 +77,8 @@ Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ens
 [![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 
-## Technical Focus
+## Current Work
 
-- Graph AI, temporal graph learning and scalable graph algorithms
-- Generative AI, LLMs, Agentic AI and retrieval-augmented systems
-- CUDA, NVIDIA RAPIDS, cuGraph, MLOps and reliable AI systems
+- Scalable Graph AI and temporal graph learning
+- GPU-accelerated graph analytics using CUDA and NVIDIA RAPIDS
+- Production AI systems for fraud intelligence, anomaly detection and trustworthy AI
