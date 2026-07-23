@@ -13,6 +13,7 @@ Building scalable AI systems across Graph AI, Generative AI, temporal machine le
 [![OpenReview](https://img.shields.io/badge/OpenReview-Saurav%20Singla-8C1B13)](https://openreview.net/profile?id=~Saurav_Singla1)
 [![DBLP](https://img.shields.io/badge/DBLP-Saurav%20Singla-004F9F)](https://dblp.org/pid/410/2745.html)
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Saurav%20Singla-1857B6)](https://www.semanticscholar.org/author/Saurav-Singla/2370858010)
+[![ACM Digital Library](https://img.shields.io/badge/ACM%20Digital%20Library-Saurav%20Singla-0085CA?logo=acm&logoColor=white)](https://dl.acm.org/profile/99661729658)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
 [![X](https://img.shields.io/badge/X-@sauravsingla_08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
 
@@ -71,7 +72,7 @@ Scalable temporal motif mining for large-scale transaction networks and high-per
 #### [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
 Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.
 
-**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010)
+**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
 
 ## Book, Course & Technical Writing
 
