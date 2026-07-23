@@ -52,7 +52,6 @@ I am an AI and Data Science leader with 20+ years of experience translating adva
 | Repository | Focus and Differentiation |
 |---|---|
 | [Topology-Aware Temporal Graph Learning](https://github.com/sauravsingla/tgn-topology-aware) | CPU reference implementation for topology-aware temporal node classification with reproducible benchmarks, chronological evaluation, and deterministic synthetic graph generation. |
-| [GNN Graph Classification](https://github.com/sauravsingla/gnn-graph-classification) | Reproducible graph-level learning implementations with practical modelling workflows |
 | [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | Efficient representation learning through teacher-student knowledge transfer across modalities |
 | [Time Series](https://github.com/sauravsingla/Time_Series) | Forecasting, feature engineering and predictive modelling with reusable implementations |
 | [Outlier Detection Tutorials](https://github.com/sauravsingla/Outlier_Detection_Tutorials) | Practical anomaly and outlier detection methods presented through reproducible tutorials |
