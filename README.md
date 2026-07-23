@@ -10,6 +10,7 @@ Building scalable AI systems across Graph AI, Generative AI, temporal machine le
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Saurav%20Singla-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publications-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saurav-Singla-4)
+[![OpenReview](https://img.shields.io/badge/OpenReview-Saurav%20Singla-8C1B13)](https://openreview.net/profile?id=~Saurav_Singla1)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
 [![X](https://img.shields.io/badge/X-@sauravsingla_08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
 
@@ -68,7 +69,7 @@ Scalable temporal motif mining for large-scale transaction networks and high-per
 #### [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
 Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.
 
-**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4)
+**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1)
 
 ## Book, Course & Technical Writing
 
