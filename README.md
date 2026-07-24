@@ -29,6 +29,10 @@ I am an AI and Data Science leader with 20+ years of experience translating adva
 - Built production AI systems for fraud detection, mule detection, graph intelligence, federated AI and synthetic data.
 - Published peer-reviewed research in Graph AI and temporal graph analytics.
 
+## Official Industry Recognition
+
+- **[Global Fintech Fest 2025 AI Report (Page 11)](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)**
+
 ## Core Expertise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
