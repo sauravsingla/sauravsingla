@@ -2,6 +2,12 @@
 
 This page highlights selected examples where my published research was independently cited, reviewed, or extended by international researchers. It focuses on downstream research influence rather than citation totals alone.
 
+## MuleTrack: A Lightweight Temporal Learning Framework for Money Mule Detection in Digital Payments
+
+MuleTrack received direct recognition in **production-oriented banking research** through an explicit citation in *[Detection, Attribution, Narration: An End-to-End Pipeline for Explainable Money Mule Identification](https://arxiv.org/abs/2607.17586)*. The citing paper discusses MuleTrack as a **Markov-chain framework for detecting mule accounts in India’s UPI ecosystem** and contrasts it with an institution-level pipeline combining **LightGBM, TreeSHAP and large language models** for explainable AML investigation.
+
+The downstream system was evaluated in a **live production deployment**, reporting an **89% confirmed-mule yield**, compared with 61% under the previous rule-based process, together with **60% incremental adverse detection**. This is a substantive same-domain citation: MuleTrack is not merely listed in the bibliography, but positioned within the technical evolution of operational, explainable money-mule detection in regulated financial environments.
+
 ## Demand and Capacity Modelling in Healthcare Using Discrete Event Simulation
 
 The paper received strong independent validation through its inclusion in a comprehensive review of **231 healthcare simulation studies**. The review was authored by researchers from **Tecnológico de Monterrey, Mexico**, and **Macquarie University, Australia**, and included Professor **Leopoldo Eduardo Cárdenas-Barrón**, an established operations-research scholar with more than **11,000 Scopus citations** and an **h-index of approximately 60**. The work was also referenced in the *European Journal of Operational Research* and Springer’s *Archives of Computational Methods in Engineering*, demonstrating international influence in healthcare capacity planning, patient-flow modelling and operational decision-making.
