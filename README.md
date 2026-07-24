@@ -76,6 +76,12 @@ Scalable temporal motif mining for large-scale transaction networks and high-per
 #### [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
 Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.
 
+### Independent Research Impact
+
+Selected examples of how my published work has been independently reviewed, cited and extended by international researchers across healthcare simulation and natural-language processing.
+
+**[View detailed research-impact evidence →](./RESEARCH_IMPACT.md)**
+
 **More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
 
 ## Book, Course & Technical Writing
