@@ -4,9 +4,7 @@ This page highlights selected examples where my published research was independe
 
 ## MuleTrack: A Lightweight Temporal Learning Framework for Money Mule Detection in Digital Payments
 
-MuleTrack received direct recognition in **production-oriented banking research** through an explicit citation in *[Detection, Attribution, Narration: An End-to-End Pipeline for Explainable Money Mule Identification](https://arxiv.org/abs/2607.17586)*. The citing paper discusses MuleTrack as a **Markov-chain framework for detecting mule accounts in India’s UPI ecosystem** and contrasts it with an institution-level pipeline combining **LightGBM, TreeSHAP and large language models** for explainable AML investigation.
-
-The downstream system was evaluated in a **live production deployment**, reporting an **89% confirmed-mule yield**, compared with 61% under the previous rule-based process, together with **60% incremental adverse detection**. This is a substantive same-domain citation: MuleTrack is not merely listed in the bibliography, but positioned within the technical evolution of operational, explainable money-mule detection in regulated financial environments.
+The paper received early independent recognition through its citation in *[Detection, Attribution, Narration: An End-to-End Pipeline for Explainable Money Mule Identification](https://arxiv.org/abs/2607.17586)*, presented at the **KDD 2026 Workshop on Machine Learning in Finance**. The citing work explicitly discusses *MuleTrack* as a Markov-chain framework for detecting money mule accounts in India’s UPI ecosystem and positions it alongside its own institution-level explainable AI pipeline based on **LightGBM, TreeSHAP and Large Language Models (LLMs)**. The citing study reports production deployment metrics of **89% confirmed-mule yield** and **60% incremental adverse detection**, demonstrating that *MuleTrack* has contributed to subsequent research on operational, explainable anti-money-laundering systems in the banking domain.
 
 ## Demand and Capacity Modelling in Healthcare Using Discrete Event Simulation
 
