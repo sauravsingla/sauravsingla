@@ -75,11 +75,25 @@ My research focuses on graph machine learning, temporal transaction graphs, frau
 
 ### Selected Publications
 
-#### [Towards Scalable Mining of Temporal Graph Motifs over Large-Scale Transaction Networks](https://ieeexplore.ieee.org/document/11459239)
-Scalable temporal motif mining for large transaction networks and high-performance graph analytics.
+#### 📄 [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
 
-#### [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
-Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.
+**IEEE International Conference on Big Data (IEEE BigData 2025)** · IEEE  
+**DOI:** 10.1109/BigData66926.2025.11402449
+
+Proposes an adaptive fraud detection framework combining **meta-learning**, **Kolmogorov–Arnold Networks (KAN)** and **ensemble learning** to improve generalization against evolving fraud patterns in financial transaction systems.
+
+**Research Areas:** Fraud Detection · Financial AI · Meta-Learning · KAN · Ensemble Learning
+
+---
+
+#### 📄 [Towards Scalable Mining of Temporal Graph Motifs over Large-Scale Transaction Networks](https://ieeexplore.ieee.org/document/11459239)
+
+**IEEE 32nd International Conference on High Performance Computing, Data and Analytics Workshops (HiPCW 2025)** · IEEE  
+**DOI:** 10.1109/HiPCW66559.2025.00053
+
+Presents a scalable framework for temporal graph motif mining over **large-scale financial transaction networks**, enabling efficient discovery of transaction patterns for **anti-money laundering (AML)** investigations and graph intelligence. Evaluated on public benchmark graphs and billion-scale UPI transaction data.
+
+**Research Areas:** Graph AI · Temporal Graphs · AML · Transaction Intelligence · High-Performance Computing
 
 ### Independent Research Impact
 
