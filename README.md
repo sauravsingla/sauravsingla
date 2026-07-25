@@ -2,9 +2,9 @@
 
 # Hi, I'm Saurav Singla 👋
 
-### Head of Data Science · AI & Data Science Leader · Graph AI Researcher · Generative AI · CUDA · Open Source
+### Head of Data Science | AI & Data Science Leader | Graph AI, Fraud Intelligence & Scalable AI Systems
 
-Building scalable AI systems across Graph AI, Generative AI, temporal machine learning, GPU-accelerated computing and production-grade MLOps.
+Building production AI for digital payments, transaction-graph analytics, temporal machine learning, Generative AI and GPU-accelerated computing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Saurav%20Singla-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
@@ -21,19 +21,29 @@ Building scalable AI systems across Graph AI, Generative AI, temporal machine le
 
 ## About Me
 
-I am an AI and Data Science leader with 20+ years of experience translating advanced research into scalable, production-ready systems. My work spans Graph AI, temporal learning, Generative AI, GPU-accelerated analytics and reliable machine-learning platforms. I combine research, hands-on engineering, published work and open-source contribution to build reproducible AI systems designed for real-world scale. I have led production-scale AI and graph analytics initiatives across large, high-volume digital ecosystems, spanning fraud intelligence, anomaly detection, federated AI and responsible AI governance.
+I am an AI and Data Science leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money-mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
 
-## Selected Impact
+## Impact at a Glance
 
+- **20+ years** across AI, data science, machine learning and analytics leadership.
 - Led AI initiatives for one of the world's largest real-time digital payments ecosystems.
-- Built production AI systems for fraud detection, mule detection, graph intelligence, federated AI and synthetic data.
-- Published peer-reviewed research in Graph AI and temporal graph analytics.
+- Built production AI systems for fraud intelligence, money-mule detection, anomaly detection, graph analytics, federated AI and synthetic data.
+- Published peer-reviewed research in Graph AI, temporal transaction graphs, adaptive fraud detection and high-performance analytics.
+- Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 
 ## Official Industry Mention
 
 - **[Global Fintech Fest 2025 AI Report (Page 11)](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)**
 
-## Core Expertise
+## Focus Areas
+
+- **Graph AI and financial crime:** graph machine learning, graph neural networks, temporal graphs, transaction-network analysis, fraud detection and money-mule detection
+- **Scalable production AI:** production machine learning, real-time analytics, MLOps, LLMOps, observability, testing and responsible AI governance
+- **GPU-accelerated analytics:** CUDA, NVIDIA RAPIDS, cuGraph and high-performance graph computing
+- **Generative and agentic AI:** LLMs, retrieval-augmented generation, agentic workflows and enterprise GenAI
+- **Applied machine learning:** anomaly detection, time-series forecasting, incremental learning, reinforcement learning and knowledge distillation
+
+## Core Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -46,32 +56,27 @@ I am an AI and Data Science leader with 20+ years of experience translating adva
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-- **AI and ML:** Graph Neural Networks, temporal graph learning, Generative AI, LLMs, Agentic AI, RAG and reinforcement learning
-- **Scalable computing:** CUDA, NVIDIA RAPIDS, cuGraph and high-performance analytics
-- **Engineering:** Python, SQL, C++, Docker, Kubernetes, CI/CD, MLOps, LLMOps, observability and testing
-- **Applied modelling:** Time series, anomaly detection, incremental learning and knowledge distillation
-
-## External Open-Source Contribution
-
-- [Open contribution to NVIDIA RAPIDS cuGraph (PR #5584)](https://github.com/rapidsai/cugraph/pull/5584) — proposes multi-seed `ego_graph` offset handling in the Python API, with regression tests and compatibility validation
-
 ## Featured Technical Projects
 
 | Repository | Focus and Differentiation |
 |---|---|
-| [Topology-Aware Temporal Graph Learning](https://github.com/sauravsingla/tgn-topology-aware) | Reference implementation for topology-aware temporal node classification with reproducible benchmarks, chronological evaluation, and deterministic synthetic graph generation. |
-| [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | ANN-to-SNN knowledge distillation framework for imbalanced tabular classification using spike encoding and hybrid distillation losses. |
-| [Time Series](https://github.com/sauravsingla/Time_Series) | Reproducible Python forecasting benchmark with walk-forward validation, leakage-safe backtesting, classical models, lag-based machine learning, tests, and CI. |
-| [Outlier Detection Tutorials](https://github.com/sauravsingla/Outlier_Detection_Tutorials) | Reproducible Python tutorials and benchmarks covering statistical, distance-based, density-based, isolation, kernel, ensemble, and autoencoder methods, with exercises, tests, and CI. |
+| [Topology-Aware Temporal Graph Learning](https://github.com/sauravsingla/tgn-topology-aware) | Reference implementation for temporal node classification using topology-aware features, chronological evaluation and deterministic synthetic transaction graphs. |
+| [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | ANN-to-SNN knowledge distillation for imbalanced tabular classification using spike encoding and hybrid distillation losses. |
+| [Time-Series Forecasting](https://github.com/sauravsingla/Time_Series) | Reproducible forecasting benchmark with walk-forward validation, leakage-safe backtesting, classical models, lag-based machine learning, tests and CI. |
+| [Outlier and Anomaly Detection](https://github.com/sauravsingla/Outlier_Detection_Tutorials) | Reproducible tutorials and benchmarks covering statistical, distance-based, density-based, isolation, kernel, ensemble and autoencoder methods. |
+
+## External Open-Source Contribution
+
+- [RAPIDS cuGraph PR #5584](https://github.com/rapidsai/cugraph/pull/5584) — open contribution proposing multi-seed `ego_graph` offset handling in the Python API, with regression tests and backward-compatibility validation.
 
 ## Research & Publications
 
-My research covers graph machine learning, temporal graphs, scalable AI, incremental learning, knowledge distillation, anomaly detection, reinforcement learning and high-performance computing. My published work includes research presented through IEEE and Springer venues.
+My research focuses on graph machine learning, temporal transaction graphs, fraud intelligence, scalable AI, incremental learning, knowledge distillation, anomaly detection, reinforcement learning and high-performance computing.
 
 ### Selected Publications
 
 #### [Towards Scalable Mining of Temporal Graph Motifs over Large-Scale Transaction Networks](https://ieeexplore.ieee.org/document/11459239)
-Scalable temporal motif mining for large-scale transaction networks and high-performance graph analytics.
+Scalable temporal motif mining for large transaction networks and high-performance graph analytics.
 
 #### [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
 Adaptive fraud detection using meta-learning, Kolmogorov-Arnold Networks and ensemble strategies for evolving fraud patterns.
@@ -95,9 +100,3 @@ Selected examples of how my published work has been independently reviewed, cite
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
-
-## Current Work
-
-- Scalable Graph AI and temporal graph learning
-- GPU-accelerated graph analytics using CUDA and NVIDIA RAPIDS
-- Production AI systems for fraud intelligence, anomaly detection and trustworthy AI
