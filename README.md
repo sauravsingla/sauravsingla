@@ -31,9 +31,9 @@ I am an AI and Data Science leader with 20+ years of experience translating rese
 - Published peer-reviewed research in Graph AI, temporal transaction graphs, adaptive fraud detection and high-performance analytics.
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 
-## Official Industry Mention
+## Independent Industry Recognition
 
-- **[Global Fintech Fest 2025 AI Report (Page 11)](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)**
+- **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — Independent industry recognition. See page 11 for the referenced mention.
 
 ## Focus Areas
 
