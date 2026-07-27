@@ -9,11 +9,14 @@ This page highlights two research contributions focused on billion-scale financi
 **GRADES-NDA 2026 — 9th Joint Workshop on Graph Data Management Experiences & Systems and Network Data Analytics**  
 **Co-located with ACM SIGMOD/PODS 2026 · Archival workshop paper**
 
+**Status:** Accepted archival paper  
+**Official evidence:** [GRADES-NDA 2026 accepted papers](https://gradesnda.github.io/)
+
 This work presents scalable approaches for computing temporal graph-centrality measures over billion-scale financial transaction networks. It addresses the computational challenges involved in analysing evolving transaction graphs and supports applications including financial-network intelligence, fraud investigation and systemic-risk analysis.
 
 **Research areas:** Temporal Graph Analytics · Graph Centrality · Financial Networks · Large-Scale Data Systems · High-Performance Computing
 
-> Publication links will be added here when the final ACM Digital Library record is available.
+> The final ACM Digital Library publication link will be added when available.
 
 ---
 
@@ -22,11 +25,14 @@ This work presents scalable approaches for computing temporal graph-centrality m
 **42nd IEEE International Conference on Data Engineering — ICDE 2026**  
 **Industry and Applications Track**
 
+**Status:** Accepted Industry and Applications paper  
+**Official evidence:** [IEEE ICDE 2026 accepted Industry and Application papers](https://icde2026.github.io/ia-papers.html) · [Official conference programme](https://icde2026.github.io/program_details.html)
+
 This work describes scalable data-management and anomaly-detection approaches for billion-scale fintech workloads at NPCI. It demonstrates how large-scale data engineering, machine learning and operational analytics can be applied within a major real-time digital-payments ecosystem.
 
 **Research areas:** Fintech Analytics · Scalable Data Management · Anomaly Detection · Digital Payments · Production AI
 
-> Publication links will be added here when the final IEEE Xplore record is available.
+> The final IEEE Xplore publication link will be added when available.
 
 ---
 
