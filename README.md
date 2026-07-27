@@ -21,13 +21,13 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 
 ## About Me
 
-I am an AI and Data Science leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money-mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
+I am an AI and Data Science leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
 
 ## Impact at a Glance
 
 - **20+ years** across AI, data science, machine learning and analytics leadership.
 - Led AI initiatives for one of the world's largest real-time digital payments ecosystems.
-- Built production AI systems for fraud intelligence, money-mule detection, anomaly detection, graph analytics, federated AI and synthetic data.
+- Built production AI systems for fraud intelligence, money mule detection, anomaly detection, graph analytics, federated AI and synthetic data.
 - Published peer-reviewed research in Graph AI, temporal transaction graphs, adaptive fraud detection and high-performance analytics.
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 
@@ -37,7 +37,7 @@ I am an AI and Data Science leader with 20+ years of experience translating rese
 
 ## Focus Areas
 
-- **Graph AI and financial crime:** graph machine learning, graph neural networks, temporal graphs, transaction-network analysis, fraud detection and money-mule detection
+- **Graph AI and financial crime:** graph machine learning, graph neural networks, temporal graphs, transaction-network analysis, fraud detection and money mule detection
 - **Scalable production AI:** production machine learning, real-time analytics, MLOps, LLMOps, observability, testing and responsible AI governance
 - **GPU-accelerated analytics:** CUDA, NVIDIA RAPIDS, cuGraph and high-performance graph computing
 - **Generative and agentic AI:** LLMs, retrieval-augmented generation, agentic workflows and enterprise GenAI
