@@ -73,6 +73,8 @@ I am an AI and Data Science leader with 20+ years of experience translating rese
 
 My research focuses on graph machine learning, temporal transaction graphs, fraud intelligence, scalable AI, incremental learning, knowledge distillation, anomaly detection, reinforcement learning and high-performance computing.
 
+**[Explore the GRADES-NDA 2026 and IEEE ICDE 2026 research highlights →](./RESEARCH_HIGHLIGHTS_2026.md)**
+
 ### Selected Publications
 
 #### 📄 [Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies](https://ieeexplore.ieee.org/document/11402449)
