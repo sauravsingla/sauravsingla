@@ -1,8 +1,8 @@
 # Technical Articles
 
-A curated collection of my published technical writing across statistics, machine learning and deep learning.
+[← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-[← Back to profile](./README.md)
+A curated collection of my published technical writing across statistics, machine learning and deep learning.
 
 ## Featured Articles
 
@@ -59,3 +59,7 @@ Compares generative and discriminative machine-learning approaches across probab
 ## Areas Covered
 
 Statistics · Statistical Inference · Hypothesis Testing · Machine Learning · Deep Learning · Neural Networks · Generative Models · Discriminative Models
+
+---
+
+[← Back to Saurav Singla’s main GitHub profile](./README.md)
