@@ -25,9 +25,9 @@ This work presents scalable approaches for computing temporal graph-centrality m
 ## Billion-scale Fintech Analytics: Scalable Data Management and Anomaly Detection at NPCI
 
 **42nd IEEE International Conference on Data Engineering — ICDE 2026**  
-**Industry and Applications Track**
+**Industry and Application Track**
 
-**Status:** Accepted Industry and Applications paper  
+**Status:** Accepted Industry and Application paper  
 **Official evidence:** [IEEE ICDE 2026 accepted Industry and Application papers](https://icde2026.github.io/ia-papers.html) · [Official conference programme](https://icde2026.github.io/program_details.html)
 
 This work describes scalable data-management and anomaly-detection approaches for billion-scale fintech workloads at NPCI. It demonstrates how large-scale data engineering, machine learning and operational analytics can be applied within a major real-time digital-payments ecosystem.
