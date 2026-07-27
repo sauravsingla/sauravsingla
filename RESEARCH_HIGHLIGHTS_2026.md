@@ -1,3 +1,5 @@
+[← Back to Saurav Singla’s main GitHub profile](./README.md)
+
 # Selected Research Highlights — 2026
 
 This page highlights two research contributions focused on billion-scale financial data systems, temporal graph analytics and anomaly detection in digital-payment ecosystems.
@@ -47,3 +49,7 @@ For additional publications and research profiles, visit:
 - [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4)
 - [DBLP](https://dblp.org/pid/410/2745.html)
 - [ACM Digital Library](https://dl.acm.org/profile/99661729658)
+
+---
+
+[← Back to Saurav Singla’s main GitHub profile](./README.md)
