@@ -69,6 +69,11 @@ I am an AI and Data Science leader with 20+ years of experience translating rese
 
 - [RAPIDS cuGraph PR #5584](https://github.com/rapidsai/cugraph/pull/5584) — open contribution proposing multi-seed `ego_graph` offset handling in the Python API, with regression tests and backward-compatibility validation.
 
+## Peer Reviewing & Professional Service
+
+- Completed **three peer reviews** for scholarly journals, with the reviewing activity recorded on my [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/NAZ-4100-2025).
+- Reviewer for the **Journal of Advances in Information Technology (JAIT)**, covering research in multimodal reasoning, retrieval-augmented generation, knowledge graphs and prompt optimisation.
+
 ## Research & Publications
 
 My research focuses on graph machine learning, temporal transaction graphs, fraud intelligence, scalable AI, incremental learning, knowledge distillation, anomaly detection, reinforcement learning and high-performance computing.
