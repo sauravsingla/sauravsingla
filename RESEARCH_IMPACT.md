@@ -1,5 +1,7 @@
 # Selected Independent Research Impact
 
+[← Back to Saurav Singla’s main GitHub profile](./README.md)
+
 This page highlights selected examples where my published research was independently cited, reviewed, or extended by international researchers. It focuses on downstream research influence rather than citation totals alone.
 
 ## MuleTrack: A Lightweight Temporal Learning Framework for Money Mule Detection in Digital Payments
@@ -23,3 +25,7 @@ The paper received independent international validation when it was cited and ex
 [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ORCID](https://orcid.org/0000-0002-6404-3988)
 
 > Citation counts and author metrics can vary across indexing platforms. This page emphasises independently traceable examples of research influence and downstream methodological use.
+
+---
+
+[← Back to Saurav Singla’s main GitHub profile](./README.md)
