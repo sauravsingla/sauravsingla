@@ -117,3 +117,9 @@ Selected examples of how my published work has been independently reviewed, cite
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
+
+## Connect
+
+I welcome conversations around Graph AI, financial-crime intelligence, scalable machine learning, research collaboration and responsible production AI.
+
+[LinkedIn](https://www.linkedin.com/in/sauravsingla008) · [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [Medium](https://sauravsingla08.medium.com)
