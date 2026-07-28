@@ -1,4 +1,4 @@
-# Technical Articles
+# Saurav Singla — Selected Technical Articles
 
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
