@@ -64,9 +64,9 @@ Featured in the **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.
 | Repository | Focus and Differentiation |
 |---|---|
 | [Topology-Aware Temporal Graph Learning](https://github.com/sauravsingla/tgn-topology-aware) | Reference implementation for temporal node classification using topology-aware features, chronological evaluation and deterministic synthetic transaction graphs. |
-| [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | ANN-to-SNN knowledge distillation for imbalanced tabular classification using spike encoding and hybrid distillation losses. |
 | [Time-Series Forecasting](https://github.com/sauravsingla/Time_Series) | Reproducible forecasting benchmark with walk-forward validation, leakage-safe backtesting, classical models, lag-based machine learning, tests and CI. |
 | [Outlier and Anomaly Detection](https://github.com/sauravsingla/Outlier_Detection_Tutorials) | Reproducible tutorials and benchmarks covering statistical, distance-based, density-based, isolation, kernel, ensemble and autoencoder methods. |
+| [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | ANN-to-SNN knowledge distillation for imbalanced tabular classification using spike encoding and hybrid distillation losses. |
 
 ## External Open-Source Contribution
 
@@ -111,7 +111,7 @@ Selected examples of how my published work has been independently reviewed, cite
 
 **[View detailed research-impact evidence →](./RESEARCH_IMPACT.md)**
 
-**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658) · [Hugging Face](https://huggingface.co/sauravsingla08)
+**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
 
 ## Book, Course & Technical Writing
 
