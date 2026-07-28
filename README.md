@@ -115,7 +115,7 @@ Selected examples of how my published work has been independently reviewed, cite
 
 ## Book, Course & Technical Writing
 
-- **Book:** [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ) — BPB Publications, 2021
+- **Book:** Authored [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ), published by BPB Publications in 2021. **[View book overview and author contribution →](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)**
 - **Course:** Created [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/), reaching **21,000+ learners** across statistics, probability, regression and time-series analysis. **[View course and educational impact →](./UDEMY_COURSE.md)**
 - **Technical articles:** [Explore selected articles published on Towards Data Science, HackerNoon and KDnuggets →](./TECHNICAL_ARTICLES.md)
 - **Towards Data Science:** [View author profile](https://towardsdatascience.com/author/sauravsingla08/)
