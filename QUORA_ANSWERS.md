@@ -1,8 +1,8 @@
 [← Back to GitHub Profile](./README.md)
 
-# Selected Quora Answers
+# Selected Quora Answers by Saurav Singla
 
-A curated collection of my educational contributions on Quora covering Artificial Intelligence, Machine Learning, Probability, Statistics and Data Science. These answers explain foundational concepts in a clear and practical manner for students, practitioners and AI enthusiasts.
+A curated collection of educational contributions by **Saurav Singla** on Quora covering Artificial Intelligence, Machine Learning, Probability, Statistics and Data Science. These answers explain foundational concepts in a clear and practical manner for students, practitioners and AI enthusiasts.
 
 ---
 
@@ -48,7 +48,7 @@ Compares hard and soft clustering, highlighting the difference between assigning
 
 ## Explore More
 
-Visit my **[Quora profile](https://www.quora.com/profile/Saurav-Singla)** for additional answers on Artificial Intelligence, Machine Learning, Statistics and Data Science.
+Visit **[Saurav Singla's Quora profile](https://www.quora.com/profile/Saurav-Singla)** for additional answers on Artificial Intelligence, Machine Learning, Statistics and Data Science.
 
 ---
 
