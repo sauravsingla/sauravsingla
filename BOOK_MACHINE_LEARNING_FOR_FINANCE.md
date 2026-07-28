@@ -4,6 +4,7 @@
 
 ## Book by Saurav Singla
 
+[![BPB Publications](https://img.shields.io/badge/BPB%20Publications-Official%20Book%20Page-C62828)](https://in.bpbonline.com/products/machine-learning-for-finance)
 [![Google Books](https://img.shields.io/badge/Google%20Books-View%20Book-4285F4?logo=google&logoColor=white)](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ)
 
 **Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance** introduces core machine-learning concepts through practical applications in banking, financial services and business analytics.
@@ -45,9 +46,10 @@ The book is relevant for:
 
 The book reflects Saurav Singla’s broader work at the intersection of machine learning, finance, analytics and production AI. It forms part of his contribution to making applied data science more accessible to learners and working professionals.
 
-## Official Book Link
+## Official Book Links
 
-[View *Machine Learning for Finance* on Google Books](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ)
+- [View *Machine Learning for Finance* on BPB Publications](https://in.bpbonline.com/products/machine-learning-for-finance)
+- [View *Machine Learning for Finance* on Google Books](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ)
 
 ## Related Educational Work
 
