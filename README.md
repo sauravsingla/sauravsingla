@@ -16,7 +16,7 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 
 ## About Me
 
-I am Head of Data Science and an AI leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
+I am Head of Data Science and an AI leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal learning, fraud intelligence, money-mule detection and transaction-graph analytics for large digital ecosystems. My work combines AI leadership, applied research and hands-on engineering across production machine learning, scalable analytics and responsible AI.
 
 ## Impact at a Glance
 
