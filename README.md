@@ -118,17 +118,16 @@ Selected examples of how my published work has been independently reviewed, cite
 - **Book:** Authored [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ), published by BPB Publications in 2021. **[View book overview and author contribution →](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)**
 - **Course:** Created [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/), reaching **21,000+ learners** across statistics, probability, regression and time-series analysis. **[View course and educational impact →](./UDEMY_COURSE.md)**
 - **Technical articles:** [Explore selected articles published on Towards Data Science, HackerNoon and KDnuggets →](./TECHNICAL_ARTICLES.md)
-- **Towards Data Science:** [View author profile](https://towardsdatascience.com/author/sauravsingla08/)
-- **Medium profile:** [View all Medium articles](https://sauravsingla08.medium.com)
 
 ## Writing & Community Profiles
 
+[![Medium](https://img.shields.io/badge/Medium-sauravsingla08-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
+[![Towards Data Science](https://img.shields.io/badge/Towards%20Data%20Science-Author%20Profile-3B3B3B)](https://towardsdatascience.com/author/sauravsingla08/)
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 
 ## Connect
 
 I welcome conversations around Graph AI, financial-crime intelligence, scalable machine learning, research collaboration and responsible production AI.
 
-[LinkedIn](https://www.linkedin.com/in/sauravsingla008) · [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Hugging Face](https://huggingface.co/sauravsingla08) · [Medium](https://sauravsingla08.medium.com)
+[LinkedIn](https://www.linkedin.com/in/sauravsingla008)
