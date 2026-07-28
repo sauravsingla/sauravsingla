@@ -67,7 +67,6 @@ The following articles by Saurav Singla provide additional explanations of conce
 ## Related Work
 
 - **Book:** [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)
-- **Technical writing:** [Selected Technical Articles](./TECHNICAL_ARTICLES.md)
 - **Research:** [Selected Research Highlights](./RESEARCH_HIGHLIGHTS_2026.md)
 
 ---
