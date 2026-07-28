@@ -9,32 +9,24 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Saurav%20Singla-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
-[![Scopus](https://img.shields.io/badge/Scopus-Author%20Profile-E9711C)](https://www.scopus.com/authid/detail.uri?authorId=59984649000)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publications-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saurav-Singla-4)
-[![OpenReview](https://img.shields.io/badge/OpenReview-Saurav%20Singla-8C1B13)](https://openreview.net/profile?id=~Saurav_Singla1)
-[![DBLP](https://img.shields.io/badge/DBLP-Saurav%20Singla-004F9F)](https://dblp.org/pid/410/2745.html)
-[![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Saurav%20Singla-1857B6)](https://www.semanticscholar.org/author/Saurav-Singla/2370858010)
-[![ACM Digital Library](https://img.shields.io/badge/ACM%20Digital%20Library-Saurav%20Singla-0085CA?logo=acm&logoColor=white)](https://dl.acm.org/profile/99661729658)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
-[![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
-[![Towards Data Science](https://img.shields.io/badge/Towards%20Data%20Science-Author%20Profile-3B3B3B)](https://towardsdatascience.com/author/sauravsingla08/)
-[![X](https://img.shields.io/badge/X-@sauravsingla_08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
 
 </div>
 
 ## About Me
 
-I am a Head of Data Science and AI leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
+I am Head of Data Science and an AI leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
 
 ## Impact at a Glance
 
 - **20+ years** across AI, data science, machine learning and analytics leadership.
-- Led AI initiatives for one of the world's largest real-time digital payments ecosystems.
+- Lead AI and data science initiatives for one of the world's largest real-time digital payments ecosystems.
 - Built production AI systems for fraud intelligence, money mule detection, anomaly detection, graph analytics, federated AI and synthetic data.
 - Published peer-reviewed research in Graph AI, temporal transaction graphs, adaptive fraud detection and high-performance analytics.
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 
-## Independent Industry Recognition
+## Industry Recognition
 
 Featured in the **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** for national-scale Graph AI applications in money-mule detection, with an attributed expert perspective on model drift, retraining and false-positive reduction. See printed page 11.
 
