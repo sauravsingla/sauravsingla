@@ -121,6 +121,6 @@ Selected examples of how my published work has been independently reviewed, cite
 
 ## Connect
 
-I welcome conversations around Graph AI, financial-crime intelligence, scalable machine learning, research collaboration and responsible production AI.
+I welcome conversations around Graph AI, financial-crime intelligence, scalable machine learning, applied research and responsible production AI. Connect with me on LinkedIn for research collaboration, technical discussions and industry knowledge exchange.
 
 [LinkedIn](https://www.linkedin.com/in/sauravsingla008)
