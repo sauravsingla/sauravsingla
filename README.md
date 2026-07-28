@@ -35,7 +35,7 @@ I am an AI and Data Science leader with 20+ years of experience translating rese
 
 ## Independent Industry Recognition
 
-- **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — Independent industry recognition. See page 11 for the referenced mention.
+Featured in the **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** for national-scale Graph AI applications in money-mule detection, with an attributed expert perspective on model drift, retraining and false-positive reduction. See printed page 11.
 
 ## Focus Areas
 
