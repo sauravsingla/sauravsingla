@@ -1,6 +1,6 @@
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-# Selected Research Highlights — 2026
+# Saurav Singla — Selected Research Highlights, 2026
 
 This page highlights two research contributions focused on billion-scale financial data systems, temporal graph analytics and anomaly detection in digital-payment ecosystems.
 
