@@ -15,6 +15,7 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 [![DBLP](https://img.shields.io/badge/DBLP-Saurav%20Singla-004F9F)](https://dblp.org/pid/410/2745.html)
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Saurav%20Singla-1857B6)](https://www.semanticscholar.org/author/Saurav-Singla/2370858010)
 [![ACM Digital Library](https://img.shields.io/badge/ACM%20Digital%20Library-Saurav%20Singla-0085CA?logo=acm&logoColor=white)](https://dl.acm.org/profile/99661729658)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
 [![Towards Data Science](https://img.shields.io/badge/Towards%20Data%20Science-Author%20Profile-3B3B3B)](https://towardsdatascience.com/author/sauravsingla08/)
 [![X](https://img.shields.io/badge/X-@sauravsingla_08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
@@ -110,7 +111,7 @@ Selected examples of how my published work has been independently reviewed, cite
 
 **[View detailed research-impact evidence →](./RESEARCH_IMPACT.md)**
 
-**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
+**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658) · [Hugging Face](https://huggingface.co/sauravsingla08)
 
 ## Book, Course & Technical Writing
 
@@ -130,4 +131,4 @@ Selected examples of how my published work has been independently reviewed, cite
 
 I welcome conversations around Graph AI, financial-crime intelligence, scalable machine learning, research collaboration and responsible production AI.
 
-[LinkedIn](https://www.linkedin.com/in/sauravsingla008) · [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [Medium](https://sauravsingla08.medium.com)
+[LinkedIn](https://www.linkedin.com/in/sauravsingla008) · [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Hugging Face](https://huggingface.co/sauravsingla08) · [Medium](https://sauravsingla08.medium.com)
