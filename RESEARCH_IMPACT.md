@@ -1,4 +1,4 @@
-# Selected Independent Research Impact
+# Saurav Singla — Selected Independent Research Impact
 
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
