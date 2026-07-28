@@ -2,7 +2,7 @@
 
 # Hi, I'm Saurav Singla 👋
 
-### Head of Data Science | AI & Data Science Leader | Graph AI, Fraud Intelligence & Scalable AI Systems
+### Head of Data Science | Graph AI, Fraud Intelligence & Scalable AI Systems
 
 Building production AI for digital payments, transaction-graph analytics, temporal machine learning, Generative AI and GPU-accelerated computing.
 
@@ -24,7 +24,7 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 
 ## About Me
 
-I am an AI and Data Science leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
+I am a Head of Data Science and AI leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal graph learning, fraud detection, money mule detection and transaction-graph analytics for large digital ecosystems. My work combines research, hands-on engineering, published contributions and open-source participation across production machine learning, Generative AI, federated AI, synthetic data and responsible AI governance.
 
 ## Impact at a Glance
 
