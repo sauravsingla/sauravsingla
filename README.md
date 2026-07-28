@@ -16,6 +16,7 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 [![Semantic Scholar](https://img.shields.io/badge/Semantic%20Scholar-Saurav%20Singla-1857B6)](https://www.semanticscholar.org/author/Saurav-Singla/2370858010)
 [![ACM Digital Library](https://img.shields.io/badge/ACM%20Digital%20Library-Saurav%20Singla-0085CA?logo=acm&logoColor=white)](https://dl.acm.org/profile/99661729658)
 [![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
+[![Towards Data Science](https://img.shields.io/badge/Towards%20Data%20Science-Author%20Profile-3B3B3B)](https://towardsdatascience.com/author/sauravsingla08/)
 [![X](https://img.shields.io/badge/X-@sauravsingla_08-000000?logo=x&logoColor=white)](https://x.com/sauravsingla_08)
 
 </div>
@@ -116,6 +117,7 @@ Selected examples of how my published work has been independently reviewed, cite
 - **Book:** [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ) — BPB Publications, 2021
 - **Course:** [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/) — statistics, regression, time series and applied analytics
 - **Technical articles:** [Explore selected articles published on Towards Data Science, HackerNoon and KDnuggets →](./TECHNICAL_ARTICLES.md)
+- **Towards Data Science:** [View author profile](https://towardsdatascience.com/author/sauravsingla08/)
 - **Medium profile:** [View all Medium articles](https://sauravsingla08.medium.com)
 
 ## Writing & Community Profiles
