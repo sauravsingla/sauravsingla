@@ -28,7 +28,8 @@ I am Head of Data Science and an AI leader with 20+ years of experience translat
 
 ## Industry Recognition
 
-Featured in the **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** for national-scale Graph AI applications in money-mule detection, with an attributed expert perspective on model drift, retraining and false-positive reduction. See printed page 11.
+**Featured expert, [Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — cited for perspectives on Graph AI-based money-mule detection, model drift, retraining and false-positive reduction.  
+[View the report — printed page 11](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)
 
 ## Focus Areas
 
