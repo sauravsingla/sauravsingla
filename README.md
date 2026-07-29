@@ -26,10 +26,6 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 - Published peer-reviewed research in Graph AI, temporal transaction graphs, adaptive fraud detection and high-performance analytics.
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 
-## Industry Recognition
-
-- **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — Featured expert cited for perspectives on Graph AI-based money-mule detection, model drift, retraining and false-positive reduction (page 11).
-
 ## Focus Areas
 
 - **Graph AI and financial crime:** graph machine learning, graph neural networks, temporal graphs, transaction-network analysis, fraud detection and money-mule detection
@@ -111,6 +107,10 @@ Selected examples of how my published work has been independently reviewed, cite
 - **Course:** Created [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/), reaching **21,000+ learners** across statistics, probability, regression and time-series analysis. **[View course and educational impact →](./UDEMY_COURSE.md)**
 - **Technical articles:** [Explore selected articles published on Towards Data Science, HackerNoon and KDnuggets →](./TECHNICAL_ARTICLES.md)
 - **Quora answers:** [Explore selected educational answers on AI, probability and machine learning →](./QUORA_ANSWERS.md)
+
+## Industry Recognition
+
+- **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — Featured expert cited for perspectives on Graph AI-based money-mule detection, model drift, retraining and false-positive reduction (page 11).
 
 ## Writing & Community Profiles
 
