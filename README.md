@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saurav Singla 👋
+# Saurav Singla — AI & Data Science Leader
 
 ### Head of Data Science | Graph AI, Fraud Intelligence & Scalable AI Systems
 
@@ -14,9 +14,9 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 
 </div>
 
-## About Me
+## About Saurav Singla
 
-I am Head of Data Science and an AI leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal learning, fraud intelligence, money-mule detection and transaction-graph analytics for large digital ecosystems. My work combines AI leadership, applied research and hands-on engineering across production machine learning, scalable analytics and responsible AI.
+I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of experience translating research into scalable, production-ready systems. I specialise in Graph AI, temporal learning, fraud intelligence, money-mule detection and transaction-graph analytics for large digital ecosystems. My work combines AI leadership, applied research and hands-on engineering across production machine learning, scalable analytics and responsible AI.
 
 ## Impact at a Glance
 
@@ -26,10 +26,11 @@ I am Head of Data Science and an AI leader with 20+ years of experience translat
 - Published peer-reviewed research in Graph AI, temporal transaction graphs, adaptive fraud detection and high-performance analytics.
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 
-## Industry Recognition
+## Industry Recognition & Speaking
 
-**Featured expert, [Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — cited for perspectives on Graph AI-based money-mule detection, model drift, retraining and false-positive reduction.  
-[View the report — printed page 11](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)
+- **Featured expert, [Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — cited for perspectives on Graph AI-based money-mule detection, model drift, retraining and false-positive reduction. [View the report — printed page 11](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)
+- **Global Fintech Fest 2025 speaker** — presented on AI-driven financial-crime and money-mule detection.
+- **Mumbai Tech Week speaker** — discussed how AI is transforming financial-crime detection.
 
 ## Focus Areas
 
