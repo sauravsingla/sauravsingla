@@ -56,10 +56,6 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 | [Outlier and Anomaly Detection](https://github.com/sauravsingla/Outlier_Detection_Tutorials) | Reproducible tutorials and benchmarks covering statistical, distance-based, density-based, isolation, kernel, ensemble and autoencoder methods. |
 | [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | ANN-to-SNN knowledge distillation for imbalanced tabular classification using spike encoding and hybrid distillation losses. |
 
-## External Open-Source Contribution
-
-- [RAPIDS cuGraph PR #5584](https://github.com/rapidsai/cugraph/pull/5584) — open contribution proposing multi-seed `ego_graph` offset handling in the Python API, with regression tests and backward-compatibility validation.
-
 ## Peer Reviewing & Professional Service
 
 - Completed **three peer reviews** for scholarly journals, with the reviewing activity recorded on my [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/NAZ-4100-2025).
