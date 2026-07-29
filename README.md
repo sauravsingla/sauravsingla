@@ -28,7 +28,7 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 
 ## Industry Recognition & Speaking
 
-- **Global Fintech Fest 2025 AI Report** — Featured expert cited for perspectives on Graph AI-based money-mule detection, model drift, retraining and false-positive reduction. **[View report (page 11)](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)**
+- **[Global Fintech Fest 2025 AI Report](https://www.eoiparis.gov.in/content/GFF2025_paris_event_13_03_2026_02.pdf)** — Featured expert cited for perspectives on Graph AI-based money-mule detection, model drift, retraining and false-positive reduction (page 11).
 - **Global Fintech Fest 2025 speaker** — presented on AI-driven financial-crime and money-mule detection.
 - **Mumbai Tech Week speaker** — discussed how AI is transforming financial-crime detection.
 
