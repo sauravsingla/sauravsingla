@@ -115,6 +115,7 @@ Selected examples of how my published work has been independently reviewed, cite
 [![Towards Data Science](https://img.shields.io/badge/Towards%20Data%20Science-Author%20Profile-3B3B3B)](https://towardsdatascience.com/author/sauravsingla08/)
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
+[![NVIDIA Developer Forums](https://img.shields.io/badge/NVIDIA-Developer%20Forums-76B900?logo=nvidia&logoColor=white)](https://forums.developer.nvidia.com/u/sauravsingla08)
 
 ## Connect
 
