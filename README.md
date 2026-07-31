@@ -8,6 +8,7 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Saurav%20Singla-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Author%20Profile-00629B?logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/678288976748329)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Publications-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saurav-Singla-4)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
@@ -95,7 +96,7 @@ Selected examples of how my published work has been independently reviewed, cite
 
 **[View detailed research-impact evidence →](./RESEARCH_IMPACT.md)**
 
-**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
+**More research:** [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
 
 ## Book, Course & Technical Writing
 
