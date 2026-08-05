@@ -48,15 +48,6 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## Featured Technical Projects
-
-| Repository | Focus and Differentiation |
-|---|---|
-| [Topology-Aware Temporal Graph Learning](https://github.com/sauravsingla/tgn-topology-aware) | Reference implementation for temporal node classification using topology-aware features, chronological evaluation and deterministic synthetic transaction graphs. |
-| [Time-Series Forecasting](https://github.com/sauravsingla/Time_Series) | Reproducible forecasting benchmark with walk-forward validation, leakage-safe backtesting, classical models, lag-based machine learning, tests and CI. |
-| [Outlier and Anomaly Detection](https://github.com/sauravsingla/Outlier_Detection_Tutorials) | Reproducible tutorials and benchmarks covering statistical, distance-based, density-based, isolation, kernel, ensemble and autoencoder methods. |
-| [Cross-Modal Knowledge Distillation](https://github.com/sauravsingla/Cross-Modal-Knowledge-Distillation-Framework) | ANN-to-SNN knowledge distillation for imbalanced tabular classification using spike encoding and hybrid distillation losses. |
-
 ## Peer Reviewing & Professional Service
 
 - Completed **three peer reviews** for scholarly journals, with the reviewing activity recorded on my [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/NAZ-4100-2025).
