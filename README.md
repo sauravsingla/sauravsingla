@@ -114,6 +114,6 @@ I welcome conversations around Graph AI, financial-crime intelligence, scalable 
 
 [LinkedIn](https://www.linkedin.com/in/sauravsingla008)
 
-## Open-Source Contribution
+## Open-Source & NVIDIA RAPIDS Contribution
 
-- **NVIDIA RAPIDS cuGraph — Upstream Contributor:** Authored and merged [PR #5584 — Fix multi-seed `ego_graph` offset handling](https://github.com/rapidsai/cugraph/pull/5584) into the official `rapidsai/cugraph` repository, improving multi-seed graph handling and regression coverage across weighted, renumbered, directed and multi-column graph cases.
+- **NVIDIA RAPIDS cuGraph — Upstream Contributor:** Authored [PR #5584 — Fix multi-seed `ego_graph` offset handling](https://github.com/rapidsai/cugraph/pull/5584), **merged August 2026** into the official `rapidsai/cugraph` repository; addressed [issue #4191](https://github.com/rapidsai/cugraph/issues/4191) by fixing multi-seed `ego_graph` handling and adding regression coverage across weighted, renumbered, directed and multi-column graph cases.
