@@ -113,3 +113,7 @@ Selected examples of how my published work has been independently reviewed, cite
 I welcome conversations around Graph AI, financial-crime intelligence, scalable machine learning, applied research and responsible production AI. Connect with me on LinkedIn for research collaboration, technical discussions and industry knowledge exchange.
 
 [LinkedIn](https://www.linkedin.com/in/sauravsingla008)
+
+## Open-Source Contribution
+
+- **NVIDIA RAPIDS cuGraph — Upstream Contributor:** Authored and merged [PR #5584 — Fix multi-seed `ego_graph` offset handling](https://github.com/rapidsai/cugraph/pull/5584) into the official `rapidsai/cugraph` repository, improving multi-seed graph handling and regression coverage across weighted, renumbered, directed and multi-column graph cases.
