@@ -50,8 +50,8 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 
 ## Peer Reviewing & Professional Service
 
-- Completed **three peer reviews** for scholarly journals, with the reviewing activity recorded on my [Web of Science Researcher Profile](https://www.webofscience.com/wos/author/record/NAZ-4100-2025).
-- Reviewer for the **Journal of Advances in Information Technology (JAIT)**, covering research in multimodal reasoning, retrieval-augmented generation, knowledge graphs and prompt optimisation.
+- **Reviewer — IEEE DSAA 2026 (13th IEEE International Conference on Data Science and Advanced Analytics):** Served as a reviewer for IEEE DSAA 2026, reviewing assigned research submissions.
+- **Participant — IEEE P7022 Trustworthy Enterprise Generative and Agentic AI Working Group:** Participant in the IEEE P7022 Working Group focused on the development of standards for trustworthy enterprise Generative AI and Agentic AI.
 
 ## Research & Publications
 
