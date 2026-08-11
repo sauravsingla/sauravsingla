@@ -50,7 +50,7 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 
 ## Peer Reviewing & Professional Service
 
-- **Reviewer — IEEE DSAA 2026 (13th IEEE International Conference on Data Science and Advanced Analytics):** Served as a reviewer for IEEE DSAA 2026, reviewing assigned research submissions.
+- **Reviewer — IEEE DSAA (IEEE International Conference on Data Science and Advanced Analytics):** Served as a reviewer for IEEE DSAA, reviewing assigned research submissions.
 - **Participant — IEEE P7022 Trustworthy Enterprise Generative and Agentic AI Working Group:** Participant in the IEEE P7022 Working Group focused on the development of standards for trustworthy enterprise Generative AI and Agentic AI.
 
 ## Research & Publications
