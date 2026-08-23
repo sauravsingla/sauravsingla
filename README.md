@@ -26,6 +26,7 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 - Built production AI systems for fraud intelligence, money-mule detection, anomaly detection, graph analytics, federated AI and synthetic data.
 - Published peer-reviewed research in Graph AI, temporal transaction graphs, adaptive fraud detection and high-performance analytics.
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
+- Contribute to the international AI research and standards community through the IEEE BigData Program Committee, IEEE DSAA peer reviewing and IEEE P7022 trustworthy AI standards work.
 
 ## Focus Areas
 
@@ -48,10 +49,11 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-## Peer Reviewing & Professional Service
+## Peer Reviewing, Program Committee & Standards Service
 
-- **Reviewer — IEEE DSAA (IEEE International Conference on Data Science and Advanced Analytics):** Served as a reviewer for IEEE DSAA, reviewing assigned research submissions.
-- **Participant — IEEE P7022 Trustworthy Enterprise Generative and Agentic AI Working Group:** Participant in the IEEE P7022 Working Group focused on the development of standards for trustworthy enterprise Generative AI and Agentic AI.
+- **Program Committee Member — IEEE International Conference on Big Data (IEEE BigData 2026):** Selected to serve on the Program Committee for IEEE BigData 2026, with participation in the Machine Learning area.
+- **Reviewer — IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2026):** Served as a reviewer for IEEE DSAA 2026, completing peer reviews of assigned research submissions.
+- **Participant — IEEE P7022 Trustworthy Enterprise Generative and Agentic AI Working Group:** Participating in the IEEE Standards Association P7022 Working Group developing requirements and evaluation criteria for trustworthy Generative AI and Agentic AI in enterprise applications.
 
 ## Research & Publications
 
