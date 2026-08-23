@@ -44,15 +44,15 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 ![NVIDIA RAPIDS](https://img.shields.io/badge/NVIDIA%20RAPIDS-76B900?logo=nvidia&logoColor=white)
 ![cuGraph](https://img.shields.io/badge/cuGraph-Graph%20Analytics-76B900?logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2490CF?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ## Peer Reviewing, Program Committee & Standards Service
 
-- **Program Committee Member — IEEE International Conference on Big Data (IEEE BigData 2026):** Selected to serve on the Program Committee for IEEE BigData 2026, with participation in the Machine Learning area.
-- **Reviewer — IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA 2026):** Served as a reviewer for IEEE DSAA 2026, completing peer reviews of assigned research submissions.
+- **Program Committee Member — IEEE International Conference on Big Data (IEEE BigData):** Selected to serve on the Program Committee for IEEE BigData, with participation in the Machine Learning area.
+- **Reviewer — IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA):** Served as a reviewer for IEEE DSAA, completing peer reviews of assigned research submissions.
 - **Participant — IEEE P7022 Trustworthy Enterprise Generative and Agentic AI Working Group:** Participating in the IEEE Standards Association P7022 Working Group developing requirements and evaluation criteria for trustworthy Generative AI and Agentic AI in enterprise applications.
 
 ## Research & Publications
