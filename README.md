@@ -52,7 +52,7 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 ## Program Committee, Reviewing & Standards
 
 - **Program Committee Member — IEEE BigData**
-- **Reviewer — IEEE DSAA & IEEE GSCon**
+- **Reviewer — IEEE DSAA, IEEE GSCon & IEEE ICMACC**
 - **Reviewer — NeurIPS Workshops: VLM4RWD, JUDGe, AI and the Self & Who Verifies the Agents?**
 - **Participant — IEEE P7022 TrustGenAI Working Group**
 
