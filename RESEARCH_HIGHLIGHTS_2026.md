@@ -1,12 +1,14 @@
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-# Saurav Singla — Selected Research Highlights, 2026
+# Saurav Singla — Selected Research Highlights, 2025–2026
 
-This page highlights two research contributions focused on billion-scale financial data systems, temporal graph analytics and anomaly detection in digital-payment ecosystems.
+This page highlights four peer-reviewed research contributions spanning billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
 
 ---
 
-## Computing Temporal Graph Centrality Measures over Billion-scale Financial Networks
+## 2026 Publications
+
+### Computing Temporal Graph Centrality Measures over Billion-scale Financial Networks
 
 **GRADES-NDA 2026 — 9th Joint Workshop on Graph Data Management Experiences & Systems and Network Data Analytics**  
 **Co-located with ACM SIGMOD/PODS 2026 · Archival workshop paper**
@@ -23,7 +25,7 @@ This work presents scalable approaches for computing temporal graph-centrality m
 
 ---
 
-## Billion-scale Fintech Analytics: Scalable Data Management and Anomaly Detection at NPCI
+### Billion-scale Fintech Analytics: Scalable Data Management and Anomaly Detection at NPCI
 
 **42nd IEEE International Conference on Data Engineering — ICDE 2026**  
 **Industry and Application Track**
@@ -40,9 +42,39 @@ This work describes scalable data-management and anomaly-detection approaches fo
 
 ---
 
+## 2025 Publications
+
+### Adaptive Fraud Detection Via Meta-Learning with KAN and Ensemble Strategies
+
+**IEEE International Conference on Big Data (IEEE BigData 2025)** · IEEE
+
+**Status:** Published in IEEE Xplore  
+**IEEE Xplore:** [View the published paper](https://ieeexplore.ieee.org/document/11402449)  
+**DOI:** [10.1109/BigData66926.2025.11402449](https://doi.org/10.1109/BigData66926.2025.11402449)
+
+This work proposes an adaptive fraud-detection framework combining **meta-learning**, **Kolmogorov–Arnold Networks (KAN)** and **ensemble learning** to improve generalization against evolving fraud patterns in financial transaction systems.
+
+**Research areas:** Fraud Detection · Financial AI · Meta-Learning · KAN · Ensemble Learning
+
+---
+
+### Towards Scalable Mining of Temporal Graph Motifs over Large-Scale Transaction Networks
+
+**IEEE 32nd International Conference on High Performance Computing, Data and Analytics Workshops (HiPCW 2025)** · IEEE
+
+**Status:** Published in IEEE Xplore  
+**IEEE Xplore:** [View the published paper](https://ieeexplore.ieee.org/document/11459239)  
+**DOI:** [10.1109/HiPCW66559.2025.00053](https://doi.org/10.1109/HiPCW66559.2025.00053)
+
+This work presents a scalable framework for temporal graph motif mining over **large-scale financial transaction networks**, enabling efficient discovery of transaction patterns for **anti-money laundering (AML)** investigations and graph intelligence. It was evaluated on public benchmark graphs and billion-scale UPI transaction data.
+
+**Research areas:** Graph AI · Temporal Graphs · AML · Transaction Intelligence · High-Performance Computing
+
+---
+
 ## Research Context
 
-Together, these papers reflect an applied research programme spanning temporal graph intelligence, scalable data systems, financial-crime analytics and production AI for large digital ecosystems.
+Together, these papers reflect an applied research programme spanning temporal graph intelligence, scalable data systems, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
 
 For additional publications and research profiles, visit:
 
