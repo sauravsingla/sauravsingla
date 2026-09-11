@@ -2,7 +2,7 @@
 
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-This page presents a curated set of independently traceable citations and substantive references to my published research. Only examples with publicly verifiable source material are included. The focus is on how later researchers explicitly cite or discuss the work, without attributing the citing authors’ results to the original publication.
+This page presents a curated set of independently traceable citations and substantive references to my published research and selected technical writing. Only examples with publicly verifiable source material are included. The focus is on how later researchers explicitly cite or discuss the work, without attributing the citing authors’ results to the original publication or article.
 
 ---
 
@@ -66,11 +66,33 @@ The paper is referenced in *Enabling decision-making and innovation in learning 
 
 ---
 
+## Scholarly Citations of Technical Writing
+
+### Machine Learning to Predict Credit Risk in Lending Industry
+
+**Original technical article:** [AI Time Journal](https://aitimejournal.com/machine-learning-to-predict-credit-risk-in-lending-industry)
+
+### Scholarly citation — AAAI 2022
+
+The AAAI 2022 paper *Amortized Generation of Sequential Algorithmic Recourses for Black-Box Models* cites the article in its introduction while discussing real-world applications of machine learning in domains including **finance**. This is a substantive in-text scholarly citation rather than bibliography presence alone.
+
+**Evidence:** [AAAI 2022 paper](https://cdn.aaai.org/ojs/20828/20828-13-24841-1-2-20220628.pdf)
+
+### Additional scholarly citation — ACM CIKM 2023
+
+The article is also cited in *RecRec: Algorithmic Recourse for Recommender Systems*, published at the **32nd ACM International Conference on Information and Knowledge Management (CIKM 2023)**.
+
+**Evidence:** [ACM DOI](https://doi.org/10.1145/3583780.3615181)
+
+**Research-impact significance:** These citations show that practitioner-oriented technical writing on credit-risk machine learning has been referenced in later peer-reviewed research on **algorithmic recourse and responsible machine learning**.
+
+---
+
 ## Research Profiles
 
 [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ORCID](https://orcid.org/0000-0002-6404-3988)
 
-> **Selection approach:** This page intentionally highlights a small number of citations that are directly traceable to public scholarly sources. Citation counts can vary across indexing platforms; the emphasis here is on verifiable downstream scholarly reference and substantive discussion rather than aggregate citation totals.
+> **Selection approach:** This page intentionally highlights a small number of citations that are directly traceable to public scholarly sources. Citation counts can vary across indexing platforms; the emphasis here is on verifiable downstream scholarly reference and substantive discussion rather than aggregate citation totals. Research publications and technical writing are clearly distinguished.
 
 ---
 
