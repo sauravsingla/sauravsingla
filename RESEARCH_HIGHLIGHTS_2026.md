@@ -2,11 +2,27 @@
 
 # Saurav Singla — Selected Research Highlights, 2025–2026
 
-This page highlights four peer-reviewed research contributions spanning billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
+This page highlights selected peer-reviewed publications and industry research spanning billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
 
 ---
 
-## 2026 Publications
+## 2026 Publications & Industry Research
+
+### GPU-Accelerated Processing for UPI-Scale Data: A High-Speed and Scalable Computing Framework for Large-Scale Analytics
+
+**National Payments Corporation of India (NPCI) — Technical White Paper, 2026**
+
+**Status:** Published by NPCI  
+**Official white paper:** [Read the full paper](https://www.npci.org.in/uploads/GPU_Accelerated_Processing_for_UPI_Scale_Data_9fb6efbf8d.pdf)  
+**Official NPCI announcement:** [View NPCI's publication announcement](https://www.linkedin.com/posts/npci_national-payments-corporation-of-india-npci-activity-7500584808222482432-iotp)
+
+This white paper evaluates GPU-accelerated numerical, dataframe and graph-analytics workloads at UPI scale using **CuPy/CuPyNumeric, cuDF, cuGraph and distributed GPU graph processing**. The benchmark programme covers workloads involving **hundreds of millions of entities and large-scale graph relationships**, including graph traversal, PageRank, community detection and distributed graph workloads, demonstrating substantially shorter analytical processing windows for high-volume, performance-critical workloads.
+
+NPCI publicly acknowledged **Saurav Singla** and **Vishal Anand Kanvaty** for driving the initiative, alongside the broader NPCI team, with technical collaboration from NVIDIA.
+
+**Research areas:** GPU Computing · High-Performance Analytics · Graph Analytics · UPI-Scale Data · cuGraph · cuDF · Distributed Computing
+
+---
 
 ### Computing Temporal Graph Centrality Measures over Billion-scale Financial Networks
 
@@ -74,7 +90,7 @@ This work presents a scalable framework for temporal graph motif mining over **l
 
 ## Research Context
 
-Together, these papers reflect an applied research programme spanning temporal graph intelligence, scalable data systems, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
+Together, these publications and industry research outputs reflect an applied research programme spanning temporal graph intelligence, scalable data systems, GPU-accelerated analytics, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
 
 For additional publications and research profiles, visit:
 
