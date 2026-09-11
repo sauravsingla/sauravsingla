@@ -18,8 +18,6 @@ This page highlights selected peer-reviewed publications and industry research s
 
 This white paper evaluates GPU-accelerated numerical, dataframe and graph-analytics workloads at UPI scale using **CuPy/CuPyNumeric, cuDF, cuGraph and distributed GPU graph processing**. The benchmark programme covers workloads involving **hundreds of millions of entities and large-scale graph relationships**, including graph traversal, PageRank, community detection and distributed graph workloads, demonstrating substantially shorter analytical processing windows for high-volume, performance-critical workloads.
 
-NPCI publicly acknowledged **Saurav Singla** and **Vishal Anand Kanvaty** for driving the initiative, alongside the broader NPCI team, with technical collaboration from NVIDIA.
-
 **Research areas:** GPU Computing · High-Performance Analytics · Graph Analytics · UPI-Scale Data · cuGraph · cuDF · Distributed Computing
 
 ---
