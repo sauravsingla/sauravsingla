@@ -70,6 +70,12 @@ Selected examples of how my published work has been independently reviewed, cite
 
 **[View detailed research-impact evidence →](./RESEARCH_IMPACT.md)**
 
+### More research
+
+Research profiles and author identifiers providing additional publication, citation and peer-review records across major academic databases.
+
+[Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
+
 ## Book, Course & Technical Writing
 
 - **Book:** Authored [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ), published by BPB Publications in 2021. **[View book overview and author contribution →](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)**
@@ -104,9 +110,3 @@ Selected examples of my contributions to open-source AI and high-performance com
 I welcome conversations around Graph AI, financial-crime intelligence, scalable machine learning, applied research and responsible production AI. Connect with me on LinkedIn for research collaboration, technical discussions and industry knowledge exchange.
 
 [LinkedIn](https://www.linkedin.com/in/sauravsingla008)
-
-### More research
-
-Research profiles and author identifiers providing additional publication, citation and peer-review records across major academic databases.
-
-[Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
