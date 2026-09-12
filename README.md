@@ -81,6 +81,8 @@ Selected examples of how my published work has been independently reviewed, cite
 
 ## Industry Recognition
 
+Selected examples of external recognition, official nominations and independent references to my work and contributions across AI, open source, fintech and the broader technology community.
+
 **[View independent industry recognition and external references →](./INDUSTRY_RECOGNITION.md)**
 
 ## Writing & Community Profiles
