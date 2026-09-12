@@ -38,6 +38,8 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 
 ## Core Technologies
 
+Technologies I use across production AI, graph analytics, GPU-accelerated computing, MLOps and scalable machine-learning systems.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
