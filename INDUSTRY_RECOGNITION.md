@@ -1,6 +1,11 @@
 # Industry Recognition
 
-This page highlights independent industry recognition, external references and expert citations related to my work in AI, Graph AI, fraud intelligence and large-scale financial technology.
+This page highlights independent industry and open-source recognition, official governance nominations, external references and expert citations related to my work across AI, data science, open source and financial technology.
+
+## OpenSSL Foundation Advisory Committee Election 2026
+
+- **Official Candidate — 2026 OpenSSL Foundation Advisory Committee Election (Individuals Representative)** — Publicly listed by OpenSSL as a candidate to represent the Individuals community on the Foundation Advisory Committee through its official election process.
+- **Official source:** [OpenSSL Foundation Advisory Committee election — Individuals Representative](https://openssl-communities.org/d/0X5rTE3y/individuals-foundation-advisory-committee-election-2026-)
 
 ## Python Packaging Council Election 2026
 
