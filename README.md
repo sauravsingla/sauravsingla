@@ -70,24 +70,12 @@ Selected examples of how my published work has been independently reviewed, cite
 
 **[View detailed research-impact evidence →](./RESEARCH_IMPACT.md)**
 
-## Open-Source Contribution
-
-Selected examples of my contributions to open-source AI and high-performance computing, including work related to NVIDIA RAPIDS and scalable graph analytics.
-
-**[View open-source contribution details →](./NVIDIA_RAPIDS_CONTRIBUTION.md)**
-
 ## Book, Course & Technical Writing
 
 - **Book:** Authored [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ), published by BPB Publications in 2021. **[View book overview and author contribution →](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)**
 - **Course:** Created [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/), reaching **21,000+ learners** across statistics, probability, regression and time-series analysis. **[View course and educational impact →](./UDEMY_COURSE.md)**
 - **Technical articles:** [Explore selected articles published on Towards Data Science, HackerNoon and KDnuggets →](./TECHNICAL_ARTICLES.md)
 - **Quora answers:** [Explore selected educational answers on AI, probability and machine learning →](./QUORA_ANSWERS.md)
-
-## Industry Recognition
-
-Selected examples of external recognition, official nominations and independent references to my work and contributions across AI, open source, fintech and the broader technology community.
-
-**[View independent industry recognition and external references →](./INDUSTRY_RECOGNITION.md)**
 
 ## Writing & Community Profiles
 
@@ -98,6 +86,18 @@ Selected writing, knowledge-sharing and developer-community profiles where I pub
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
 [![Quora](https://img.shields.io/badge/Quora-Saurav%20Singla-B92B27?logo=quora&logoColor=white)](https://www.quora.com/profile/Saurav-Singla)
 [![NVIDIA Developer Forums](https://img.shields.io/badge/NVIDIA-Developer%20Forums-76B900?logo=nvidia&logoColor=white)](https://forums.developer.nvidia.com/u/sauravsingla08)
+
+## Industry Recognition
+
+Selected examples of external recognition, official nominations and independent references to my work and contributions across AI, open source, fintech and the broader technology community.
+
+**[View independent industry recognition and external references →](./INDUSTRY_RECOGNITION.md)**
+
+## Open-Source Contribution
+
+Selected examples of my contributions to open-source AI and high-performance computing, including work related to NVIDIA RAPIDS and scalable graph analytics.
+
+**[View open-source contribution details →](./NVIDIA_RAPIDS_CONTRIBUTION.md)**
 
 ## Connect
 
