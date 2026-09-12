@@ -91,6 +91,8 @@ Selected examples of external recognition, official nominations and independent 
 
 ## Writing & Community Profiles
 
+Selected writing, knowledge-sharing and developer-community profiles where I publish technical perspectives and participate in discussions across AI, data science, machine learning and high-performance computing.
+
 [![Medium](https://img.shields.io/badge/Medium-sauravsingla08-000000?logo=medium&logoColor=white)](https://sauravsingla08.medium.com)
 [![Towards Data Science](https://img.shields.io/badge/Towards%20Data%20Science-Author%20Profile-3B3B3B)](https://towardsdatascience.com/author/sauravsingla08/)
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-sauravsingla08-00FF00?logo=hackernoon&logoColor=black)](https://hackernoon.com/u/sauravsingla08)
