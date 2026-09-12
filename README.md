@@ -70,6 +70,8 @@ Selected examples of how my published work has been independently reviewed, cite
 
 ## Open-Source Contribution
 
+Selected examples of my contributions to open-source AI and high-performance computing, including work related to NVIDIA RAPIDS and scalable graph analytics.
+
 **[View open-source contribution details →](./NVIDIA_RAPIDS_CONTRIBUTION.md)**
 
 ## Book, Course & Technical Writing
