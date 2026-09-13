@@ -1,8 +1,8 @@
-# Saurav Singla — Selected Independent Citations & Research Impact
+# Saurav Singla — Selected Independent Research, Scholarly & Academic Impact
 
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-This page presents a curated set of independently traceable citations and substantive references to my published research and selected technical writing. Only examples with publicly verifiable source material are included. The focus is on how later researchers explicitly cite or discuss the work, without attributing the citing authors’ results to the original publication or article.
+This page presents a curated set of independently traceable citations, substantive references, and academic adoption of my published research and selected technical writing. Only examples with publicly verifiable source material are included. The focus is on how later researchers explicitly cite or discuss the work, and how authored work is independently adopted in academic settings, without attributing others’ results to the original publication, article, or book.
 
 ---
 
@@ -88,11 +88,29 @@ The article is also cited in *RecRec: Algorithmic Recourse for Recommender Syste
 
 ---
 
+## Academic Curriculum Adoption
+
+### Machine Learning For Finance
+
+**Book:** *Machine Learning For Finance* — Saurav Singla, BPB Publications, 2020
+
+### Academic curriculum adoption — Pondicherry University
+
+The official **M.Sc. Quantitative Finance** syllabus of **Pondicherry University**, effective from the academic year **2025–26 onwards**, includes *Machine Learning For Finance* by **Saurav Singla** among the reference books for its machine-learning curriculum.
+
+The book appears alongside established quantitative-finance texts including *Machine Learning in Finance: From Theory to Practice* by Matthew F. Dixon, Igor Halperin and Paul Bilokon.
+
+**Evidence:** [Official Pondicherry University M.Sc. Quantitative Finance syllabus](https://www.pondiuni.edu.in/wp-content/uploads/2026/07/PUSyllabusMscQuantitativeFinance2025-26-02072026.pdf)
+
+**Academic-impact significance:** Inclusion in an official postgraduate quantitative-finance curriculum provides independently verifiable evidence of the book’s academic adoption and educational relevance in machine learning applied to finance.
+
+---
+
 ## Research Profiles
 
 [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ORCID](https://orcid.org/0000-0002-6404-3988)
 
-> **Selection approach:** This page intentionally highlights a small number of citations that are directly traceable to public scholarly sources. Citation counts can vary across indexing platforms; the emphasis here is on verifiable downstream scholarly reference and substantive discussion rather than aggregate citation totals. Research publications and technical writing are clearly distinguished.
+> **Selection approach:** This page intentionally highlights a small number of independently verifiable examples of downstream scholarly reference, substantive discussion, and academic adoption. Citation counts can vary across indexing platforms; the emphasis here is on traceable evidence of research, scholarly, and educational impact rather than aggregate citation totals. Research publications, technical writing, and academic curriculum adoption are clearly distinguished.
 
 ---
 
