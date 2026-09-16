@@ -10,7 +10,7 @@ This page highlights independent industry and open-source recognition, official 
 ## Python Packaging Council Election 2026
 
 - **Official Candidate — 2026 Python Packaging Council Election** — Listed by Python.org as one of 17 nominees for the inaugural Python Packaging Council, the technical governance body responsible for interoperability standards governing how Python packages are built, distributed and installed.
-- **Election completed — 15 September 2026** — The inaugural election concluded with **541 ballots submitted (538 valid and 3 empty)** for five council seats. My candidacy is included in the official final OpaVote results.
+- **Election completed — 15 September 2026** — The inaugural election concluded for five council seats. My candidacy is included in the official final OpaVote results.
 - **Official sources:** [Python.org nominee profile](https://www.python.org/nominations/elections/2026-python-packaging-council/nominees/saurav-singla/) · [OpaVote final results](https://opavote.com/results/4727898127990784)
 
 ## Global Fintech Fest 2025 AI Report
