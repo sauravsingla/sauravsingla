@@ -28,6 +28,12 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 - Contribute to the international AI research and standards community through IEEE program committee service, peer reviewing and trustworthy AI standards work.
 
+## Featured Open-Source Projects
+
+- **[AgentWeave](https://github.com/sauravsingla/agentweave)** — pre-inference routing for tool-rich LLM and multi-agent systems, with MCP, A2A, LangGraph and AutoGen integration.
+- **[MemVanta](https://github.com/sauravsingla/MemVanta)** — low-memory C++20 LLM inference runtime for quantized GGUF models on CPU.
+- **[VeloGraphX](https://github.com/sauravsingla/VeloGraphX)** — high-performance C++20 and Python engine for dynamic and incremental graph analytics.
+
 ## Focus Areas
 
 - **Graph AI and financial crime:** graph machine learning, graph neural networks, temporal graphs, transaction-network analysis, fraud detection and money-mule detection
