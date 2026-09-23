@@ -17,11 +17,11 @@ Building production AI for digital payments, transaction-graph analytics, tempor
 
 ## About & Impact
 
-AI and data science leader with **20+ years of experience** translating research into scalable, production-ready systems across Graph AI, fraud intelligence, temporal learning and large-scale analytics.
+AI and data science leader with **20+ years of experience** bridging applied research, engineering and deployment for large-scale digital systems.
 
 - Lead AI and data science initiatives for one of the world's largest real-time digital payments ecosystems.
-- Built production systems spanning fraud intelligence, money-mule detection, graph analytics, federated AI and synthetic data.
-- Published peer-reviewed research in Graph AI, temporal transaction networks, adaptive fraud detection and high-performance analytics.
+- Translate research into operational systems for high-volume, performance-critical environments.
+- Publish peer-reviewed applied research and contribute to international reviewing and standards activities.
 - Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
 
 ## Featured Open-Source Projects
@@ -60,11 +60,11 @@ AI and data science leader with **20+ years of experience** translating research
 
 ## Focus Areas
 
-- **Graph AI and financial crime:** graph machine learning, graph neural networks, temporal graphs, transaction-network analysis, fraud detection and money-mule detection
-- **Scalable production AI:** production machine learning, real-time analytics, MLOps, LLMOps, observability, testing and responsible AI governance
-- **GPU-accelerated analytics:** CUDA, NVIDIA RAPIDS, cuGraph and high-performance graph computing
-- **Generative and agentic AI:** LLMs, retrieval-augmented generation, agentic workflows and enterprise GenAI
-- **Applied machine learning:** anomaly detection, time-series forecasting, incremental learning, reinforcement learning and knowledge distillation
+- **Financial network intelligence:** transaction graphs, fraud detection, money-mule detection and anomaly detection
+- **Temporal & graph learning:** temporal graphs, graph neural networks, incremental learning and motif analysis
+- **High-performance analytics:** GPU acceleration, distributed graph processing and large-scale data systems
+- **Agentic & generative AI:** LLMs, retrieval-augmented generation, tool routing and multi-agent workflows
+- **ML systems & governance:** MLOps, LLMOps, observability, testing and responsible AI
 
 ## Core Technologies
 
@@ -106,7 +106,7 @@ Selected examples of how my published work has been independently reviewed, cite
 
 Research profiles and author identifiers providing additional publication, citation and peer-review records across major academic databases.
 
-[Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
+[Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002--6404--3988) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59984649000) · [Web of Science](https://www.webofscience.com/wos/author/record/NAZ-4100-2025) · [ResearchGate](https://www.researchgate.net/profile/Saurav-Singla-4) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [DBLP](https://dblp.org/pid/410/2745.html) · [Semantic Scholar](https://www.semanticscholar.org/author/Saurav-Singla/2370858010) · [ACM Digital Library](https://dl.acm.org/profile/99661729658)
 
 ## Book, Course & Technical Writing
 
