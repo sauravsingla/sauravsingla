@@ -30,9 +30,37 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 
 ## Featured Open-Source Projects
 
-- **[AgentWeave](https://github.com/sauravsingla/agentweave)** — pre-inference routing for tool-rich LLM and multi-agent systems, with MCP, A2A, LangGraph and AutoGen integration. **[Project site](https://sauravsingla.github.io/agentweave/)**
-- **[MemVanta](https://github.com/sauravsingla/MemVanta)** — low-memory C++20 LLM inference runtime for quantized GGUF models on CPU. **[Project site](https://sauravsingla.github.io/MemVanta/)**
-- **[VeloGraphX](https://github.com/sauravsingla/VeloGraphX)** — high-performance C++20 and Python engine for dynamic and incremental graph analytics. **[Project site](https://sauravsingla.github.io/VeloGraphX/)**
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">🧠 AgentWeave</h3>
+<p align="center"><strong>Pre-inference routing for tool-rich LLMs and multi-agent systems</strong></p>
+<p align="center">MCP · A2A · LangGraph · AutoGen</p>
+<p align="center">
+<a href="https://github.com/sauravsingla/agentweave"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="AgentWeave GitHub"></a>
+<a href="https://sauravsingla.github.io/agentweave/"><img src="https://img.shields.io/badge/Project-Site-2EA44F" alt="AgentWeave project site"></a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">⚙️ MemVanta</h3>
+<p align="center"><strong>Low-memory C++20 LLM inference runtime for quantized GGUF models</strong></p>
+<p align="center">CPU · mmap · paged KV cache · Q4/Q8</p>
+<p align="center">
+<a href="https://github.com/sauravsingla/MemVanta"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="MemVanta GitHub"></a>
+<a href="https://sauravsingla.github.io/MemVanta/"><img src="https://img.shields.io/badge/Project-Site-2EA44F" alt="MemVanta project site"></a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🕸️ VeloGraphX</h3>
+<p align="center"><strong>High-performance dynamic and incremental graph analytics engine</strong></p>
+<p align="center">C++20 · Python · BFS/SSSP · PageRank · k-core</p>
+<p align="center">
+<a href="https://github.com/sauravsingla/VeloGraphX"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="VeloGraphX GitHub"></a>
+<a href="https://sauravsingla.github.io/VeloGraphX/"><img src="https://img.shields.io/badge/Project-Site-2EA44F" alt="VeloGraphX project site"></a>
+</p>
+</td>
+</tr>
+</table>
 
 ## Focus Areas
 
