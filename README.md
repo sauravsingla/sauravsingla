@@ -30,9 +30,9 @@ I am Saurav Singla, Head of Data Science and an AI leader with 20+ years of expe
 
 ## Featured Open-Source Projects
 
-- **[AgentWeave](https://github.com/sauravsingla/agentweave)** — pre-inference routing for tool-rich LLM and multi-agent systems, with MCP, A2A, LangGraph and AutoGen integration.
-- **[MemVanta](https://github.com/sauravsingla/MemVanta)** — low-memory C++20 LLM inference runtime for quantized GGUF models on CPU.
-- **[VeloGraphX](https://github.com/sauravsingla/VeloGraphX)** — high-performance C++20 and Python engine for dynamic and incremental graph analytics.
+- **[AgentWeave](https://github.com/sauravsingla/agentweave)** — pre-inference routing for tool-rich LLM and multi-agent systems, with MCP, A2A, LangGraph and AutoGen integration. **[Project site](https://sauravsingla.github.io/agentweave/)**
+- **[MemVanta](https://github.com/sauravsingla/MemVanta)** — low-memory C++20 LLM inference runtime for quantized GGUF models on CPU. **[Project site](https://sauravsingla.github.io/MemVanta/)**
+- **[VeloGraphX](https://github.com/sauravsingla/VeloGraphX)** — high-performance C++20 and Python engine for dynamic and incremental graph analytics. **[Project site](https://sauravsingla.github.io/VeloGraphX/)**
 
 ## Focus Areas
 
