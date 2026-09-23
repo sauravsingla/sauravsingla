@@ -8,13 +8,13 @@
 
 **Data Analysis for Business and Finance** is a foundational analytics course designed to help learners understand how statistical and analytical methods can support business and financial decision-making.
 
-The course has reached **21,000+ learners** and develops an intuitive understanding of data analysis, from descriptive statistics and probability through regression and time-series forecasting.
+The course has reached **22,000+ learners** and develops an intuitive understanding of data analysis, from descriptive statistics and probability through regression and time-series forecasting.
 
 ## Course at a Glance
 
 - **Instructor:** Saurav Singla
 - **Platform:** Udemy
-- **Learner reach:** 21,000+ students
+- **Learner reach:** 22,000+ students
 - **Level:** Beginner to intermediate
 - **Format:** 11 lectures with more than 4.5 hours of learning content
 - **Language:** English
