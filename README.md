@@ -2,90 +2,64 @@
 
 # Saurav Singla
 
-### Building open-source AI systems for agents, efficient inference & dynamic graphs
+### Building open-source systems for AI agents, efficient LLM inference & dynamic graphs
 
-**Agentic AI · LLM Systems · Graph Analytics · High-Performance ML**
-
-I build practical, reproducible AI systems — from routing for tool-rich agents, to memory-efficient local LLM inference, to dynamic graph analytics.
+`Agentic AI` · `LLM Systems` · `Graph Analytics` · `C++ / Python`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
 
-**⭐ If you find these projects useful, star a repo and follow [@sauravsingla](https://github.com/sauravsingla) for new releases, benchmarks and experiments.**
-
 </div>
 
 ---
 
-## 🚀 Three projects I’m building
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 [AgentWeave](https://github.com/sauravsingla/agentweave)
+## 01 — 🧠 [AgentWeave](https://github.com/sauravsingla/agentweave)
 
 **Route before you reason.**
 
-Pre-inference routing and secure execution for tool-rich LLM and multi-agent systems.
+Pre-inference routing and secure execution for tool-rich LLM and multi-agent systems. AgentWeave reduces the action space shown to a model before inference while keeping authorization, provenance and recovery explicit.
 
-**Measured on the project benchmark:**
-- 70.18% fewer tools exposed
-- 61.70% fewer input tokens
-- 50.95% lower mean local-model latency
+**Project benchmark:** 70.18% fewer tools exposed · 61.70% fewer input tokens · 50.95% lower mean local-model latency
 
-`MCP` · `A2A` · `LangGraph` · `AutoGen`
+`MCP` · `A2A` · `LangGraph` · `AutoGen` · `Python`
 
 [Repository](https://github.com/sauravsingla/agentweave) · [Project site](https://sauravsingla.github.io/agentweave/) · [Paper](https://arxiv.org/abs/2608.23078)
 
-</td>
-<td width="33%" valign="top">
+---
 
-### ⚙️ [MemVanta](https://github.com/sauravsingla/MemVanta)
+## 02 — ⚙️ [MemVanta](https://github.com/sauravsingla/MemVanta)
 
 **Run quantized LLMs with less resident memory.**
 
-A memory-first C++20 runtime for quantized GGUF models on CPU.
+A memory-first C++20 runtime for quantized GGUF models on CPU, built around mmap-backed model access, paged KV cache, compact kernels and reproducible benchmarking.
 
-**7B benchmark:**
-- 3.80 GiB peak RSS
-- 47.54% lower peak RSS than the pinned comparison runtime
-- mmap + paged KV cache + Q4/Q8 kernels
+**7B benchmark:** 3.80 GiB peak RSS · 47.54% lower peak RSS than the pinned comparison runtime
 
-`C++20` · `GGUF` · `CPU` · `Systems`
+`C++20` · `GGUF` · `CPU Inference` · `Systems`
 
 [Repository](https://github.com/sauravsingla/MemVanta) · [Docs](https://sauravsingla.github.io/MemVanta/) · [Benchmark](https://sauravsingla.github.io/MemVanta/benchmark/)
 
-</td>
-<td width="33%" valign="top">
+---
 
-### 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
+## 03 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
 
-**Dynamic graph analytics without assuming one execution strategy always wins.**
+**High-performance analytics for continuously evolving graphs.**
 
-A C++20 + Python engine for large, continuously evolving graphs with adaptive repair vs recomputation.
+A C++20 + Python engine for dynamic graph analytics with adaptive repair vs recomputation across BFS/SSSP, connected components, triangle counting, k-core and PageRank.
 
-**Built for:**
-- BFS / SSSP
-- Connected components
-- Triangle counting
-- k-core / PageRank
+**Retained exactness stress result:** 2,000,000 updates · 0 BFS mismatches · 0 triangle mismatches
 
-`C++20` · `Python` · `Graph Analytics` · `PyPI`
+`C++20` · `Python` · `Dynamic Graphs` · `Graph Analytics` · `PyPI`
 
 [Repository](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/)
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## What I work on
 
-I’m interested in systems where **research ideas have to survive real engineering constraints**:
+I’m interested in systems where research ideas have to survive real engineering constraints:
 
 - **Agentic AI:** routing, tool selection, authorization, recovery and multi-agent execution
 - **Efficient LLM systems:** low-memory inference, quantization, runtime design and reproducible benchmarking
@@ -94,17 +68,15 @@ I’m interested in systems where **research ideas have to survive real engineer
 
 ---
 
-## Open-source philosophy
+## Open-source approach
 
-I try to make projects useful beyond a demo. That means publishing **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** alongside the code.
+I try to make projects useful beyond a demo: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** alongside the code.
 
-If you are working on agent systems, efficient inference, graph analytics or production ML, I’m happy to compare notes and collaborate.
+If you work on agent systems, efficient inference, graph analytics or production ML, I’m happy to compare notes and collaborate.
 
 ---
 
-## Research & technical work
-
-Alongside open source, I publish and review work across graph machine learning, temporal systems, fraud intelligence, scalable AI and high-performance computing.
+## Research & credibility
 
 [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [DBLP](https://dblp.org/pid/410/2745.html) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [ACM DL](https://dl.acm.org/profile/99661729658)
 
@@ -118,6 +90,6 @@ Alongside open source, I publish and review work across graph machine learning, 
 
 ### Build → Measure → Publish → Improve
 
-**Follow [@sauravsingla](https://github.com/sauravsingla) for new open-source releases and experiments.**
+**Follow [@sauravsingla](https://github.com/sauravsingla) for new releases, benchmarks and open-source experiments.**
 
 </div>
