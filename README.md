@@ -135,7 +135,7 @@ Selected examples of external recognition, official nominations and independent 
 
 ## Open-Source Contribution
 
-Selected examples of my contributions to open-source AI and high-performance computing, including work related to NVIDIA RAPIDS and scalable graph analytics.
+Selected examples of my contributions to open-source AI, scalable systems and graph analytics.
 
 **[View open-source contribution details →](./NVIDIA_RAPIDS_CONTRIBUTION.md)**
 
