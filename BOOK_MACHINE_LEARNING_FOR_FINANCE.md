@@ -15,7 +15,7 @@ The book is designed to help readers understand how data-driven methods can be a
 
 - **Author:** Saurav Singla
 - **Publisher:** BPB Publications
-- **Publication year:** 2021
+- **Publication year:** 2020
 - **Primary domain:** Machine learning in banking and finance
 - **Level:** Beginner to intermediate
 - **Format:** Practical, application-oriented introduction
