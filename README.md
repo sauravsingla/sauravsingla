@@ -22,7 +22,7 @@ AI and data science leader with **20+ years of experience** bridging applied res
 - Lead AI and data science initiatives for one of the world's largest real-time digital payments ecosystems.
 - Translate research into operational systems for high-volume, performance-critical environments.
 - Publish peer-reviewed applied research and contribute to international reviewing and standards activities.
-- Author of *Machine Learning for Finance* and educator to **21,000+ learners**.
+- Author of *Machine Learning for Finance* and educator to **22,000+ learners**.
 
 ## Featured Open-Source Projects
 
@@ -113,7 +113,7 @@ Research profiles and author identifiers providing additional publication, citat
 Selected work in technical authorship, education and knowledge sharing, spanning a published book, online learning and practitioner-focused articles.
 
 - **Book:** Authored [Machine Learning for Finance: Beginner's Guide to Explore Machine Learning in Banking and Finance](https://books.google.com/books/about/Machine_Learning_for_Finance.html?id=7xISEAAAQBAJ), published by BPB Publications in 2020. **[View book overview and author contribution →](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)**
-- **Course:** Created [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/), reaching **21,000+ learners** across statistics, probability, regression and time-series analysis. **[View course and educational impact →](./UDEMY_COURSE.md)**
+- **Course:** Created [Data Analysis for Business and Finance](https://www.udemy.com/course/data-analysis-for-business-and-finance/), reaching **22,000+ learners** across statistics, probability, regression and time-series analysis. **[View course and educational impact →](./UDEMY_COURSE.md)**
 - **Technical articles:** [Explore selected articles published on Towards Data Science, HackerNoon and KDnuggets →](./TECHNICAL_ARTICLES.md)
 - **Quora answers:** [Explore selected educational answers on AI, probability and machine learning →](./QUORA_ANSWERS.md)
 
