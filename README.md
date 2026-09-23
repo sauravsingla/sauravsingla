@@ -57,17 +57,6 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 ---
 
-## What I work on
-
-I’m interested in systems where research ideas have to survive real engineering constraints:
-
-- **Agentic AI:** routing, tool selection, authorization, recovery and multi-agent execution
-- **Efficient LLM systems:** low-memory inference, quantization, runtime design and reproducible benchmarking
-- **Dynamic & temporal graphs:** evolving networks, incremental analytics, graph ML and fraud intelligence
-- **Scalable ML:** GPU acceleration, distributed processing, observability and production AI
-
----
-
 ## Open-source approach
 
 I try to make projects useful beyond a demo: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** alongside the code.
@@ -76,7 +65,7 @@ If you work on agent systems, efficient inference, graph analytics or production
 
 ---
 
-## Research & credibility
+## Research & Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [DBLP](https://dblp.org/pid/410/2745.html) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [ACM DL](https://dl.acm.org/profile/99661729658)
 
