@@ -29,7 +29,7 @@ Pre-inference routing and secure execution for tool-rich LLM and multi-agent sys
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/agentweave?style=social)](https://github.com/sauravsingla/agentweave)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/agentweave) · [Project site](https://sauravsingla.github.io/agentweave/) · [Paper](https://arxiv.org/abs/2608.23078)
+[⭐ Explore / Star](https://github.com/sauravsingla/agentweave) · [PyPI](https://pypi.org/project/agentweave-router/) · [Docs](https://sauravsingla.github.io/agentweave/) · [Paper](https://arxiv.org/abs/2608.23078)
 
 ---
 
@@ -45,7 +45,7 @@ A memory-first C++20 runtime for quantized GGUF models on CPU, built around mmap
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/MemVanta?style=social)](https://github.com/sauravsingla/MemVanta)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/MemVanta) · [Docs](https://sauravsingla.github.io/MemVanta/) · [Benchmark](https://sauravsingla.github.io/MemVanta/benchmark/)
+[⭐ Explore / Star](https://github.com/sauravsingla/MemVanta) · [PyPI](https://pypi.org/project/memvanta/) · [Docs](https://sauravsingla.github.io/MemVanta/) · [Benchmark](https://sauravsingla.github.io/MemVanta/benchmark/)
 
 ---
 
