@@ -11,6 +11,8 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
 
+**Flagship open-source projects ↓**
+
 </div>
 
 ---
@@ -25,7 +27,9 @@ Pre-inference routing and secure execution for tool-rich LLM and multi-agent sys
 
 `MCP` · `A2A` · `LangGraph` · `AutoGen` · `Python`
 
-[Repository](https://github.com/sauravsingla/agentweave) · [Project site](https://sauravsingla.github.io/agentweave/) · [Paper](https://arxiv.org/abs/2608.23078)
+[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/agentweave?style=social)](https://github.com/sauravsingla/agentweave)
+
+[⭐ Explore / Star](https://github.com/sauravsingla/agentweave) · [Project site](https://sauravsingla.github.io/agentweave/) · [Paper](https://arxiv.org/abs/2608.23078)
 
 ---
 
@@ -39,7 +43,9 @@ A memory-first C++20 runtime for quantized GGUF models on CPU, built around mmap
 
 `C++20` · `GGUF` · `CPU Inference` · `Systems`
 
-[Repository](https://github.com/sauravsingla/MemVanta) · [Docs](https://sauravsingla.github.io/MemVanta/) · [Benchmark](https://sauravsingla.github.io/MemVanta/benchmark/)
+[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/MemVanta?style=social)](https://github.com/sauravsingla/MemVanta)
+
+[⭐ Explore / Star](https://github.com/sauravsingla/MemVanta) · [Docs](https://sauravsingla.github.io/MemVanta/) · [Benchmark](https://sauravsingla.github.io/MemVanta/benchmark/)
 
 ---
 
@@ -53,7 +59,9 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 `C++20` · `Python` · `Dynamic Graphs` · `Graph Analytics` · `PyPI`
 
-[Repository](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/)
+[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VeloGraphX?style=social)](https://github.com/sauravsingla/VeloGraphX)
+
+[⭐ Explore / Star](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/)
 
 ---
 
@@ -61,7 +69,7 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 I try to make projects useful beyond a demo: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** alongside the code.
 
-If you work on agent systems, efficient inference, graph analytics or production ML, I’m happy to compare notes and collaborate.
+If one of these projects is useful to your work, **star that project repository** so others can discover it too. If you work on agent systems, efficient inference, graph analytics or production ML, I’m happy to compare notes and collaborate.
 
 ---
 
