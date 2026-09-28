@@ -2,22 +2,43 @@
 
 # Saurav Singla
 
-### Building open-source systems for AI agents, efficient LLM inference & dynamic graphs
+### Building open-source systems for reliable ML, AI agents, efficient LLM inference & dynamic graphs
 
-`Agentic AI` · `LLM Systems` · `Graph Analytics` · `C++ / Python`
+`ML Reliability` · `Agentic AI` · `LLM Systems` · `Graph Analytics` · `C++ / Python`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
 
-**Flagship open-source projects ↓**
+**Open-source projects built around measurable, reproducible evidence ↓**
 
 </div>
 
 ---
 
-## 01 — 🧠 [AgentWeave](https://github.com/sauravsingla/agentweave)
+## ⭐ Featured — [DeciShift](https://github.com/sauravsingla/DeciShift)
+
+### Your model metrics improved. Did its actual decisions change?
+
+DeciShift is an open-source ML behavioral regression testing framework that compares two versions of a decision system, finds record-level action changes, attributes those changes to versioned components, preserves verifiable evidence, and can block a release when declared Decision Contracts are violated.
+
+**Public evaluation example:** model accuracy improved from **90.26% → 91.79%**, yet **30 of 719 final actions changed**; a governed cohort exceeded its declared action-shift limit, so the release contract returned **BLOCK**.
+
+`ML Testing` · `MLOps` · `Model Governance` · `Decision Systems` · `Python`
+
+[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/DeciShift?style=social)](https://github.com/sauravsingla/DeciShift)
+
+[⭐ Explore / Star](https://github.com/sauravsingla/DeciShift) · [PyPI](https://pypi.org/project/decishift/) · [Live Demo](https://huggingface.co/spaces/sauravsingla08/DeciShift) · [Dataset](https://huggingface.co/datasets/sauravsingla08/DeciShift-Decision-Change-Benchmark)
+
+```bash
+pip install decishift
+decishift demo --rows 1000 --no-save
+```
+
+---
+
+## 02 — 🧠 [AgentWeave](https://github.com/sauravsingla/agentweave)
 
 **Route before you reason.**
 
@@ -33,7 +54,7 @@ Pre-inference routing and secure execution for tool-rich LLM and multi-agent sys
 
 ---
 
-## 02 — ⚙️ [MemVanta](https://github.com/sauravsingla/MemVanta)
+## 03 — ⚙️ [MemVanta](https://github.com/sauravsingla/MemVanta)
 
 **Run quantized LLMs with less resident memory.**
 
@@ -49,7 +70,7 @@ A memory-first C++20 runtime for quantized GGUF models on CPU, built around mmap
 
 ---
 
-## 03 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
+## 04 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
 
 **High-performance analytics for continuously evolving graphs.**
 
@@ -69,7 +90,7 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 I try to make projects useful beyond a demo: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** alongside the code.
 
-If one of these projects is useful to your work, **star that project repository** so others can discover it too. If you work on agent systems, efficient inference, graph analytics or production ML, I’m happy to compare notes and collaborate.
+If one of these projects solves a problem you care about, **star that project repository** so others can discover it too. Issues, benchmark reproductions, integrations and technical feedback are also welcome.
 
 ---
 
@@ -87,6 +108,6 @@ If one of these projects is useful to your work, **star that project repository*
 
 ### Build → Measure → Publish → Improve
 
-**Follow [@sauravsingla](https://github.com/sauravsingla) for new releases, benchmarks and open-source experiments.**
+**Follow [@sauravsingla](https://github.com/sauravsingla) for releases, benchmarks and reproducible open-source experiments.**
 
 </div>
