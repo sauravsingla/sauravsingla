@@ -86,6 +86,28 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 ---
 
+## 05 — 🎯 [ConfigReach](https://github.com/sauravsingla/ConfigReach)
+
+**Codecov for configuration space.**
+
+A deterministic, CPU-only configuration coverage analyzer that shows which environment variables, feature flags, configuration values, branches and important combinations your tests actually exercise.
+
+**Published validation:** 11 pinned repositories · 9 ecosystems · 96,845 configuration inputs · 5,539 with detected test/runtime evidence · 5.72% aggregate observed configuration coverage
+
+`Software Testing` · `Static Analysis` · `Configuration Coverage` · `CI/CD` · `Python`
+
+[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/ConfigReach?style=social)](https://github.com/sauravsingla/ConfigReach)
+
+[⭐ Explore / Star](https://github.com/sauravsingla/ConfigReach) · [Hugging Face Collection](https://huggingface.co/collections/sauravsingla08/configreach-configuration-coverage) · [Space](https://huggingface.co/spaces/sauravsingla08/ConfigReach) · [Dataset](https://huggingface.co/datasets/sauravsingla08/configreach-validation) · [PyPI](https://pypi.org/project/configreach/)
+
+```bash
+pip install configreach
+configreach scan .
+configreach coverage .
+```
+
+---
+
 ## Open-source approach
 
 I try to make projects useful beyond a demo: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** alongside the code.
