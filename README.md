@@ -92,7 +92,9 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 A deterministic, CPU-only configuration coverage analyzer that shows which environment variables, feature flags, configuration values, branches and important combinations your tests actually exercise.
 
-**Validation:** 50,000-case committed curated benchmark · 25,000 positive / 25,000 negative · 0 FP / 0 FN within benchmark scope; plus a public holdout across 11 pinned repositories, 9 ecosystems and 96,845 discovered configuration inputs
+**Controlled benchmark:** 50,000 curated cases · 25,000 positive / 25,000 negative · 0 FP / 0 FN within benchmark scope
+
+**Public-repository validation:** 11 pinned repositories · 9 ecosystems · 96,845 discovered configuration inputs
 
 `Software Testing` · `Static Analysis` · `Configuration Coverage` · `CI/CD` · `Python`
 
@@ -110,7 +112,7 @@ configreach coverage .
 
 ## Open-source approach
 
-I try to make projects useful beyond a demo: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** alongside the code.
+These projects are built beyond demos: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** are developed alongside the code.
 
 If one of these projects solves a problem you care about, **star that project repository** so others can discover it too. Issues, benchmark reproductions, integrations and technical feedback are also welcome.
 
@@ -120,7 +122,7 @@ If one of these projects solves a problem you care about, **star that project re
 
 [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [DBLP](https://dblp.org/pid/410/2745.html) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [ACM DL](https://dl.acm.org/profile/99661729658)
 
-**Book:** *Machine Learning for Finance* · **Course:** *Data Analysis for Business and Finance* · **Technical writing:** Towards Data Science, HackerNoon and KDnuggets
+**Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md) · **Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners · **Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
 
 [Research highlights](./RESEARCH_HIGHLIGHTS_2026.md) · [Research impact](./RESEARCH_IMPACT.md) · [Open-source contributions](./NVIDIA_RAPIDS_CONTRIBUTION.md) · [Industry recognition](./INDUSTRY_RECOGNITION.md)
 
