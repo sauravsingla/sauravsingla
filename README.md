@@ -17,7 +17,7 @@
 
 ---
 
-## ⭐ Featured — [DeciShift](https://github.com/sauravsingla/DeciShift)
+## 01 — ⭐ Featured — [DeciShift](https://github.com/sauravsingla/DeciShift)
 
 ### Your model metrics improved. Did its actual decisions change?
 
@@ -92,7 +92,7 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 A deterministic, CPU-only configuration coverage analyzer that shows which environment variables, feature flags, configuration values, branches and important combinations your tests actually exercise.
 
-**Published validation:** 11 pinned repositories · 9 ecosystems · 96,845 configuration inputs · 5,539 with detected test/runtime evidence · 5.72% aggregate observed configuration coverage
+**Validation:** 50,000-case committed curated benchmark · 25,000 positive / 25,000 negative · 0 FP / 0 FN within benchmark scope; plus a public holdout across 11 pinned repositories, 9 ecosystems and 96,845 discovered configuration inputs
 
 `Software Testing` · `Static Analysis` · `Configuration Coverage` · `CI/CD` · `Python`
 
