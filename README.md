@@ -44,7 +44,7 @@ decishift demo --rows 1000 --no-save
 
 Pre-inference routing and secure execution for tool-rich LLM and multi-agent systems. AgentWeave reduces the action space shown to a model before inference while keeping authorization, provenance and recovery explicit.
 
-**Project benchmark:** 70.18% fewer tools exposed · 61.70% fewer input tokens · 50.95% lower mean local-model latency
+**Frozen BFCL-derived routing benchmark:** 70.18% fewer tools exposed · 61.70% fewer input tokens · 50.95% lower mean local-model latency
 
 `MCP` · `A2A` · `LangGraph` · `AutoGen` · `Python`
 
@@ -60,7 +60,7 @@ Pre-inference routing and secure execution for tool-rich LLM and multi-agent sys
 
 A memory-first C++20 runtime for quantized GGUF models on CPU, built around mmap-backed model access, paged KV cache, compact kernels and reproducible benchmarking.
 
-**7B benchmark:** 3.80 GiB peak RSS · 47.54% lower peak RSS than the pinned comparison runtime
+**OpenLLaMA 7B v2 Q4_0 benchmark:** 3.80 GiB peak RSS · 47.54% lower peak RSS than pinned `llama.cpp`
 
 `C++20` · `GGUF` · `CPU Inference` · `Systems`
 
@@ -94,7 +94,7 @@ A deterministic, CPU-only configuration coverage analyzer that shows which envir
 
 **Controlled benchmark:** 50,000 curated cases · 25,000 positive / 25,000 negative · 0 FP / 0 FN within benchmark scope
 
-**Public-repository validation:** 11 pinned repositories · 9 ecosystems · 96,845 discovered configuration inputs
+**External holdout:** 11 pinned repositories · 9 ecosystems · 96,845 configuration inputs · 5,539 with detected test/runtime evidence · 5.72% observed configuration coverage
 
 `Software Testing` · `Static Analysis` · `Configuration Coverage` · `CI/CD` · `Python`
 
