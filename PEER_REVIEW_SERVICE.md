@@ -4,20 +4,20 @@ Selected scholarly service across data science, artificial intelligence, machine
 
 ## Program Committee
 
-- **IEEE International Conference on Big Data (IEEE BigData)** — Program Committee Member, including the Industry & Government Program
-- **IEEE BigData High School Symposium** — Program Committee Member
+- **IEEE International Conference on Big Data (IEEE BigData)** — Industry & Government Program
+- **IEEE BigData High School Symposium**
 
 ## Reviewer
 
-- **IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA)** — Reviewer
-- **IEEE Global Sustainability Conference (IEEE GSCon)** — Reviewer
-- **International Joint Conference on Neural Networks (IJCNN)** — Reviewer
-- **IEEE International Conference on AI Engineering and Innovation (AIEI)** — Reviewer
-- **NeurIPS JUDGe Workshop** — Reviewer
-- **NeurIPS VLM4RWD Workshop** — Reviewer
-- **NeurIPS Verify-Agents Workshop** — Reviewer
-- **AI and the Self Workshop** — Reviewer
-- **International Conference on Recent Trends in Microelectronics, Automation, Computing and Communications Systems** — Reviewer
+- **IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA)**
+- **IEEE Global Sustainability Conference (IEEE GSCon)**
+- **International Joint Conference on Neural Networks (IJCNN)**
+- **IEEE International Conference on AI Engineering and Innovations (AIEI)**
+- **NeurIPS JUDGe Workshop**
+- **NeurIPS VLM4RWD Workshop**
+- **NeurIPS Verify-Agents Workshop**
+- **AI and the Self Workshop**
+- **International Conference on Recent Trends in Microelectronics, Automation, Computing and Communications Systems**
 
 ---
 
