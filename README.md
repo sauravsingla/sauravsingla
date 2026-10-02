@@ -124,7 +124,7 @@ If one of these projects solves a problem you care about, **star that project re
 
 **Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md) · **Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners · **Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
 
-[Research highlights](./RESEARCH_HIGHLIGHTS_2026.md) · [Research impact](./RESEARCH_IMPACT.md) · [Open-source contributions](./NVIDIA_RAPIDS_CONTRIBUTION.md) · [Industry recognition](./INDUSTRY_RECOGNITION.md)
+[Research highlights](./RESEARCH_HIGHLIGHTS_2026.md) · [Research impact](./RESEARCH_IMPACT.md) · [Open-source contributions](./NVIDIA_RAPIDS_CONTRIBUTION.md) · [Industry recognition](./INDUSTRY_RECOGNITION.md) · [Peer review & program committees](./PEER_REVIEW_SERVICE.md)
 
 ---
 
