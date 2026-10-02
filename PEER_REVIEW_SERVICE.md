@@ -11,6 +11,7 @@ Selected scholarly service across data science, artificial intelligence, machine
 
 - **IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA)** — Reviewer
 - **IEEE Global Sustainability Conference (IEEE GSCon)** — Reviewer
+- **International Joint Conference on Neural Networks (IJCNN)** — Reviewer
 - **NeurIPS JUDGe Workshop** — Reviewer
 - **NeurIPS VLM4RWD Workshop** — Reviewer
 - **NeurIPS Verify-Agents Workshop** — Reviewer
