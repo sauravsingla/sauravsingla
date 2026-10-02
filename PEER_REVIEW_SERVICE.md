@@ -13,11 +13,15 @@ Selected scholarly service across data science, artificial intelligence, machine
 - **IEEE Global Sustainability Conference (IEEE GSCon)**
 - **International Joint Conference on Neural Networks (IJCNN)**
 - **IEEE International Conference on AI Engineering and Innovations (AIEI)**
+- **IEEE International Conference on Microelectronics, Automation, Computing and Communications Systems (IEEE ICMACC)**
 - **NeurIPS JUDGe Workshop**
 - **NeurIPS VLM4RWD Workshop**
-- **NeurIPS Verify-Agents Workshop**
+- **NeurIPS Who Verifies the Agents? Workshop**
 - **AI and the Self Workshop**
-- **International Conference on Recent Trends in Microelectronics, Automation, Computing and Communications Systems**
+
+## Standards & Working Groups
+
+- **IEEE P7022 TrustGenAI Working Group** — Participant
 
 ---
 
