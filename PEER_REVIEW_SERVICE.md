@@ -4,8 +4,10 @@ Selected scholarly service across data science, artificial intelligence, machine
 
 ## Program Committee
 
-- **IEEE International Conference on Big Data (IEEE BigData)** — Industry & Government Program
+- **IEEE International Conference on Big Data (IEEE BigData)**
+- **IEEE BigData — Industry & Government Program**
 - **IEEE BigData High School Symposium**
+- **IEEE BigData — Machine Learning on Big Data (MLBD) Special Session**
 
 ## Reviewer
 
@@ -14,6 +16,7 @@ Selected scholarly service across data science, artificial intelligence, machine
 - **International Joint Conference on Neural Networks (IJCNN)**
 - **IEEE International Conference on AI Engineering and Innovations (AIEI)**
 - **IEEE International Conference on Microelectronics, Automation, Computing and Communications Systems (IEEE ICMACC)**
+- **IEOM India International Conference on Industrial Engineering and Operations Management**
 - **NeurIPS JUDGe Workshop**
 - **NeurIPS VLM4RWD Workshop**
 - **NeurIPS Who Verifies the Agents? Workshop**
