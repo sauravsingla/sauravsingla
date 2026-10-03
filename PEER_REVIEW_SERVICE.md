@@ -16,7 +16,6 @@ Selected scholarly service across data science, artificial intelligence, machine
 - **International Joint Conference on Neural Networks (IJCNN)**
 - **IEEE International Conference on AI Engineering and Innovations (AIEI)**
 - **IEEE International Conference on Microelectronics, Automation, Computing and Communications Systems (IEEE ICMACC)**
-- **IEOM India International Conference on Industrial Engineering and Operations Management**
 - **NeurIPS Workshop AI and the Self**
 - **NeurIPS Workshop JUDGe**
 - **NeurIPS Workshop VLM4RWD**
