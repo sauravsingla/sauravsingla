@@ -17,10 +17,10 @@ Selected scholarly service across data science, artificial intelligence, machine
 - **IEEE International Conference on AI Engineering and Innovations (AIEI)**
 - **IEEE International Conference on Microelectronics, Automation, Computing and Communications Systems (IEEE ICMACC)**
 - **IEOM India International Conference on Industrial Engineering and Operations Management**
-- **NeurIPS JUDGe Workshop**
-- **NeurIPS VLM4RWD Workshop**
-- **NeurIPS Who Verifies the Agents? Workshop**
-- **AI and the Self Workshop**
+- **NeurIPS Workshop AI and the Self**
+- **NeurIPS Workshop JUDGe**
+- **NeurIPS Workshop VLM4RWD**
+- **NeurIPS Workshop Verify-Agents**
 
 ## Standards & Working Groups
 
