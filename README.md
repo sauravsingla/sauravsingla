@@ -29,7 +29,7 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VeloGraphX?style=social)](https://github.com/sauravsingla/VeloGraphX)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/)
+[⭐ Explore / Star](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/) · [Hugging Face](https://huggingface.co/spaces/sauravsingla08/VeloGraphX)
 
 ---
 
@@ -45,7 +45,7 @@ Parties keep raw feature tables local; this does not by itself provide end-to-en
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VertiMosaic?style=social)](https://github.com/sauravsingla/VertiMosaic)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/VertiMosaic) · [Docs](https://github.com/sauravsingla/VertiMosaic/tree/main/docs) · [PyPI](https://pypi.org/project/vertimosaic/)
+[⭐ Explore / Star](https://github.com/sauravsingla/VertiMosaic) · [Docs](https://github.com/sauravsingla/VertiMosaic/tree/main/docs) · [PyPI](https://pypi.org/project/vertimosaic/) · [Hugging Face](https://huggingface.co/spaces/sauravsingla08/VertiMosaic)
 
 ---
 
@@ -63,7 +63,7 @@ A deterministic configuration coverage analyzer that shows which environment var
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/ConfigReach?style=social)](https://github.com/sauravsingla/ConfigReach)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/ConfigReach) · [Docs](https://github.com/sauravsingla/ConfigReach/tree/main/docs) · [PyPI](https://pypi.org/project/configreach/)
+[⭐ Explore / Star](https://github.com/sauravsingla/ConfigReach) · [Docs](https://github.com/sauravsingla/ConfigReach/tree/main/docs) · [PyPI](https://pypi.org/project/configreach/) · [Hugging Face](https://huggingface.co/spaces/sauravsingla08/ConfigReach)
 
 ```bash
 pip install configreach
