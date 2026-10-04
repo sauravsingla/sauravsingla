@@ -35,13 +35,13 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 ## 02 — 🧩 [VertiMosaic](https://github.com/sauravsingla/VertiMosaic)
 
-**Train one model across organizations without pooling their raw tabular features — on CPU.**
+**Train one model across organizations without pooling their raw tabular features.**
 
 A Python framework for vertical federated learning across aligned entities and heterogeneous feature sets, with reference logistic regression and histogram-GBDT protocols, reproducible benchmarks, and explicit privacy boundaries.
 
 Parties keep raw feature tables local; this does not by itself provide end-to-end cryptographic privacy.
 
-`Python` · `Vertical Federated Learning` · `CPU-first` · `Reproducible Research`
+`Python` · `Vertical Federated Learning` · `Reproducible Research`
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VertiMosaic?style=social)](https://github.com/sauravsingla/VertiMosaic)
 
@@ -53,7 +53,7 @@ Parties keep raw feature tables local; this does not by itself provide end-to-en
 
 **Codecov for configuration space.**
 
-A deterministic, CPU-only configuration coverage analyzer that shows which environment variables, feature flags, configuration values, branches and important combinations your tests actually exercise.
+A deterministic configuration coverage analyzer that shows which environment variables, feature flags, configuration values, branches and important combinations your tests actually exercise.
 
 **Controlled benchmark:** 50,000 curated cases · 25,000 positive / 25,000 negative · 0 FP / 0 FN within benchmark scope
 
