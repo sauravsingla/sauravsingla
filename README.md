@@ -17,60 +17,7 @@
 
 ---
 
-## 01 — ⭐ Featured — [DeciShift](https://github.com/sauravsingla/DeciShift)
-
-### Your model metrics improved. Did its actual decisions change?
-
-DeciShift is an open-source ML behavioral regression testing framework that compares two versions of a decision system, finds record-level action changes, attributes those changes to versioned components, preserves verifiable evidence, and can block a release when declared Decision Contracts are violated.
-
-**Public evaluation example:** model accuracy improved from **90.26% → 91.79%**, yet **30 of 719 final actions changed**; a governed cohort exceeded its declared action-shift limit, so the release contract returned **BLOCK**.
-
-`ML Testing` · `MLOps` · `Model Governance` · `Decision Systems` · `Python`
-
-[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/DeciShift?style=social)](https://github.com/sauravsingla/DeciShift)
-
-[⭐ Explore / Star](https://github.com/sauravsingla/DeciShift) · [PyPI](https://pypi.org/project/decishift/) · [Live Demo](https://huggingface.co/spaces/sauravsingla08/DeciShift) · [Dataset](https://huggingface.co/datasets/sauravsingla08/DeciShift-Decision-Change-Benchmark)
-
-```bash
-pip install decishift
-decishift demo --rows 1000 --no-save
-```
-
----
-
-## 02 — 🧠 [AgentWeave](https://github.com/sauravsingla/agentweave)
-
-**Route before you reason.**
-
-Pre-inference routing and secure execution for tool-rich LLM and multi-agent systems. AgentWeave reduces the action space shown to a model before inference while keeping authorization, provenance and recovery explicit.
-
-**Frozen BFCL-derived routing benchmark:** 70.18% fewer tools exposed · 61.70% fewer input tokens · 50.95% lower mean local-model latency
-
-`MCP` · `A2A` · `LangGraph` · `AutoGen` · `Python`
-
-[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/agentweave?style=social)](https://github.com/sauravsingla/agentweave)
-
-[⭐ Explore / Star](https://github.com/sauravsingla/agentweave) · [PyPI](https://pypi.org/project/agentweave-router/) · [Docs](https://sauravsingla.github.io/agentweave/) · [Paper](https://arxiv.org/abs/2608.23078)
-
----
-
-## 03 — ⚙️ [MemVanta](https://github.com/sauravsingla/MemVanta)
-
-**Run quantized LLMs with less resident memory.**
-
-A memory-first C++20 runtime for quantized GGUF models on CPU, built around mmap-backed model access, paged KV cache, compact kernels and reproducible benchmarking.
-
-**OpenLLaMA 7B v2 Q4_0 benchmark:** 3.80 GiB peak RSS · 47.54% lower peak RSS than pinned `llama.cpp`
-
-`C++20` · `GGUF` · `CPU Inference` · `Systems`
-
-[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/MemVanta?style=social)](https://github.com/sauravsingla/MemVanta)
-
-[⭐ Explore / Star](https://github.com/sauravsingla/MemVanta) · [PyPI](https://pypi.org/project/memvanta/) · [Docs](https://sauravsingla.github.io/MemVanta/) · [Benchmark](https://sauravsingla.github.io/MemVanta/benchmark/)
-
----
-
-## 04 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
+## 01 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
 
 **High-performance analytics for continuously evolving graphs.**
 
@@ -86,7 +33,23 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 ---
 
-## 05 — 🎯 [ConfigReach](https://github.com/sauravsingla/ConfigReach)
+## 02 — 🧩 [VertiMosaic](https://github.com/sauravsingla/VertiMosaic)
+
+**Train one model across organizations without pooling their raw tabular features — on CPU.**
+
+A Python framework for vertical federated learning across aligned entities and heterogeneous feature sets, with reference logistic regression and histogram-GBDT protocols, reproducible benchmarks, and explicit privacy boundaries.
+
+Parties keep raw feature tables local; this does not by itself provide end-to-end cryptographic privacy.
+
+`Python` · `Vertical Federated Learning` · `CPU-first` · `Reproducible Research`
+
+[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VertiMosaic?style=social)](https://github.com/sauravsingla/VertiMosaic)
+
+[⭐ Explore / Star](https://github.com/sauravsingla/VertiMosaic) · [PyPI](https://pypi.org/project/vertimosaic/) · [Live Demo](https://huggingface.co/spaces/sauravsingla08/VertiMosaic) · [Dataset](https://huggingface.co/datasets/sauravsingla08/VertiMosaic-VFL-Benchmark) · [Models](https://huggingface.co/sauravsingla08/VertiMosaic-VFL-Reference-Models)
+
+---
+
+## 03 — 🎯 [ConfigReach](https://github.com/sauravsingla/ConfigReach)
 
 **Codecov for configuration space.**
 
