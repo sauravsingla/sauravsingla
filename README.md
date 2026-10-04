@@ -41,7 +41,7 @@ OligoArk combines DNA encoding, error correction, simulated channel noise, recon
 
 **High-performance analytics for continuously evolving graphs.**
 
-A C++20 + Python engine for dynamic graph analytics with adaptive repair vs recomputation across BFS/SSSP, connected components, triangle counting, k-core and PageRank.
+A C++20 + Python engine for dynamic graph analytics supporting BFS/SSSP, connected components, triangle counting, k-core, and PageRank. Its adaptive BFS selector chooses between localized repair and full recomputation as the graph evolves.
 
 **Retained exactness stress result:** 2,000,000 updates · 0 BFS mismatches · 0 triangle mismatches
 
