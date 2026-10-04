@@ -17,7 +17,25 @@
 
 ---
 
-## 01 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
+## 01 — 🧬 [OligoArk](https://github.com/sauravsingla/OligoArk)
+
+**AI-Native DNA Archival Storage — exploring how digital information can be encoded into DNA sequences and recovered for long-term preservation.**
+
+OligoArk is an open-source research framework that brings together adaptive DNA encoding, error correction, simulated storage-channel noise, reliable reconstruction, and explainable storage-tier recommendations. It lets researchers explore how archival data could be represented, protected, and recovered through reproducible software experiments.
+
+**Research alpha:** current results come from software simulations; physical DNA storage and wet-lab validation remain future work.
+
+**I’d be happy to collaborate with anyone who wants to contribute to OligoArk.** Contributions to encoding algorithms, reconstruction, channel models, benchmarks, documentation, and research ideas are all welcome. Read the contribution guide or open an issue to get involved.
+
+`Python` · `DNA Data Storage` · `Adaptive Encoding` · `Error Correction` · `Reproducible Research`
+
+[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/OligoArk?style=social)](https://github.com/sauravsingla/OligoArk)
+
+[⭐ Explore / Star](https://github.com/sauravsingla/OligoArk) · [Docs](https://github.com/sauravsingla/OligoArk/blob/main/docs/architecture.md) · [Research](https://github.com/sauravsingla/OligoArk/blob/main/docs/research.md) · [Contribute](https://github.com/sauravsingla/OligoArk/blob/main/CONTRIBUTING.md)
+
+---
+
+## 02 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
 
 **High-performance analytics for continuously evolving graphs.**
 
@@ -33,7 +51,7 @@ A C++20 + Python engine for dynamic graph analytics with adaptive repair vs reco
 
 ---
 
-## 02 — 🧩 [VertiMosaic](https://github.com/sauravsingla/VertiMosaic)
+## 03 — 🧩 [VertiMosaic](https://github.com/sauravsingla/VertiMosaic)
 
 **Train one model across organizations without pooling their raw tabular features.**
 
@@ -49,7 +67,7 @@ Parties keep raw feature tables local; this does not by itself provide end-to-en
 
 ---
 
-## 03 — 🎯 [ConfigReach](https://github.com/sauravsingla/ConfigReach)
+## 04 — 🎯 [ConfigReach](https://github.com/sauravsingla/ConfigReach)
 
 **Codecov for configuration space.**
 
