@@ -21,6 +21,8 @@
 
 **AI-Native DNA Archival Storage — exploring how digital information can be encoded into DNA sequences and recovered for long-term preservation.**
 
+**What the name means:** “Oligo” refers to oligonucleotides—short DNA strands—and “Ark” represents safeguarding information for the future. Together, **OligoArk** expresses the idea of preserving digital information in DNA for long-term archival storage.
+
 OligoArk is an open-source research framework that brings together adaptive DNA encoding, error correction, simulated storage-channel noise, reliable reconstruction, and explainable storage-tier recommendations. It lets researchers explore how archival data could be represented, protected, and recovered through reproducible software experiments.
 
 **Research alpha:** current results come from software simulations; physical DNA storage and wet-lab validation remain future work.
