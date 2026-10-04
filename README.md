@@ -2,9 +2,9 @@
 
 # Saurav Singla
 
-### Building open-source systems for reliable ML, AI agents, efficient LLM inference & dynamic graphs
+### Building open-source systems for DNA archival storage, dynamic graphs, federated learning & software reliability
 
-`ML Reliability` · `Agentic AI` · `LLM Systems` · `Graph Analytics` · `C++ / Python`
+`DNA Storage` · `Graph Analytics` · `Federated Learning` · `Software Testing` · `C++ / Python`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
@@ -19,15 +19,15 @@
 
 ## 01 — 🧬 [OligoArk](https://github.com/sauravsingla/OligoArk)
 
-**AI-Native DNA Archival Storage — exploring how digital information can be encoded into DNA sequences and recovered for long-term preservation.**
+**AI-Native DNA Archival Storage — research toward long-term digital preservation in DNA.**
 
-**What the name means:** “Oligo” refers to oligonucleotides—short DNA strands—and “Ark” represents safeguarding information for the future. Together, **OligoArk** expresses the idea of preserving digital information in DNA for long-term archival storage.
+**What the name means:** “Oligo” refers to oligonucleotides—short DNA strands—and “Ark” represents safeguarding information for the future.
 
-OligoArk is an open-source research framework that brings together adaptive DNA encoding, error correction, simulated storage-channel noise, reliable reconstruction, and explainable storage-tier recommendations. It lets researchers explore how archival data could be represented, protected, and recovered through reproducible software experiments.
+OligoArk combines DNA encoding, error correction, simulated channel noise, reconstruction, and explainable storage-tier recommendations. Its current adaptive policy selects encoding and redundancy settings from a simulated channel profile; learned reconstruction models are on the research roadmap.
 
-**Research alpha:** current results come from software simulations; physical DNA storage and wet-lab validation remain future work.
+**Research alpha:** results come from software simulations; physical DNA storage and wet-lab validation remain future work.
 
-**I’d be happy to collaborate with anyone who wants to contribute to OligoArk.** Contributions to encoding algorithms, reconstruction, channel models, benchmarks, documentation, and research ideas are all welcome. Read the contribution guide or open an issue to get involved.
+**I’d be happy to collaborate with anyone who wants to contribute to OligoArk.** Encoding algorithms, reconstruction, channel models, benchmarks, documentation, and research ideas are all welcome—see **Contribute** below to get started.
 
 `Python` · `DNA Data Storage` · `Adaptive Encoding` · `Error Correction` · `Reproducible Research`
 
@@ -84,12 +84,6 @@ A deterministic configuration coverage analyzer that shows which environment var
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/ConfigReach?style=social)](https://github.com/sauravsingla/ConfigReach)
 
 [⭐ Explore / Star](https://github.com/sauravsingla/ConfigReach) · [Docs](https://github.com/sauravsingla/ConfigReach/tree/main/docs) · [PyPI](https://pypi.org/project/configreach/) · [Hugging Face](https://huggingface.co/spaces/sauravsingla08/ConfigReach)
-
-```bash
-pip install configreach
-configreach scan .
-configreach coverage .
-```
 
 ---
 
