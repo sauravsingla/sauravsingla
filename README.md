@@ -45,7 +45,7 @@ Parties keep raw feature tables local; this does not by itself provide end-to-en
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VertiMosaic?style=social)](https://github.com/sauravsingla/VertiMosaic)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/VertiMosaic) · [PyPI](https://pypi.org/project/vertimosaic/) · [Live Demo](https://huggingface.co/spaces/sauravsingla08/VertiMosaic) · [Dataset](https://huggingface.co/datasets/sauravsingla08/VertiMosaic-VFL-Benchmark) · [Models](https://huggingface.co/sauravsingla08/VertiMosaic-VFL-Reference-Models)
+[⭐ Explore / Star](https://github.com/sauravsingla/VertiMosaic) · [Docs](https://github.com/sauravsingla/VertiMosaic/tree/main/docs) · [PyPI](https://pypi.org/project/vertimosaic/)
 
 ---
 
@@ -63,7 +63,7 @@ A deterministic configuration coverage analyzer that shows which environment var
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/ConfigReach?style=social)](https://github.com/sauravsingla/ConfigReach)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/ConfigReach) · [Hugging Face Collection](https://huggingface.co/collections/sauravsingla08/configreach-configuration-coverage) · [Space](https://huggingface.co/spaces/sauravsingla08/ConfigReach) · [Dataset](https://huggingface.co/datasets/sauravsingla08/configreach-validation) · [PyPI](https://pypi.org/project/configreach/)
+[⭐ Explore / Star](https://github.com/sauravsingla/ConfigReach) · [Docs](https://github.com/sauravsingla/ConfigReach/tree/main/docs) · [PyPI](https://pypi.org/project/configreach/)
 
 ```bash
 pip install configreach
