@@ -73,6 +73,8 @@ My contribution to the upstream design and requirements process included:
 
 This was a **requirements, workload-validation, and API-design contribution rather than authorship of the core implementation**. The cuGraph team subsequently implemented the functionality upstream: PR #5644 added single-GPU and multi-GPU C++ `simple_cycles` support, and PR #5669 added the C API and pylibcugraph exposure with `length_bound` and optional `seed_vertices`. PR #5669 closed issue #2462 after merging on **October 5, 2026**.
 
+The resulting upstream implementation spanned **29 commits across PRs #5644 and #5669**, with approximately **3,982 lines added and 195 lines removed (4,177 total line changes)** across the C++, C API, pylibcugraph, and test layers.
+
 ---
 
 ## Technical Context
