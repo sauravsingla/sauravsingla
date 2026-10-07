@@ -34,7 +34,7 @@ pip install velographx
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VeloGraphX?style=social)](https://github.com/sauravsingla/VeloGraphX)
 [![PyPI](https://img.shields.io/pypi/v/velographx)](https://pypi.org/project/velographx/)
 
-[**Try VeloGraphX →**](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/) · [Benchmarks](https://github.com/sauravsingla/VeloGraphX/blob/main/docs/benchmark-methodology.md) · [Contribute](https://github.com/sauravsingla/VeloGraphX/issues)
+[**Try VeloGraphX →**](https://github.com/sauravsingla/VeloGraphX)
 
 ---
 
