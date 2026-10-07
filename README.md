@@ -17,7 +17,7 @@
 
 ## ⭐ Featured — [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
 
-### Dynamic graph analytics without recomputing everything
+### Dynamic graph analytics without always recomputing everything
 
 **VeloGraphX** is a C++20 + Python engine for graphs that keep changing. It supports BFS/SSSP, connected components, triangle counting, k-core and PageRank, with adaptive execution that can choose localized maintenance or full recomputation as the graph evolves.
 
