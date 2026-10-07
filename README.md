@@ -2,7 +2,7 @@
 
 # Saurav Singla
 
-### Building high-performance, reproducible open-source systems for AI and data infrastructure
+### Building high-performance open-source systems for evolving graphs, AI infrastructure & software reliability
 
 `Graph Systems` · `AI/ML Infrastructure` · `Software Reliability` · `C++ / Python`
 
@@ -22,7 +22,7 @@
 **VeloGraphX** is a C++20 + Python engine for graphs that keep changing. It supports BFS/SSSP, connected components, triangle counting, k-core and PageRank, with adaptive execution that can choose localized maintenance or full recomputation as the graph evolves.
 
 **Why try it**
-- Exact dynamic BFS and graph analytics with correctness checks
+- Correctness-first dynamic graph analytics with exactness checks and conservative fallbacks
 - **2,000,000-update engineering stress test: 0 BFS mismatches · 0 triangle mismatches**
 - Python package + native C++ API
 - Reproducible benchmarks and public evidence artifacts
@@ -42,8 +42,8 @@ pip install velographx
 
 | Project | What it solves | Start |
 |---|---|---|
-| 🧬 **[OligoArk](https://github.com/sauravsingla/OligoArk)** | DNA archival-storage research: encode data into DNA-like strands, simulate channel errors, reconstruct noisy reads and verify exact recovery. | `pip install oligoark` |
 | 🎯 **[ConfigReach](https://github.com/sauravsingla/ConfigReach)** | **Codecov for configuration space** — find env vars, feature flags and configuration states your tests do not exercise. | `pip install configreach` |
+| 🧬 **[OligoArk](https://github.com/sauravsingla/OligoArk)** | DNA archival-storage research: encode data into DNA-like strands, simulate channel errors, reconstruct noisy reads and verify exact recovery. | `pip install oligoark` |
 | 🧩 **[VertiMosaic](https://github.com/sauravsingla/VertiMosaic)** | Vertical federated learning for organizations that share entities but keep raw feature tables local. | `pip install vertimosaic` |
 | 🔀 **[DeciShift](https://github.com/sauravsingla/DeciShift)** | Behavioral regression testing for ML decision systems: detect changed decisions, explain shifts and gate releases. | [Explore](https://github.com/sauravsingla/DeciShift) |
 
