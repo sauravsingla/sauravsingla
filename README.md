@@ -19,13 +19,14 @@
 
 ### Adaptive graph analytics for continuously evolving graphs
 
-**VeloGraphX** is a C++20 + Python engine for graphs that keep changing. It supports BFS/SSSP, connected components, triangle counting, k-core and PageRank, with adaptive execution that can choose localized maintenance or full recomputation as the graph evolves.
+**VeloGraphX** is a C++20 + Python engine for dynamic graph analytics. When a graph changes, it can update affected state instead of blindly recomputing everything—while retaining full recomputation when that is the better choice.
+
+Supports BFS/SSSP, connected components, triangle counting, k-core and PageRank.
 
 **Why try it**
-- Correctness-first dynamic graph analytics with exactness checks and conservative fallbacks
-- **2,000,000-update engineering stress test: 0 BFS mismatches · 0 triangle mismatches**
-- Python package + native C++ API
-- Reproducible benchmarks and public evidence artifacts
+- Correctness-first dynamic analytics with exactness checks and conservative fallbacks
+- **2,000,000 updates · 0 BFS mismatches · 0 triangle mismatches**
+- C++20 + Python with reproducible benchmarks
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VeloGraphX?style=social)](https://github.com/sauravsingla/VeloGraphX)
 
@@ -42,23 +43,15 @@
 | 🧩 **[VertiMosaic](https://github.com/sauravsingla/VertiMosaic)** | Vertical federated learning for organizations that share entities but keep raw feature tables local. |
 | 🔀 **[DeciShift](https://github.com/sauravsingla/DeciShift)** | Behavioral regression testing for ML decision systems: detect changed decisions, explain shifts and gate releases. |
 
-### What I optimize for
-
-I build projects that are useful **and** auditable: runnable examples, tests, reproducible benchmarks, explicit limitations and machine-readable evidence live alongside the code.
-
-If a project solves a real problem for you, the most useful contributions are simple: **try it on your workload, report what breaks, reproduce a benchmark, open an issue, or send a PR.**
+**Try a project on your workload, report what breaks, reproduce a benchmark, or open a PR.**
 
 ---
 
 ## Research & publications
 
-[Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [DBLP](https://dblp.org/pid/410/2745.html) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [ACM DL](https://dl.acm.org/profile/99661729658)
+[Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [DBLP](https://dblp.org/pid/410/2745.html)
 
-**Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)  
-**Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners  
-**Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
-
-[Research highlights](./RESEARCH_HIGHLIGHTS_2026.md) · [Research impact](./RESEARCH_IMPACT.md) · [Open-source contributions](./NVIDIA_RAPIDS_CONTRIBUTION.md) · [Industry recognition](./INDUSTRY_RECOGNITION.md) · [Peer review & program committees](./PEER_REVIEW_SERVICE.md)
+**Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md) · **Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners · **Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
 
 ---
 
