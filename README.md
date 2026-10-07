@@ -27,12 +27,7 @@
 - Python package + native C++ API
 - Reproducible benchmarks and public evidence artifacts
 
-```bash
-pip install velographx
-```
-
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VeloGraphX?style=social)](https://github.com/sauravsingla/VeloGraphX)
-[![PyPI](https://img.shields.io/pypi/v/velographx)](https://pypi.org/project/velographx/)
 
 [**Try VeloGraphX →**](https://github.com/sauravsingla/VeloGraphX)
 
