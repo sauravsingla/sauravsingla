@@ -53,6 +53,8 @@ Supports BFS/SSSP, connected components, triangle counting, k-core and PageRank.
 
 **Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md) · **Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners · **Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
 
+[**More research & professional links →**](./RESEARCH_AND_PROFESSIONAL_LINKS.md)
+
 ---
 
 <div align="center">
