@@ -40,12 +40,12 @@ pip install velographx
 
 ## Other active projects
 
-| Project | What it solves | Start |
-|---|---|---|
-| 🎯 **[ConfigReach](https://github.com/sauravsingla/ConfigReach)** | **Codecov for configuration space** — find env vars, feature flags and configuration states your tests do not exercise. | `pip install configreach` |
-| 🧬 **[OligoArk](https://github.com/sauravsingla/OligoArk)** | DNA archival-storage research: encode data into DNA-like strands, simulate channel errors, reconstruct noisy reads and verify exact recovery. | `pip install oligoark` |
-| 🧩 **[VertiMosaic](https://github.com/sauravsingla/VertiMosaic)** | Vertical federated learning for organizations that share entities but keep raw feature tables local. | `pip install vertimosaic` |
-| 🔀 **[DeciShift](https://github.com/sauravsingla/DeciShift)** | Behavioral regression testing for ML decision systems: detect changed decisions, explain shifts and gate releases. | [Explore](https://github.com/sauravsingla/DeciShift) |
+| Project | What it solves |
+|---|---|
+| 🎯 **[ConfigReach](https://github.com/sauravsingla/ConfigReach)** | **Codecov for configuration space** — find env vars, feature flags and configuration states your tests do not exercise. |
+| 🧬 **[OligoArk](https://github.com/sauravsingla/OligoArk)** | DNA archival-storage research: encode data into DNA-like strands, simulate channel errors, reconstruct noisy reads and verify exact recovery. |
+| 🧩 **[VertiMosaic](https://github.com/sauravsingla/VertiMosaic)** | Vertical federated learning for organizations that share entities but keep raw feature tables local. |
+| 🔀 **[DeciShift](https://github.com/sauravsingla/DeciShift)** | Behavioral regression testing for ML decision systems: detect changed decisions, explain shifts and gate releases. |
 
 ### What I optimize for
 
