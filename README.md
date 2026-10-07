@@ -2,104 +2,66 @@
 
 # Saurav Singla
 
-### Building open-source systems for DNA archival storage, dynamic graphs, federated learning & software reliability
+### Building high-performance, reproducible open-source systems for AI and data infrastructure
 
-`DNA Storage` · `Graph Analytics` · `Federated Learning` · `Software Testing` · `C++ / Python`
+`Graph Systems` · `AI/ML Infrastructure` · `Software Reliability` · `C++ / Python`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav%20Singla-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sauravsingla008)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sauravsingla08-FFD21E)](https://huggingface.co/sauravsingla08)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6404--3988-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6404-3988)
 
-**Open-source projects built around measurable, reproducible evidence ↓**
-
 </div>
 
 ---
 
-## 01 — 🧬 [OligoArk](https://github.com/sauravsingla/OligoArk)
+## ⭐ Featured — [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
 
-**AI-Native DNA Archival Storage — research toward long-term digital preservation in DNA.**
+### Dynamic graph analytics without recomputing everything
 
-**What the name means:** “Oligo” refers to oligonucleotides—short DNA strands—and “Ark” represents safeguarding information for the future.
+**VeloGraphX** is a C++20 + Python engine for graphs that keep changing. It supports BFS/SSSP, connected components, triangle counting, k-core and PageRank, with adaptive execution that can choose localized maintenance or full recomputation as the graph evolves.
 
-OligoArk combines DNA encoding, error correction, simulated channel noise, reconstruction, and explainable storage-tier recommendations. Its current adaptive policy selects encoding and redundancy settings from a simulated channel profile; learned reconstruction models are on the research roadmap.
+**Why try it**
+- Exact dynamic BFS and graph analytics with correctness checks
+- **2,000,000-update engineering stress test: 0 BFS mismatches · 0 triangle mismatches**
+- Python package + native C++ API
+- Reproducible benchmarks and public evidence artifacts
 
-**Research alpha:** results come from software simulations; physical DNA storage and wet-lab validation remain future work.
-
-**I’d be happy to collaborate with anyone who wants to contribute to OligoArk.** Encoding algorithms, reconstruction, channel models, benchmarks, documentation, and research ideas are all welcome—see **Contribute** below to get started.
-
-`Python` · `DNA Data Storage` · `Adaptive Encoding` · `Error Correction` · `Reproducible Research`
-
-[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/OligoArk?style=social)](https://github.com/sauravsingla/OligoArk)
-
-[⭐ Explore / Star](https://github.com/sauravsingla/OligoArk) · [Docs](https://github.com/sauravsingla/OligoArk/blob/main/docs/architecture.md) · [Research](https://github.com/sauravsingla/OligoArk/blob/main/docs/research.md) · [Contribute](https://github.com/sauravsingla/OligoArk/blob/main/CONTRIBUTING.md)
-
----
-
-## 02 — 🕸️ [VeloGraphX](https://github.com/sauravsingla/VeloGraphX)
-
-**High-performance analytics for continuously evolving graphs.**
-
-A C++20 + Python engine for dynamic graph analytics supporting BFS/SSSP, connected components, triangle counting, k-core, and PageRank. Its adaptive BFS selector chooses between localized repair and full recomputation as the graph evolves.
-
-**Retained exactness stress result:** 2,000,000 updates · 0 BFS mismatches · 0 triangle mismatches
-
-`C++20` · `Python` · `Dynamic Graphs` · `Graph Analytics` · `PyPI`
+```bash
+pip install velographx
+```
 
 [![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VeloGraphX?style=social)](https://github.com/sauravsingla/VeloGraphX)
+[![PyPI](https://img.shields.io/pypi/v/velographx)](https://pypi.org/project/velographx/)
 
-[⭐ Explore / Star](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/) · [Hugging Face](https://huggingface.co/spaces/sauravsingla08/VeloGraphX)
-
----
-
-## 03 — 🧩 [VertiMosaic](https://github.com/sauravsingla/VertiMosaic)
-
-**Train one model across organizations without pooling their raw tabular features.**
-
-A Python framework for vertical federated learning across aligned entities and heterogeneous feature sets, with reference logistic regression and histogram-GBDT protocols, reproducible benchmarks, and explicit privacy boundaries.
-
-Parties keep raw feature tables local; this does not by itself provide end-to-end cryptographic privacy.
-
-`Python` · `Vertical Federated Learning` · `Reproducible Research`
-
-[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/VertiMosaic?style=social)](https://github.com/sauravsingla/VertiMosaic)
-
-[⭐ Explore / Star](https://github.com/sauravsingla/VertiMosaic) · [Docs](https://github.com/sauravsingla/VertiMosaic/tree/main/docs) · [PyPI](https://pypi.org/project/vertimosaic/) · [Hugging Face](https://huggingface.co/spaces/sauravsingla08/VertiMosaic)
+[**Try VeloGraphX →**](https://github.com/sauravsingla/VeloGraphX) · [Docs](https://sauravsingla.github.io/VeloGraphX/) · [PyPI](https://pypi.org/project/velographx/) · [Benchmarks](https://github.com/sauravsingla/VeloGraphX/blob/main/docs/benchmark-methodology.md) · [Contribute](https://github.com/sauravsingla/VeloGraphX/issues)
 
 ---
 
-## 04 — 🎯 [ConfigReach](https://github.com/sauravsingla/ConfigReach)
+## Other active projects
 
-**Codecov for configuration space.**
+| Project | What it solves | Start |
+|---|---|---|
+| 🧬 **[OligoArk](https://github.com/sauravsingla/OligoArk)** | DNA archival-storage research: encode data into DNA-like strands, simulate channel errors, reconstruct noisy reads and verify exact recovery. | `pip install oligoark` |
+| 🎯 **[ConfigReach](https://github.com/sauravsingla/ConfigReach)** | **Codecov for configuration space** — find env vars, feature flags and configuration states your tests do not exercise. | `pip install configreach` |
+| 🧩 **[VertiMosaic](https://github.com/sauravsingla/VertiMosaic)** | Vertical federated learning for organizations that share entities but keep raw feature tables local. | `pip install vertimosaic` |
+| 🔀 **[DeciShift](https://github.com/sauravsingla/DeciShift)** | Behavioral regression testing for ML decision systems: detect changed decisions, explain shifts and gate releases. | [Explore](https://github.com/sauravsingla/DeciShift) |
 
-A deterministic configuration coverage analyzer that shows which environment variables, feature flags, configuration values, branches and important combinations your tests actually exercise.
+### What I optimize for
 
-**Controlled benchmark:** 50,000 curated cases · 25,000 positive / 25,000 negative · 0 FP / 0 FN within benchmark scope
+I build projects that are useful **and** auditable: runnable examples, tests, reproducible benchmarks, explicit limitations and machine-readable evidence live alongside the code.
 
-**External holdout:** 11 pinned repositories · 9 ecosystems · 96,845 configuration inputs · 5,539 with detected test/runtime evidence · 5.72% observed configuration coverage
-
-`Software Testing` · `Static Analysis` · `Configuration Coverage` · `CI/CD` · `Python`
-
-[![GitHub stars](https://img.shields.io/github/stars/sauravsingla/ConfigReach?style=social)](https://github.com/sauravsingla/ConfigReach)
-
-[⭐ Explore / Star](https://github.com/sauravsingla/ConfigReach) · [Docs](https://github.com/sauravsingla/ConfigReach/tree/main/docs) · [PyPI](https://pypi.org/project/configreach/) · [Hugging Face](https://huggingface.co/spaces/sauravsingla08/ConfigReach)
-
----
-
-## Open-source approach
-
-These projects are built beyond demos: **benchmarks, reproducible evidence, tests, releases, documentation and explicit claim boundaries** are developed alongside the code.
-
-If one of these projects solves a problem you care about, **star that project repository** so others can discover it too. Issues, benchmark reproductions, integrations and technical feedback are also welcome.
+If a project solves a real problem for you, the most useful contributions are simple: **try it on your workload, report what breaks, reproduce a benchmark, open an issue, or send a PR.**
 
 ---
 
-## Research & Publications
+## Research & publications
 
 [Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [IEEE Xplore](https://ieeexplore.ieee.org/author/678288976748329) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [DBLP](https://dblp.org/pid/410/2745.html) · [OpenReview](https://openreview.net/profile?id=~Saurav_Singla1) · [ACM DL](https://dl.acm.org/profile/99661729658)
 
-**Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md) · **Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners · **Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
+**Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md)  
+**Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners  
+**Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
 
 [Research highlights](./RESEARCH_HIGHLIGHTS_2026.md) · [Research impact](./RESEARCH_IMPACT.md) · [Open-source contributions](./NVIDIA_RAPIDS_CONTRIBUTION.md) · [Industry recognition](./INDUSTRY_RECOGNITION.md) · [Peer review & program committees](./PEER_REVIEW_SERVICE.md)
 
@@ -107,8 +69,8 @@ If one of these projects solves a problem you care about, **star that project re
 
 <div align="center">
 
-### Build → Measure → Publish → Improve
+### Build useful systems. Measure them. Make the evidence reproducible.
 
-**Follow [@sauravsingla](https://github.com/sauravsingla) for releases, benchmarks and reproducible open-source experiments.**
+**Follow [@sauravsingla](https://github.com/sauravsingla) for releases, benchmarks and open-source experiments.**
 
 </div>
