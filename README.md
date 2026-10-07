@@ -49,8 +49,6 @@ Supports BFS/SSSP, connected components, triangle counting, k-core and PageRank.
 
 ## Research & publications
 
-[Google Scholar](https://scholar.google.com/citations?user=1rUZyEAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-6404-3988) · [DBLP](https://dblp.org/pid/410/2745.html)
-
 **Book:** [*Machine Learning for Finance*](./BOOK_MACHINE_LEARNING_FOR_FINANCE.md) · **Course:** [*Data Analysis for Business and Finance*](./UDEMY_COURSE.md) — 22,000+ learners · **Technical writing:** [Selected articles](./TECHNICAL_ARTICLES.md)
 
 [**More research & professional links →**](./RESEARCH_AND_PROFESSIONAL_LINKS.md)
