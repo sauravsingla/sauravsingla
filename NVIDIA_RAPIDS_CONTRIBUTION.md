@@ -1,8 +1,8 @@
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-# Open-Source & NVIDIA RAPIDS Contributions
+# Open-Source Contributions — NVIDIA RAPIDS cuGraph & pandas
 
-This page highlights my upstream contributions to **NVIDIA RAPIDS cuGraph**, spanning graph-algorithm correctness, multi-seed ego-graph behavior, GPU cycle-enumeration requirements and API design, and production-quality regression coverage in the official open-source codebase.
+This page highlights my upstream open-source work across **NVIDIA RAPIDS cuGraph** and **pandas**. In cuGraph, this includes authored and merged graph-algorithm fixes, regression coverage, and production-driven GPU cycle-enumeration requirements and API design. In pandas, I reported and investigated a reproducible numerical-precision bug that was subsequently resolved by another contributor. Code authorship, issue reporting, and requirements contributions are distinguished explicitly below.
 
 ---
 
@@ -77,6 +77,37 @@ The resulting upstream implementation spanned **29 commits across PRs #5644 and 
 
 ---
 
+## pandas — Numerical-Precision Bug Report and Upstream Resolution
+
+### Issue #71288 — `interval_range` loses precision for large integer endpoints
+
+**Contribution:** Original bug report, reproducible example, root-cause investigation, expected behavior, and suggested fix direction (`@sauravsingla`)  
+**Issue:** [pandas-dev/pandas#71288](https://github.com/pandas-dev/pandas/issues/71288) — opened **October 18, 2026**; closed as completed **October 23, 2026**  
+**Upstream fix:** [pandas-dev/pandas PR #71457](https://github.com/pandas-dev/pandas/pull/71457) — merged **October 23, 2026**, authored by **@brenobarreto**
+
+I identified and reported an integer-precision failure in `pd.interval_range()` near and above the `2**53` boundary, where floating-point arithmetic cannot reliably represent consecutive integer values. The reproducer was:
+
+```python
+import pandas as pd
+
+result = pd.interval_range(start=2**53, end=2**53 + 4, freq=1)
+print(len(result), result.is_empty.tolist())
+```
+
+The reported result was **three zero-width (empty) intervals**, rather than **four consecutive width-one intervals**. My report:
+
+- documented the exact input, observed incorrect output, and expected interval boundaries;
+- identified a likely root cause in the float-valued endpoint adjustment used in `np.arange(start, end + (freq * 0.1), freq)`;
+- explained the risk of silent boundary collapse and incorrect interval counts for large integer values;
+- suggested preserving exact integer arithmetic when integer endpoints and frequency are provided;
+- recommended regression tests for interval counts, boundary precision, and nonempty intervals near and above `2**53`.
+
+**Outcome:** The independently authored and merged PR #71457 updated integer-based interval generation to use exact integer arithmetic where applicable, including precise break-count calculation, while retaining the float path where necessary. It also added tests and a release-note entry. The merge closed issue #71288 as completed.
+
+**Attribution:** My upstream contribution here was **bug discovery, documentation, reproduction, and technical diagnosis**. I did **not** author the merged pandas code fix; PR #71457 was authored by **@brenobarreto**.
+
+---
+
 ## Technical Context
 
 ### Edge betweenness centrality
@@ -99,6 +130,12 @@ Issue #2462 evolved into support for bounded GPU cycle enumeration with an optio
 
 ---
 
+### Numerical stability in pandas
+
+Accurate interval boundaries are important for applications that operate on large integer timestamps, identifiers, and numeric ranges. The pandas issue demonstrates how implicit floating-point conversion can silently corrupt discrete integer boundaries, and why exact-integer code paths and regression tests matter for data correctness.
+
+---
+
 ## Open-Source Focus
 
 My open-source interests include:
@@ -111,6 +148,8 @@ My open-source interests include:
 - bounded cycle enumeration and graph traversal
 - production-quality regression testing
 - Python/CUDA interoperability
+- pandas interval handling and numerical precision
+- reproducible bug reporting and upstream issue triage
 
 ---
 
@@ -124,6 +163,8 @@ My open-source interests include:
 - [Merged cuGraph PR #5644 — C++ simple_cycles](https://github.com/rapidsai/cugraph/pull/5644)
 - [Merged cuGraph PR #5669 — C API for simple_cycles](https://github.com/rapidsai/cugraph/pull/5669)
 - [NVIDIA RAPIDS cuGraph](https://github.com/rapidsai/cugraph)
+- [pandas issue #71288 — Large-integer interval precision](https://github.com/pandas-dev/pandas/issues/71288)
+- [Merged pandas PR #71457 — Integer-precision fix (authored by @brenobarreto)](https://github.com/pandas-dev/pandas/pull/71457)
 
 ---
 
