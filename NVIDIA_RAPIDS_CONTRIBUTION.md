@@ -1,8 +1,8 @@
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-# Open-Source Contributions — NVIDIA RAPIDS cuGraph & pandas
+# Open-Source Contributions — NVIDIA RAPIDS cuGraph, pandas, NumPy & SciPy
 
-This page highlights my upstream open-source work across **NVIDIA RAPIDS cuGraph** and **pandas**. In cuGraph, this includes authored and merged graph-algorithm fixes, regression coverage, and production-driven GPU cycle-enumeration requirements and API design. In pandas, I reported and investigated a reproducible numerical-precision bug that was subsequently resolved by another contributor. Code authorship, issue reporting, and requirements contributions are distinguished explicitly below.
+This page highlights my upstream open-source work across **NVIDIA RAPIDS cuGraph**, **pandas**, **NumPy**, and **SciPy**. In cuGraph, this includes authored and merged graph-algorithm fixes, regression coverage, and production-driven GPU cycle-enumeration requirements and API design. In pandas, NumPy, and SciPy, I reported and investigated reproducible correctness bugs that were subsequently resolved through fixes authored by other contributors. Code authorship, issue reporting, and requirements contributions are distinguished explicitly below.
 
 ---
 
@@ -108,6 +108,72 @@ The reported result was **three zero-width (empty) intervals**, rather than **fo
 
 ---
 
+## NumPy — Unicode String-Processing Bug Report and Upstream Resolution
+
+### Issue #33125 — StringDType stripping misses ASCII characters after multibyte Unicode
+
+**Contribution:** Original bug report, reproducible examples, comparison with Python string semantics, and root-cause investigation (`@sauravsingla`)  
+**Issue:** [numpy/numpy#33125](https://github.com/numpy/numpy/issues/33125) — closed as completed **October 23, 2026 (UTC)**  
+**Upstream fix:** [numpy/numpy PR #33133](https://github.com/numpy/numpy/pull/33133) — merged **October 23, 2026 (UTC)**, authored by **@Fun-Projects-Learn**
+
+I identified and reported incorrect results in `np.strings.strip()`, `lstrip()`, and `rstrip()` for StringDType arrays when the `chars` argument contains a multibyte Unicode character followed by an ASCII character. A minimal reproducer was:
+
+```python
+import numpy as np
+
+a = np.array(["a"], dtype="T")
+print(np.strings.strip(a, "éa").tolist())
+# Reported result: ['a']; expected: ['']
+```
+
+My report:
+
+- demonstrated that changing the order of the same characters in `chars` changed the result, contrary to Python string semantics;
+- reproduced the behavior across all three stripping operations, with two-, three-, and four-byte Unicode characters;
+- compared StringDType results with Python's built-in methods and fixed-width Unicode controls;
+- traced the likely cause to a byte-oriented search bounded by Unicode code-point count instead of UTF-8 byte length;
+- supplied regression examples and explained the potential impact on multilingual text normalization.
+
+**Outcome:** Merged PR #33133 corrected the search bound to use byte length and closed issue #33125. The PR explicitly acknowledges my diagnosis: “Thank you @sauravsingla for diagnosing!”
+
+**Attribution:** My contribution was **bug discovery, reproduction, and technical diagnosis**. The merged code fix was authored by **@Fun-Projects-Learn**.
+
+---
+
+## SciPy — Distance-Correctness Bug Report and Upstream Resolution
+
+### Issue #26486 — Canberra distance returns negative and asymmetric results for int64 inputs
+
+**Contribution:** Original bug report, minimal reproducer, mathematical correctness checks, root-cause investigation, and suggested fix direction (`@sauravsingla`)  
+**Issue:** [scipy/scipy#26486](https://github.com/scipy/scipy/issues/26486) — closed as completed **October 25, 2026**  
+**Upstream fix:** [scipy/scipy PR #26492](https://github.com/scipy/scipy/pull/26492) — merged **October 25, 2026**, authored by **@kaushikgunasekaren**
+
+I identified and reported an integer-overflow failure in `scipy.spatial.distance.canberra()` at the minimum signed 64-bit integer:
+
+```python
+import numpy as np
+from scipy.spatial.distance import canberra
+
+u = np.array([np.iinfo(np.int64).min], dtype=np.int64)
+v = np.array([0], dtype=np.int64)
+print(canberra(u, v), canberra(v, u))
+# Reported result: -1.0 1.0; expected: 1.0 1.0
+```
+
+My report:
+
+- demonstrated violations of non-negativity and symmetry, two fundamental properties of Canberra distance;
+- compared both argument orders with the correct result from `cdist(..., metric="canberra")` and explicitly converted floating-point inputs;
+- traced the failure to asymmetric dtype handling: the first input retained its integer dtype while the second was converted to `float64`;
+- explained how taking the absolute value of the minimum signed int64 overflowed and produced a negative denominator;
+- recommended consistent input conversion and regression tests covering both argument orders.
+
+**Outcome:** Merged PR #26492 converted the first input to `float64`, matching the existing handling of the second input, and added a regression test for both argument orders at the int64 limit. The merge closed issue #26486 as completed.
+
+**Attribution:** My contribution was **bug discovery, reproduction, and root-cause analysis**. The merged code fix was authored by **@kaushikgunasekaren**.
+
+---
+
 ## Technical Context
 
 ### Edge betweenness centrality
@@ -149,6 +215,8 @@ My open-source interests include:
 - production-quality regression testing
 - Python/CUDA interoperability
 - pandas interval handling and numerical precision
+- NumPy Unicode string-processing correctness
+- SciPy distance metrics and integer-overflow analysis
 - reproducible bug reporting and upstream issue triage
 
 ---
@@ -165,6 +233,10 @@ My open-source interests include:
 - [NVIDIA RAPIDS cuGraph](https://github.com/rapidsai/cugraph)
 - [pandas issue #71288 — Large-integer interval precision](https://github.com/pandas-dev/pandas/issues/71288)
 - [Merged pandas PR #71457 — Integer-precision fix (authored by @brenobarreto)](https://github.com/pandas-dev/pandas/pull/71457)
+- [NumPy issue #33125 — StringDType Unicode stripping](https://github.com/numpy/numpy/issues/33125)
+- [Merged NumPy PR #33133 — UTF-8 search-bound fix (authored by @Fun-Projects-Learn)](https://github.com/numpy/numpy/pull/33133)
+- [SciPy issue #26486 — Negative and asymmetric Canberra distance](https://github.com/scipy/scipy/issues/26486)
+- [Merged SciPy PR #26492 — Canberra dtype fix (authored by @kaushikgunasekaren)](https://github.com/scipy/scipy/pull/26492)
 
 ---
 
