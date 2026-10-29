@@ -83,7 +83,7 @@ The resulting upstream implementation spanned **29 commits across PRs #5644 and 
 
 **Contribution:** Original bug report, reproducible example, root-cause investigation, expected behavior, and suggested fix direction (`@sauravsingla`)  
 **Issue:** [pandas-dev/pandas#71288](https://github.com/pandas-dev/pandas/issues/71288) — opened **October 18, 2026**; closed as completed **October 23, 2026**  
-**Upstream fix:** [pandas-dev/pandas PR #71457](https://github.com/pandas-dev/pandas/pull/71457) — merged **October 23, 2026**, authored by **@brenobarreto**
+**Upstream fix:** [pandas-dev/pandas PR #71457](https://github.com/pandas-dev/pandas/pull/71457) — merged **October 23, 2026**
 
 I identified and reported an integer-precision failure in `pd.interval_range()` near and above the `2**53` boundary, where floating-point arithmetic cannot reliably represent consecutive integer values. The reproducer was:
 
@@ -104,7 +104,7 @@ The reported result was **three zero-width (empty) intervals**, rather than **fo
 
 **Outcome:** The independently authored and merged PR #71457 updated integer-based interval generation to use exact integer arithmetic where applicable, including precise break-count calculation, while retaining the float path where necessary. It also added tests and a release-note entry. The merge closed issue #71288 as completed.
 
-**Attribution:** My upstream contribution here was **bug discovery, documentation, reproduction, and technical diagnosis**. I did **not** author the merged pandas code fix; PR #71457 was authored by **@brenobarreto**.
+**Attribution:** My upstream contribution here was **bug discovery, documentation, reproduction, and technical diagnosis**. The code fix was implemented upstream by another contributor.
 
 ---
 
@@ -114,7 +114,7 @@ The reported result was **three zero-width (empty) intervals**, rather than **fo
 
 **Contribution:** Original bug report, reproducible examples, comparison with Python string semantics, and root-cause investigation (`@sauravsingla`)  
 **Issue:** [numpy/numpy#33125](https://github.com/numpy/numpy/issues/33125) — closed as completed **October 23, 2026 (UTC)**  
-**Upstream fix:** [numpy/numpy PR #33133](https://github.com/numpy/numpy/pull/33133) — merged **October 23, 2026 (UTC)**, authored by **@Fun-Projects-Learn**
+**Upstream fix:** [numpy/numpy PR #33133](https://github.com/numpy/numpy/pull/33133) — merged **October 23, 2026 (UTC)**
 
 I identified and reported incorrect results in `np.strings.strip()`, `lstrip()`, and `rstrip()` for StringDType arrays when the `chars` argument contains a multibyte Unicode character followed by an ASCII character. A minimal reproducer was:
 
@@ -136,7 +136,7 @@ My report:
 
 **Outcome:** Merged PR #33133 corrected the search bound to use byte length and closed issue #33125. The PR explicitly acknowledges my diagnosis: “Thank you @sauravsingla for diagnosing!”
 
-**Attribution:** My contribution was **bug discovery, reproduction, and technical diagnosis**. The merged code fix was authored by **@Fun-Projects-Learn**.
+**Attribution:** My contribution was **bug discovery, reproduction, and technical diagnosis**. The code fix was implemented upstream by another contributor.
 
 ---
 
@@ -146,7 +146,7 @@ My report:
 
 **Contribution:** Original bug report, minimal reproducer, mathematical correctness checks, root-cause investigation, and suggested fix direction (`@sauravsingla`)  
 **Issue:** [scipy/scipy#26486](https://github.com/scipy/scipy/issues/26486) — closed as completed **October 25, 2026**  
-**Upstream fix:** [scipy/scipy PR #26492](https://github.com/scipy/scipy/pull/26492) — merged **October 25, 2026**, authored by **@kaushikgunasekaren**
+**Upstream fix:** [scipy/scipy PR #26492](https://github.com/scipy/scipy/pull/26492) — merged **October 25, 2026**
 
 I identified and reported an integer-overflow failure in `scipy.spatial.distance.canberra()` at the minimum signed 64-bit integer:
 
@@ -170,7 +170,7 @@ My report:
 
 **Outcome:** Merged PR #26492 converted the first input to `float64`, matching the existing handling of the second input, and added a regression test for both argument orders at the int64 limit. The merge closed issue #26486 as completed.
 
-**Attribution:** My contribution was **bug discovery, reproduction, and root-cause analysis**. The merged code fix was authored by **@kaushikgunasekaren**.
+**Attribution:** My contribution was **bug discovery, reproduction, and root-cause analysis**. The code fix was implemented upstream by another contributor.
 
 ---
 
@@ -232,11 +232,11 @@ My open-source interests include:
 - [Merged cuGraph PR #5669 — C API for simple_cycles](https://github.com/rapidsai/cugraph/pull/5669)
 - [NVIDIA RAPIDS cuGraph](https://github.com/rapidsai/cugraph)
 - [pandas issue #71288 — Large-integer interval precision](https://github.com/pandas-dev/pandas/issues/71288)
-- [Merged pandas PR #71457 — Integer-precision fix (authored by @brenobarreto)](https://github.com/pandas-dev/pandas/pull/71457)
+- [Merged pandas PR #71457 — Integer-precision fix](https://github.com/pandas-dev/pandas/pull/71457)
 - [NumPy issue #33125 — StringDType Unicode stripping](https://github.com/numpy/numpy/issues/33125)
-- [Merged NumPy PR #33133 — UTF-8 search-bound fix (authored by @Fun-Projects-Learn)](https://github.com/numpy/numpy/pull/33133)
+- [Merged NumPy PR #33133 — UTF-8 search-bound fix](https://github.com/numpy/numpy/pull/33133)
 - [SciPy issue #26486 — Negative and asymmetric Canberra distance](https://github.com/scipy/scipy/issues/26486)
-- [Merged SciPy PR #26492 — Canberra dtype fix (authored by @kaushikgunasekaren)](https://github.com/scipy/scipy/pull/26492)
+- [Merged SciPy PR #26492 — Canberra dtype fix](https://github.com/scipy/scipy/pull/26492)
 
 ---
 
