@@ -14,7 +14,6 @@ This page highlights selected peer-reviewed papers, vision-track research, and i
 
 **Status:** Accepted for the ICDM 2026 BlueSky Track; presentation scheduled (not yet listed as a published proceedings paper)  
 **Paper ID:** S32227  
-**Authors:** Shankara Ramasubramanian A S, Subbareddy Batreddy, Giridhar Pamisetty, Ch. Sobhan Babu, Mohit Agrawal, and **Saurav Singla**  
 **Official conference evidence:** [ICDM 2026 BlueSky Forum — accepted paper and presentation schedule](https://icdm2026.neu.edu.cn/BlueSkyForum/list.htm)  
 **Presentation:** Saturday, 14 November 2026 · 14:59–15:05 · Room: Madrid  
 **Peer-review context:** The BlueSky Track selected 20 papers from 40 submissions (50% track acceptance rate), with each submission evaluated by at least three reviewers.
