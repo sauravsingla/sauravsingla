@@ -2,7 +2,7 @@
 
 # Saurav Singla — Selected Research Highlights, 2025–2026
 
-This page highlights selected peer-reviewed papers, vision-track research, and industry research spanning agentic data mining, billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
+This page highlights selected peer-reviewed papers, applied-track and vision-track research, and industry research spanning agentic data mining, robust classification, billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
 
 ---
 
@@ -21,6 +21,21 @@ This page highlights selected peer-reviewed papers, vision-track research, and i
 This vision-track paper presents a research agenda for **sample-frame-aware data-mining agents**—highlighting why autonomous data-analysis systems should recognize the boundaries of their observed samples and the limits of what they can infer. It places sample coverage, uncertainty awareness, and trustworthy agentic data mining at the center of a forward-looking research direction.
 
 **Research areas:** Agentic AI · Data Mining Agents · Sample-Frame Awareness · Data Representativeness · Uncertainty Awareness · Trustworthy AI
+
+---
+
+### Progressive Loss Transition Ensemble for Noisy Imbalanced Learning
+
+**IEEE International Conference on Data Mining (IEEE ICDM 2026) — Applied Track**
+
+**Status:** Accepted to the IEEE ICDM 2026 Applied Track (confirmed by conference correspondence; a public paper-specific acceptance listing has not yet been located)  
+**Paper ID:** DM2038  
+**Official conference information:** [ICDM 2026 Applied Track](https://icdm2026.neu.edu.cn/CallforAppliedTrack/list.htm)  
+**Conference programme:** [ICDM 2026 detailed sessions](https://icdm2026.neu.edu.cn/DetailedSessions/list.htm) (presentation date, time and session not yet publicly confirmed)
+
+This applied-track paper addresses **learning from noisy and imbalanced data** using a progressive loss-transition ensemble approach. The research topic is relevant to robust classification under imperfect labels and uneven class distributions, including challenges often encountered in real-world anomaly and fraud-detection applications. A public abstract and final experimental results are not yet linked here.
+
+**Research areas:** Machine Learning · Noisy Labels · Imbalanced Learning · Ensemble Learning · Robust Classification · Applied Data Mining
 
 ---
 
