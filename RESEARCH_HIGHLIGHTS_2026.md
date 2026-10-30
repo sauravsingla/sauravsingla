@@ -15,7 +15,6 @@ This page highlights selected peer-reviewed papers, applied-track and vision-tra
 **Status:** Accepted for the ICDM 2026 BlueSky Track; presentation scheduled (not yet listed as a published proceedings paper)  
 **Paper ID:** S32227  
 **Official conference evidence:** [ICDM 2026 BlueSky Forum — accepted paper and presentation schedule](https://icdm2026.neu.edu.cn/BlueSkyForum/list.htm)  
-**Presentation:** Saturday, 14 November 2026 · 14:59–15:05 · Room: Madrid  
 **Peer-review context:** The BlueSky Track selected 20 papers from 40 submissions (50% track acceptance rate), with each submission evaluated by at least three reviewers.
 
 This vision-track paper presents a research agenda for **sample-frame-aware data-mining agents**—highlighting why autonomous data-analysis systems should recognize the boundaries of their observed samples and the limits of what they can infer. It places sample coverage, uncertainty awareness, and trustworthy agentic data mining at the center of a forward-looking research direction.
