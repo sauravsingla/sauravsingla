@@ -2,11 +2,28 @@
 
 # Saurav Singla — Selected Research Highlights, 2025–2026
 
-This page highlights selected peer-reviewed publications and industry research spanning billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
+This page highlights selected peer-reviewed papers, vision-track research, and industry research spanning agentic data mining, billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
 
 ---
 
 ## 2026 Publications & Industry Research
+
+### Knowing What They Don't Know: An Agenda for Sample-Frame-Aware Data Mining Agents
+
+**IEEE International Conference on Data Mining (IEEE ICDM 2026) — BlueSky Track (Vision Track)**
+
+**Status:** Accepted for the ICDM 2026 BlueSky Track; presentation scheduled (not yet listed as a published proceedings paper)  
+**Paper ID:** S32227  
+**Authors:** Shankara Ramasubramanian A S, Subbareddy Batreddy, Giridhar Pamisetty, Ch. Sobhan Babu, Mohit Agrawal, and **Saurav Singla**  
+**Official conference evidence:** [ICDM 2026 BlueSky Forum — accepted paper and presentation schedule](https://icdm2026.neu.edu.cn/BlueSkyForum/list.htm)  
+**Presentation:** Saturday, 14 November 2026 · 14:59–15:05 · Room: Madrid  
+**Peer-review context:** The BlueSky Track selected 20 papers from 40 submissions (50% track acceptance rate), with each submission evaluated by at least three reviewers.
+
+This vision-track paper presents a research agenda for **sample-frame-aware data-mining agents**—highlighting why autonomous data-analysis systems should recognize the boundaries of their observed samples and the limits of what they can infer. It places sample coverage, uncertainty awareness, and trustworthy agentic data mining at the center of a forward-looking research direction.
+
+**Research areas:** Agentic AI · Data Mining Agents · Sample-Frame Awareness · Data Representativeness · Uncertainty Awareness · Trustworthy AI
+
+---
 
 ### GPU-Accelerated Processing for UPI-Scale Data: A High-Speed and Scalable Computing Framework for Large-Scale Analytics
 
@@ -88,7 +105,7 @@ This work presents a scalable framework for temporal graph motif mining over **l
 
 ## Research Context
 
-Together, these publications and industry research outputs reflect an applied research programme spanning temporal graph intelligence, scalable data systems, GPU-accelerated analytics, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
+Together, these publications, vision-track contributions and industry research outputs reflect research spanning trustworthy agentic data mining, sample-frame awareness, temporal graph intelligence, scalable data systems, GPU-accelerated analytics, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
 
 For additional publications and research profiles, visit:
 
