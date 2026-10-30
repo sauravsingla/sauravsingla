@@ -30,8 +30,6 @@ This vision-track paper presents a research agenda for **sample-frame-aware data
 
 **Status:** Accepted to the IEEE ICDM 2026 Applied Track (confirmed by conference correspondence; a public paper-specific acceptance listing has not yet been located)  
 **Paper ID:** DM2038  
-**Official conference information:** [ICDM 2026 Applied Track](https://icdm2026.neu.edu.cn/CallforAppliedTrack/list.htm)  
-**Conference programme:** [ICDM 2026 detailed sessions](https://icdm2026.neu.edu.cn/DetailedSessions/list.htm) (presentation date, time and session not yet publicly confirmed)
 
 This applied-track paper addresses **learning from noisy and imbalanced data** using a progressive loss-transition ensemble approach. The research topic is relevant to robust classification under imperfect labels and uneven class distributions, including challenges often encountered in real-world anomaly and fraud-detection applications. A public abstract and final experimental results are not yet linked here.
 
