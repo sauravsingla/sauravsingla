@@ -4,7 +4,7 @@ Selected scholarly service across data science, artificial intelligence, machine
 
 ## Program Committee
 
-- **IEEE International Conference on Big Data (IEEE BigData)**
+- **IEEE International Conference on Big Data (IEEE BigData)** — [2026 Program Committee](https://bigdataieee.org/BigData2026/organization/program-committee/)
 - **IEEE BigData — Industry & Government Program**
 - **IEEE BigData High School Symposium**
 - **IEEE BigData — Machine Learning on Big Data (MLBD) Special Session**
