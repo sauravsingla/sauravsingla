@@ -16,7 +16,7 @@ Selected scholarly service across data science, artificial intelligence, machine
 - **International Joint Conference on Neural Networks (IJCNN)**
 - **IEEE International Conference on AI Engineering and Innovations (AIEI)**
 - **IEEE International Conference on Microelectronics, Automation, Computing and Communications Systems (IEEE ICMACC)**
-- **NeurIPS Workshop AI and the Self**
+- **NeurIPS 2026 — [AI and the Self Workshop](https://aintheself.github.io/)** — Peer Reviewer; Certificate of Reviewing issued in November 2026.
 - **NeurIPS Workshop JUDGe**
 - **NeurIPS Workshop VLM4RWD**
 - **NeurIPS Workshop Verify-Agents**
