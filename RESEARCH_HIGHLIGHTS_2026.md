@@ -2,7 +2,7 @@
 
 # Saurav Singla — Selected Research Highlights, 2025–2026
 
-This page highlights selected peer-reviewed papers, applied-track and vision-track research, and industry research spanning agentic data mining, robust classification, billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
+This page highlights selected peer-reviewed papers, applied-track and vision-track research, and industry research spanning agentic data mining, LLM-driven feature engineering, robust classification, billion-scale financial data systems, temporal graph analytics, fraud detection, anomaly detection and high-performance computing for digital-payment ecosystems.
 
 ---
 
@@ -20,6 +20,22 @@ This page highlights selected peer-reviewed papers, applied-track and vision-tra
 This accepted research contribution addresses the evaluation of **synthetic benchmarks for real-time payment workloads**, connecting workload benchmarking and representativeness with the performance assessment of digital-payment systems. Detailed methods and results can be linked once the paper is publicly available.
 
 **Research areas:** Synthetic Benchmarking · Real-Time Payment Systems · Workload Evaluation · Financial Computing · High-Performance Computing
+
+---
+
+### PruneGen: LLM-Driven Feature Engineering through Iterative Pruning and Generation
+
+**IEEE International Conference on Big Data (IEEE BigData 2026) — Industry & Government Program (Poster Paper)**
+
+**Status:** Accepted as a poster paper on 24 October 2026 (camera-ready submission and proceedings publication pending)  
+**Paper ID:** N257  
+**Acceptance evidence:** Conference acceptance notification sent to the authors on 24 October 2026; camera-ready deadline clarified by conference correspondence on 1 November 2026  
+**Planned publication:** Three-page poster paper in the IEEE BigData 2026 main conference proceedings, subject to the conference's submission and registration requirements  
+**Official conference:** [IEEE BigData 2026](https://bigdataieee.org/BigData2026/)  
+
+PruneGen introduces an **LLM-driven feature-engineering pipeline** that can prune existing features, generate new features, or combine both approaches. It includes checks for generated feature-transformation code and explanatory rationales, and evaluates the approaches on public datasets against conventional feature-engineering baselines. The work explores how iterative feature selection and generation can make machine-learning feature pipelines more manageable and effective.
+
+**Research areas:** Large Language Models · Automated Feature Engineering · Feature Selection · Feature Generation · Interpretable Machine Learning · Applied AI
 
 ---
 
@@ -130,7 +146,7 @@ This work presents a scalable framework for temporal graph motif mining over **l
 
 ## Research Context
 
-Together, these publications, vision-track contributions and industry research outputs reflect research spanning trustworthy agentic data mining, sample-frame awareness, synthetic benchmarking for real-time payments, temporal graph intelligence, scalable data systems, GPU-accelerated analytics, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
+Together, these publications, vision-track contributions and industry research outputs reflect research spanning trustworthy agentic data mining, sample-frame awareness, LLM-driven feature engineering, synthetic benchmarking for real-time payments, temporal graph intelligence, scalable data systems, GPU-accelerated analytics, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
 
 For additional publications and research profiles, visit:
 
