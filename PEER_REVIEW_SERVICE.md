@@ -18,7 +18,7 @@ Selected scholarly service across data science, artificial intelligence, machine
 - **IEEE International Conference on Microelectronics, Automation, Computing and Communications Systems (IEEE ICMACC)**
 - **NeurIPS 2026 — [AI and the Self Workshop](https://aintheself.github.io/)** — Peer Reviewer; [Certificate of Reviewing (PDF)](./certificates/NeurIPS_2026_AI_and_the_Self_Reviewer_Certificate_Saurav_Singla.pdf) (issued November 2026).
 - **NeurIPS Workshop JUDGe**
-- **NeurIPS Workshop VLM4RWD**
+- **NeurIPS 2026 — VLM4RWD Workshop** — Peer Reviewer; [Certificate of Appreciation (PDF)](./certificates/NeurIPS_2026_VLM4RWD_Reviewer_Certificate_Saurav_Singla.pdf) (issued November 4, 2026).
 - **NeurIPS Workshop Verify-Agents**
 
 ## Standards & Working Groups
