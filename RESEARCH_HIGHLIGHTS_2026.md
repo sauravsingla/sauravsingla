@@ -8,6 +8,21 @@ This page highlights selected peer-reviewed papers, applied-track and vision-tra
 
 ## 2026 Publications & Industry Research
 
+### Evaluating Synthetic Benchmarks for Real-Time Payment Workloads
+
+**IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC 2026) — Student Research Symposium (SRS) Track**
+
+**Status:** Accepted to the HiPC 2026 SRS Track on 4 November 2026 (camera-ready submission and in-person presentation pending; not yet published)  
+**Submission ID:** srs210s1  
+**Planned proceedings:** HiPC Workshop proceedings in IEEE Xplore, subject to completion of the conference's camera-ready and presentation requirements  
+**Official author instructions:** [HiPC 2026 Author Resources](https://www.hipc.org/author-resources/)  
+
+This accepted research contribution addresses the evaluation of **synthetic benchmarks for real-time payment workloads**, connecting workload benchmarking and representativeness with the performance assessment of digital-payment systems. Detailed methods and results can be linked once the paper is publicly available.
+
+**Research areas:** Synthetic Benchmarking · Real-Time Payment Systems · Workload Evaluation · Financial Computing · High-Performance Computing
+
+---
+
 ### Knowing What They Don't Know: An Agenda for Sample-Frame-Aware Data Mining Agents
 
 **IEEE International Conference on Data Mining (IEEE ICDM 2026) — BlueSky Track (Vision Track)**
@@ -115,7 +130,7 @@ This work presents a scalable framework for temporal graph motif mining over **l
 
 ## Research Context
 
-Together, these publications, vision-track contributions and industry research outputs reflect research spanning trustworthy agentic data mining, sample-frame awareness, temporal graph intelligence, scalable data systems, GPU-accelerated analytics, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
+Together, these publications, vision-track contributions and industry research outputs reflect research spanning trustworthy agentic data mining, sample-frame awareness, synthetic benchmarking for real-time payments, temporal graph intelligence, scalable data systems, GPU-accelerated analytics, adaptive fraud detection, financial-crime analytics and production AI for large digital ecosystems.
 
 For additional publications and research profiles, visit:
 
