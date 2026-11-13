@@ -1,8 +1,8 @@
 [← Back to Saurav Singla’s main GitHub profile](./README.md)
 
-# Open-Source Contributions — NVIDIA RAPIDS cuGraph, pandas, NumPy & SciPy
+# Open-Source Contributions — NVIDIA RAPIDS cuGraph, cuDF, pandas, NumPy & SciPy
 
-This page highlights my upstream open-source work across **NVIDIA RAPIDS cuGraph**, **pandas**, **NumPy**, and **SciPy**. In cuGraph, this includes authored and merged graph-algorithm fixes, regression coverage, and production-driven GPU cycle-enumeration requirements and API design. In pandas, NumPy, and SciPy, I reported and investigated reproducible correctness bugs that were subsequently resolved through fixes authored by other contributors. Code authorship, issue reporting, and requirements contributions are distinguished explicitly below.
+This page highlights my upstream open-source work across **NVIDIA RAPIDS cuGraph**, **NVIDIA RAPIDS cuDF**, **pandas**, **NumPy**, and **SciPy**. In cuGraph, this includes authored and merged graph-algorithm fixes, regression coverage, and production-driven GPU cycle-enumeration requirements and API design. In cuDF, I reported and diagnosed an iterable-handling correctness bug that was subsequently closed as completed. In pandas, NumPy, and SciPy, I reported and investigated reproducible correctness bugs that were subsequently resolved through fixes authored by other contributors. Code authorship, issue reporting, and requirements contributions are distinguished explicitly below.
 
 ---
 
@@ -74,6 +74,41 @@ My contribution to the upstream design and requirements process included:
 This was a **requirements, workload-validation, and API-design contribution rather than authorship of the core implementation**. The cuGraph team subsequently implemented the functionality upstream: PR #5644 added single-GPU and multi-GPU C++ `simple_cycles` support, and PR #5669 added the C API and pylibcugraph exposure with `length_bound` and optional `seed_vertices`. PR #5669 closed issue #2462 after merging on **October 5, 2026**.
 
 The resulting upstream implementation spanned **29 commits across PRs #5644 and #5669**, with approximately **3,982 lines added and 195 lines removed (4,177 total line changes)** across the C++, C API, pylibcugraph, and test layers.
+
+---
+
+## NVIDIA RAPIDS cuDF — DataFrame Correctness Bug Report and Upstream Resolution
+
+### Issue #24818 — `cudf.concat` fails for generators of empty DataFrames while list inputs succeed
+
+**Contribution:** Original bug report, runtime reproduction, root-cause investigation, and proposed fix direction (`@sauravsingla`)  
+**Issue:** [NVIDIA/cudf#24818](https://github.com/NVIDIA/cudf/issues/24818) — opened **October 24, 2026**; closed as completed **November 12, 2026 (UTC)**  
+**Affected version:** cuDF 26.10.02
+
+I identified and reported inconsistent behavior in `cudf.concat()` when the same empty DataFrames were supplied through different iterable types. Lists and tuples returned an empty DataFrame with shape `(0, 0)`, whereas generators, list iterators, and `map` raised `ValueError: All objects passed were None`, even though neither object was `None`.
+
+A minimal reproducer from my report:
+
+```python
+import cudf
+
+frames = [cudf.DataFrame(), cudf.DataFrame()]
+print(cudf.concat(frames, ignore_index=True).shape)  # (0, 0)
+cudf.concat((df for df in frames), ignore_index=True)
+# Reported: ValueError: All objects passed were None
+```
+
+My contribution included:
+
+- reproducing the failure against the installed cuDF 26.10.02 package, without mocks or extracted functions;
+- comparing lists, tuples, generators, list iterators, and `map` with identical DataFrame inputs;
+- identifying the apparent root cause in [`python/cudf/cudf/core/reshape.py`](https://github.com/NVIDIA/cudf/blob/v26.10.02/python/cudf/cudf/core/reshape.py#L324): metadata processing materializes `list(objs)`, exhausting single-use iterators, before passing the original iterable to `_concat_impl()`;
+- proposing reuse of the materialized list for non-dictionary inputs while preserving dictionary keys and handling;
+- documenting the expected behavior and the testing environment, including its limitations.
+
+**Outcome:** GitHub records issue #24818 as closed with reason **completed**. This is an upstream issue-reporting and technical-diagnosis contribution; no merged implementation or code authorship is claimed here.
+
+**Validation scope:** The empty-DataFrame reproducer ran against the published cuDF CUDA 12 package. The environment had no NVIDIA GPU or host driver, so the report did not claim runtime validation of non-empty DataFrames.
 
 ---
 
@@ -208,12 +243,13 @@ My open-source interests include:
 
 - Graph AI and graph analytics
 - GPU-accelerated data science
-- NVIDIA RAPIDS and cuGraph
+- NVIDIA RAPIDS, cuGraph, and cuDF
 - scalable graph algorithms
 - graph centrality and neighborhood algorithms
 - bounded cycle enumeration and graph traversal
 - production-quality regression testing
 - Python/CUDA interoperability
+- cuDF DataFrame concatenation and iterator correctness
 - pandas interval handling and numerical precision
 - NumPy Unicode string-processing correctness
 - SciPy distance metrics and integer-overflow analysis
@@ -231,6 +267,7 @@ My open-source interests include:
 - [Merged cuGraph PR #5644 — C++ simple_cycles](https://github.com/rapidsai/cugraph/pull/5644)
 - [Merged cuGraph PR #5669 — C API for simple_cycles](https://github.com/rapidsai/cugraph/pull/5669)
 - [NVIDIA RAPIDS cuGraph](https://github.com/rapidsai/cugraph)
+- [NVIDIA cuDF issue #24818 — DataFrame concatenation with generators](https://github.com/NVIDIA/cudf/issues/24818)
 - [pandas issue #71288 — Large-integer interval precision](https://github.com/pandas-dev/pandas/issues/71288)
 - [Merged pandas PR #71457 — Integer-precision fix](https://github.com/pandas-dev/pandas/pull/71457)
 - [NumPy issue #33125 — StringDType Unicode stripping](https://github.com/numpy/numpy/issues/33125)
