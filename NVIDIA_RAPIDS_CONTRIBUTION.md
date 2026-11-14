@@ -143,6 +143,8 @@ The reported result was **three zero-width (empty) intervals**, rather than **fo
 
 **Attribution:** My upstream contribution here was **bug discovery, documentation, reproduction, and technical diagnosis**. The code fix was implemented upstream by another contributor.
 
+**Official development release-note recognition:** The fix is documented in the [pandas 3.2.0 development release notes — Interval bug fixes](https://pandas.pydata.org/docs/dev/whatsnew/v3.2.0.html#interval), which explicitly reference my original issue **GH #71288** and describe incorrect interval counts, empty intervals, and incorrect spacing caused by floating-point precision loss for large integer endpoints. This independently documents the upstream resolution of my bug report. As of November 14, 2026, these are development release notes, not confirmation of a stable pandas 3.2.0 release.
+
 ---
 
 ## NumPy — Unicode String-Processing Bug Report and Upstream Resolution
