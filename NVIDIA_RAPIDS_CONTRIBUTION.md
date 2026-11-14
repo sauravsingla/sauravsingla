@@ -36,6 +36,8 @@ The merged pull request contained **5 commits**, changed **4 files**, and result
 **Pull request:** [rapidsai/cugraph#5584](https://github.com/rapidsai/cugraph/pull/5584)  
 **Related issue:** [rapidsai/cugraph#4191](https://github.com/rapidsai/cugraph/issues/4191)
 
+**Official release recognition:** This contribution is explicitly credited to `@sauravsingla` in the **Improvements** section of [NVIDIA RAPIDS cuGraph v26.10.00 release notes](https://github.com/rapidsai/cugraph/releases/tag/v26.10.00), released **October 8, 2026**. The release notes list PR #5584 for the multi-seed `ego_graph` offset fix, confirming its inclusion in an official upstream software release.
+
 The lower-level `pylibcugraph.ego_graph` API already returned subgraph offsets for multiple seed vertices, but the higher-level Python wrapper discarded those offsets. This created ambiguous output when multiple seed vertices were supplied.
 
 My contribution addressed this by:
